@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <!-- style -->
+    <link rel="stylesheet" href="style/main.css">
+
+    <!-- Keywords -->
+    <meta name="keywords" content="distribuidora, mayorista, almacen, fiambres, quesos, krachitos">
+    <meta name="description" content="distribuidora de productos alimenticios al por mayor para pequeños comercios">
+
+    <!-- Favicon -->
+    <link rel="icon" href="asset/logo.png">
+
+    <title>La Colonial</title>
+</head>
+
+<body>
+    <nav>
+        <!-- Logo y title -->
+        <div class="logo">
+            <div id="logo">
+                <img src="asset/logo.png" width="60px" alt="Logo la Colonial">
+            </div>
+            <h1>La Colonial</h1>
+        </div>
+
+        <!-- navegación Celular -->
+        <img id="menu" src="asset/menu.png" width="40px" alt="menu">
+        <div id="menuCel" class="menuNoShow">
+            <p id="clienteCel">Clientes</p>
+            <p>Contacto</p>
+            <p id="carritoCel">Carrito</p>
+        </div>
+
+        <!-- Navegacion PC -->
+        <div class="navega">
+            <div id="clientes"></div>
+            <div id="contacto"></div>
+            <div id="carrito"></div>
+        </div>
+
+        <!-- Modal del carrito -->
+        <div id="modalCarrito" class="modalCarrito">
+            <div id="productosCarrito"></div>
+            <div>El Total es:<span id="sumaDelCarrito"></span></div>
+            <div>
+                <p id="enviarPedido">Enviar</p>
+                <p id="borrarPedido">Borrar</p>
+                <p id="cerrarCarrito">Cerrar</p>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Carrusel -->
+    <section class="carrusel">
+        <div class="carrusel-interno">
+            <div id="principal">
+                <div id="progress-bar-container">
+                    <div id="progress-bar"></div>
+                </div>
+        
+                <div id="slideshow">
+                    <img src="" alt="" id="img1" class="imagenes">
+                    <img src="" alt="" id="img2" class="imagenes">
+                </div>
+        
+                <div id="indicadores"></div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Iconos de familia de artículos -->
+    <header class="head">
+        <div>
+            <img id="snacks" src="asset/snack.png" alt="sanack">
+            <img id="almacenes" src="asset/donacion-de-alimentos.png" alt="almacen">
+            <img id="fiambre" src="asset/jamon.png" alt="fiambres">
+            <img id="queso" src="asset/queso.png" alt="queso">
+            <img id="lacteo" src="asset/productos-lacteos.png" alt="lacteos">
+        </div>
+
+        <div>
+            <img id="conserva" src="asset/olivos.png" alt="conservas">
+            <img id="dulce" src="asset/tarro-de-albanil.png" alt="mermelada">
+            <img id="lata" src="asset/sardinas-enlatadas.png" alt="latas">
+            <img id="perfume" src="asset/desodorante.png" alt="perfumeria">
+            <img id="limpia" src="asset/limpieza.png" alt="limpieza">
+        </div>
+    </header>
+
+
+    <main>
+        <!-- Contenedor en donde van los productos -->
+        <div id="contenedorProductos"></div>
+    </main>
+
+    <!-- Boton que scrollea hacia arriba -->
+    <div class="buttonUp">
+        <img src="asset/upArrow.png" alt="upArrow">
+    </div>
+
+    <!-- ***** Footer ***** -->
+    <footer>
+        <section class="contacto">
+            <div>
+                <h3>Distribuidora La colonial</h3>
+                <p>Cel: +54 9 11 5943-7955</p>
+            </div>
+            <div>
+                <h3>Erika Amarilla</h3>
+                <p>Cel: +54 9 11 3605-7955</p>
+            </div>
+        </section>
+
+        <section class="desarrollo">
+            <h3>Desarrollador web FABIAN PARENTELLI</h3>
+            <p>fabianparentelli007code@gmail.com</p>
+        </section>
+    </footer>
+
+    <!-- toastify -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+    <!-- JavaScript -->
+    <script src="js/carrusel.js"></script>
+    <script src="js/productos.js"></script>
+    <script src="js/main.js"></script>
+    
+</body>
+
+</html>

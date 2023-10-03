@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- style -->
+    <link rel="stylesheet" href="../style/main.css">
+
+    <!-- Keywords -->
+    <meta name="keywords" content="distribuidora, mayorista, almacen, fiambres, quesos, krachitos">
+    <meta name="description" content="distribuidora de productos alimenticios al por mayor para pequeños comercios">
+
+    <!-- Favicon -->
+    <link rel="icon" href="../asset/logo.png">
+
+    <title>La Colonial - Clientes</title>
+</head>
+
+<body>
+    <nav>
+        <!-- Logo y title -->
+        <div class="logo">
+            <div id="logo">
+                <a href="../index.html">
+                    <img src="../asset/logo.png" width="60px" alt="Logo la Colonial">
+                </a>
+            </div>
+            <h1>La Colonial</h1>
+        </div>
+
+        <!-- navegación Celular -->
+        <img id="menu" src="../asset/menu.png" width="40px" alt="menu">
+        <div id="menuCel" class="menuNoShow">
+            <p id="clienteCel">Clientes</p>
+            <p>Contacto</p>
+            <p id="carritoCel">Carrito</p>
+        </div>
+
+        <!-- Navegacion PC -->
+        <div class="navega">
+            <div id="clientes"></div>
+            <div id="contacto"></div>
+            <div id="carrito"></div>
+        </div>
+
+        <!-- Modal del carrito -->
+        <div id="modalCarrito" class="modalCarrito">
+            <div id="productosCarrito"></div>
+            <div>El Total es:<span id="sumaDelCarrito"></span></div>
+            <div>
+                <p id="enviarPedido">Enviar</p>
+                <p id="borrarPedido">Borrar</p>
+                <p id="cerrarCarrito">Cerrar</p>
+            </div>
+        </div>
+    </nav>
+
+    <main class="clientesBody">
+        <section class="losImputs">
+            <form id="formulario">
+                <div>
+                    <div>
+                        <label for="name">Nombre</label>
+                        <input id="name" type="text">
+                    </div>
+                    
+                    <div>    
+                        <label for="pasword">Contraseña</label>
+                        <input id="pasword" type="text">
+                    </div>
+                </div>
+
+                <button>Buscar</button>
+            </form>
+        </section>
+
+        <section class="tablitas">
+            <h2>Estado de cuenta de <samp id="nameCliente">...</samp></h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th class="dia">Día</th>
+                        <th class="accion">Acción</th>
+                        <th class="credito">Credito</th>
+                        <th class="haber">Haber</th>
+                        <th class="saldo">Saldo</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tablas"></tbody>
+            </table>
+
+            <div id="mensaje"></div>
+            <div id="resultado"></div>
+        </section>
+    </main>
+
+    <!-- ***** Footer ***** -->
+    <footer>
+        <section class="contacto">
+            <div>
+                <h3>Distribuidora La colonial</h3>
+                <p>Cel: +54 9 11 5943-7955</p>
+            </div>
+            <div>
+                <h3>Erika Amarilla</h3>
+                <p>Cel: +54 9 11 3605-7955</p>
+            </div>
+        </section>
+        <section class="desarrollo">
+            <h3>Desarrollador Web FABIAN PARENTELLI</h3>
+            <p>fabianparentelli007code@gmail.com</p>
+        </section>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="../js/credito.js"></script>
+    <script src="../js/clientes.js"></script>
+</body>
+
+</html>
