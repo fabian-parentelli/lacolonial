@@ -53,7 +53,7 @@ const productos = [
     { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 604.78, img: "photo/02edulcoranteClasico.png" },
     { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 774, img: "photo/02azucar.png" },
 
-    { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 119.88, img: "photo/02salFinaMarolio.png" },
+    { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 203.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 119.87, img: "photo/02salFinaElDique.png" },
     { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 239.89, img: "photo/02salFinaCelusal.png" },
     { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 179.89, img: "photo/02salGruesaCelusal.png" },
@@ -257,7 +257,7 @@ const productos = [
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
-    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 2290.22, img: "photo/03pernilFox.png" },
+    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 2522.33, img: "photo/03pernilFox.png" },
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
@@ -287,7 +287,7 @@ const productos = [
 
     // Salame Milan
     // { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 4299.47, img: "photo/03salameCalcha.png" },
-    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 4023.36, img: "photo/03salameFox.png" },
+    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 4425.70, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 3939.95, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 3769.96, img: "photo/03salameApetece.png" },
@@ -319,8 +319,8 @@ const productos = [
     { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1523.46, img: "photo/03salchichonLP.png" },
     { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1523.46, img: "photo/03salchichonLJ.png" },
     // Los Calvos
-    { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1817.80, img: "photo/03salchichon42P.png" },
-    { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1817.80, img: "photo/03salchichon42J.png" },
+    { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1999.62, img: "photo/03salchichon42P.png" },
+    { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1999.62, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
     { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
@@ -335,8 +335,8 @@ const productos = [
 
     // Leberwust, pate y picadillo 
     { id: 212, nombre: "LeberWurst Paladini 250gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 635.87, img: "photo/03leberwurst.png" },
-    { id: 213, nombre: "Picadillo Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 187.14, img: "photo/03picadilloSwift.png" },
-    { id: 214, nombre: "Pate Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 187.14, img: "photo/03pateSwift.png" },
+    { id: 213, nombre: "Picadillo Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 207.47, img: "photo/03picadilloSwift.png" },
+    { id: 214, nombre: "Pate Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 207.47, img: "photo/03pateSwift.png" },
 
     // ****************************************************** Quesos ****************************************************** //
 
@@ -688,7 +688,7 @@ const productos = [
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 275.88, img: "photo/10bolsaEsencial.png" },
     { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.89, img: "photo/10bolsaEsencial.png" },
-    { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 563.39, img: "photo/10bolsaEsencial.png" },
+    { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 621.74, img: "photo/10bolsaEsencial.png" },
     { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 1494.90, img: "photo/10bolsaEsencial.png" },
 
     // Lamparas Esencial de Luz
