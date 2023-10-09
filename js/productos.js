@@ -2,11 +2,11 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 480gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 480gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1331.86, img: "photo/01palito800-120-65.png" },
+    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1352.40, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1546.48, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1429.37, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
@@ -106,7 +106,7 @@ const productos = [
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 431.88, img: "photo/02ketchup.png" },
 
     // Cacao, cafe 5Hispanos.
-    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 383.88, img: "photo/02cacao.png" },
+    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 54.85, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02cafeClasico.png" },
@@ -124,9 +124,9 @@ const productos = [
     { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02yerbaChamigo.png" },
     { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02yerbaMarolio.png" },
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaUnion.png" },
-    { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 779.88, img: "photo/02yerbaUnionLiviana.png" },
+    { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 827.86, img: "photo/02yerbaUnionLiviana.png" },
     { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaTaragui.png" },
-    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 935.88, img: "photo/02yerbaMananita.png" },
+    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
     { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 215.84, img: "photo/02harinaCanuela.png" },
@@ -135,7 +135,7 @@ const productos = [
     { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02harinaPizza.png" },
 
     // Pan Rallado y Polenta
-    { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 275.88, img: "photo/02panRallado.png" },
+    { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 287.88, img: "photo/02panRallado.png" },
     { id: 87, nombre: "Polenta Marolio 500gr", medida: 16, familia: "almacen", cantidad: 1, precio: 191.89, img: "photo/02polenta.png" },
     { id: 438, nombre: "Vitina 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02vitina.png" },
 
@@ -189,10 +189,10 @@ const productos = [
     { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 539.88, img: "photo/02arrozMolto.png" },
 
     // Te y Mate cocido ...
-    { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 239.87, img: "photo/02teTaragui.png" },
+    { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02teTaragui.png" },
     { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 191.88, img: "photo/02teMarolio.png" },
     { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02mateCocidoUnion.png" },
-    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 251.88, img: "photo/02mateCocidoMarolio.png" },
+    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 275.88, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
     { id: 123, nombre: "Sopa Verdura Clásica", medida: 1, familia: "almacen", cantidad: 1, precio: 455.9, img: "photo/02sopaVerduraC.png" },
@@ -217,8 +217,8 @@ const productos = [
     { id: 137, nombre: "Vinagre Manzana", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
-    { id: 138, nombre: "Flan Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 239.89, img: "photo/02FlanMaVainilla.png" },
-    { id: 139, nombre: "Flan D. Leche Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 239.89, img: "photo/02flanMaLeche.png" },
+    { id: 138, nombre: "Flan Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 275.88, img: "photo/02FlanMaVainilla.png" },
+    { id: 139, nombre: "Flan D. Leche Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 275.88, img: "photo/02flanMaLeche.png" },
     { id: 150, nombre: "Flan D. Leche Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 191.89, img: "photo/02flanEsLeche.png" },
     { id: 140, nombre: "Flan Vainilla Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 191.89, img: "photo/02flanEsVainilla.png" },
     // Gelatina Marolio
@@ -233,7 +233,7 @@ const productos = [
     { id: 157, nombre: "Postre Esquisita Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02postreVainilla.png" },
     { id: 158, nombre: "Postre Esquisita Chcocolate", medida: 1, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02postreChoco.png" },
     // Bizcochuelo
-    { id: 159, nombre: "Bizcochuelo Marolio Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 767.88, img: "photo/02biscochuelo.png" },
+    { id: 159, nombre: "Bizcochuelo Marolio Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02biscochuelo.png" },
 
     // gelletitas
     { id: 416, nombre: "Tostadas Marolio Light", medida: 1, familia: "almacen", cantidad: 1, precio: 466.08, img: "photo/02tostada.png" },
@@ -341,7 +341,7 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 1930.88, img: "photo/04cremosoPunta.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2011.33, img: "photo/04cremosoPunta.png" },
     // { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 1731.40, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
@@ -412,7 +412,7 @@ const productos = [
 
     // Sachet 90gr
     { id: 254, nombre: "Sachet Verdes .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 252.04, img: "photo/06sachetVerde.png" },
-    { id: 255, nombre: "Sachet Descarozada 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 252.04, img: "photo/06sachetDesc.png" },
+    { id: 255, nombre: "Sachet Descarozada 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 335.88, img: "photo/06sachetDesc.png" },
     { id: 256, nombre: "Sachet Negras .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 252.04, img: "photo/06sachetNegra.png" },
     { id: 257, nombre: "Sachet Morron 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 252.04, img: "photo/06sachetMorron.png" },
 
@@ -492,8 +492,8 @@ const productos = [
     {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
     {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
     // Atun Marolio
-    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoMarolioA.png" },
-    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoMarolioN.png" },
+    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1379.8, img: "photo/08lomitoMarolioA.png" },
+    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1379.8, img: "photo/08lomitoMarolioN.png" },
     { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 755.88, img: "photo/08desmDiqueA.png" },
     // {id: 298, nombre: "Atun Dique Des lomm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 503.88, img: "photo/08desmDiqueN.png"},
     // { id: 402, nombre: "Atun Marbella Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 285.22, img: "photo/08atunMarbella.png" },
@@ -532,23 +532,23 @@ const productos = [
     { id: 318, nombre: "Choclo La Banda Cremoso", medida: 1, familia: "conservas", cantidad: 1, precio: 444.56, img: "photo/08cremosoBanda.png" },
 
     // Salsa Listas
-    { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08salsaPizza.png" },
-    { id: 320, nombre: "Salsa Molto Portugueza", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08salsaPortugueza.png" },
-    { id: 321, nombre: "Salsa Molto Pomarola", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08salsaPomarola.png" },
-    { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08salsaFileto.png" },
+    { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPizza.png" },
+    { id: 320, nombre: "Salsa Molto Portugueza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPortugueza.png" },
+    { id: 321, nombre: "Salsa Molto Pomarola", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPomarola.png" },
+    { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaFileto.png" },
 
     // Tomate
     { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 622.38, img: "photo/08tomateBotella.png" },
     { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 269.88, img: "photo/08tomateMarolio.png" },
     { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 329.88, img: "photo/08tomateMolto.png" },
     // perita
-    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 299.89, img: "photo/08peritaMarolio.png" },
+    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 305.88, img: "photo/08peritaMarolio.png" },
     { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08peritaMolto.png" },
 
     // Frutales
     { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 959.88, img: "photo/08duraznoMarolio.png" },
-    { id: 329, nombre: "Anana Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 2219.88, img: "photo/08ananaMarolio.png" },
-    { id: 330, nombre: "Coctel Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1175.88, img: "photo/08coctelMarolio.png" },
+    { id: 329, nombre: "Anana Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 2279.88, img: "photo/08ananaMarolio.png" },
+    { id: 330, nombre: "Coctel Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1295.88, img: "photo/08coctelMarolio.png" },
 
     // ****************************************************** Perfumeria ****************************************************** //
 
@@ -597,11 +597,11 @@ const productos = [
     { id: 353, nombre: "J. Tocador Rexona Cotton", medida: 1, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09rexonaCotton.png" },
     { id: 354, nombre: "J. Tocador Rexona Orchid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09rexonaOrchid.png" },
     // Patricia Allen
-    { id: 355, nombre: "J. Tocador P.Allen Humectacion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 239.09, img: "photo/09pAllenHumecta.png" },
-    { id: 356, nombre: "J. Tocador P.Allen Tropial", medida: 1, familia: "perfumeria", cantidad: 1, precio: 239.09, img: "photo/09pAllenTropical.png" },
-    { id: 419, nombre: "J. Tocador P.Allen Intensidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 239.09, img: "photo/09pAllenIntensidad.png" },
-    { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 239.09, img: "photo/09pAllenSuavidad.png" },
-    { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 239.09, img: "photo/09pAllenEquilibrio.png" },
+    { id: 355, nombre: "J. Tocador P.Allen Humectacion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenHumecta.png" },
+    { id: 356, nombre: "J. Tocador P.Allen Tropial", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenTropical.png" },
+    { id: 419, nombre: "J. Tocador P.Allen Intensidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenIntensidad.png" },
+    { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenSuavidad.png" },
+    { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenEquilibrio.png" },
     // Plusbelle
     { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusEnergia.png" },
     { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusFrescura.png" },
@@ -665,7 +665,7 @@ const productos = [
     { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 344.88, img: "photo/10alaMatics.png" },
 
     // jabon Pan Ropa
-    { id: 382, nombre: "J. pan Ropa", medida: 1, familia: "limpieza", cantidad: 1, precio: 183.89, img: "photo/10jabonPanRopa.png" },
+    { id: 382, nombre: "J. pan Ropa", medida: 1, familia: "limpieza", cantidad: 1, precio: 195.39, img: "photo/10jabonPanRopa.png" },
 
     // Esponja Esencial
     { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 172.39, img: "photo/10esponjaEsencial.png" },
