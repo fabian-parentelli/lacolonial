@@ -129,7 +129,7 @@ const productos = [
     { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
-    { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 215.84, img: "photo/02harinaCanuela.png" },
+    { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 251.32, img: "photo/02harinaCanuela.png" },
     { id: 83, nombre: "Harina Pueza 0000 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02harina0000.png" },
     { id: 84, nombre: "Harina Leudante 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02harinaLeudante.png" },
     { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02harinaPizza.png" },
@@ -262,7 +262,7 @@ const productos = [
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 1953.77, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 1918.73, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2072.23, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1596.67, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 1376.25, img: "photo/03paletaRiosol.png" },
@@ -326,10 +326,10 @@ const productos = [
     { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
     // {id: 206, nombre: "Queso de credo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
     // {id: 207, nombre: "Queso de credo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 999.43, img: "photo/03quesoCerdo8.png"},
-    { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1224.11, img: "photo/03quesoCerdoSeoc.png" },
+    { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1345.32, img: "photo/03quesoCerdoSeoc.png" },
 
     // Salchichas
-    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 302.92, img: "photo/03salchichaComarca.png" },
+    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 333.22, img: "photo/03salchichaComarca.png" },
     { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 563.11, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
@@ -425,8 +425,8 @@ const productos = [
     // ****************************************************** Dulces ****************************************************** //
 
     // Cayfar Lata
-    { id: 261, nombre: "Lata Batata 5kg", medida: 1, familia: "mermeladas", cantidad: 1, precio: 5356.10, img: "photo/07lataBatata.png" },
-    { id: 262, nombre: "Lata Batata Chocolate", medida: 1, familia: "mermeladas", cantidad: 1, precio: 5356.10, img: "photo/07lataChoco.png" },
+    { id: 261, nombre: "Lata Batata 5kg", medida: 1, familia: "mermeladas", cantidad: 1, precio: 5731.03, img: "photo/07lataBatata.png" },
+    { id: 262, nombre: "Lata Batata Chocolate", medida: 1, familia: "mermeladas", cantidad: 1, precio: 5731.03, img: "photo/07lataChoco.png" },
     { id: 263, nombre: "Lata Membrillo 5kg", medida: 1, familia: "mermeladas", cantidad: 1, precio: 8088.34, img: "photo/07lataMembrillo.png" },
 
     // Cayfar cajon
