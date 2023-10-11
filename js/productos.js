@@ -43,7 +43,7 @@ const productos = [
 
     // Otros
     { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 467.89, img: "photo/01nachosMacritas.png" },
-    { id: 31, nombre: "Papas Pay PeiPo 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1140.58, img: "photo/01payPeipo.png" },
+    { id: 31, nombre: "Papas Pay PeiPo 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2014.72, img: "photo/01payPeipo.png" },
     { id: 398, nombre: "Batata Quento 80gr", medida: 6, familia: "snacks", cantidad: 1, precio: 467.89, img: "photo/01batata.png" },
 
     // ****************************************************** almacen ****************************************************** //
@@ -166,7 +166,7 @@ const productos = [
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
-    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 222.47, img: "photo/02oralita.png" },
+    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 317.15, img: "photo/02oralita.png" },
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 105.12, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
@@ -246,7 +246,7 @@ const productos = [
     // Jamon Cocido
     { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 3450.00, img: "photo/03jamonOctava.png" },
     { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 3091.79, img: "photo/03jamonLuvianka.png" },
-    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2401.07, img: "photo/03jamonSeoc.png" },
+    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2484.14, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
     { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 3265.67, img: "photo/03jamon42.png" },
@@ -261,7 +261,7 @@ const productos = [
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
-    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 1953.77, img: "photo/03paletaComarca.png" },
+    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2311.85, img: "photo/03paletaComarca.png" },
     { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2072.23, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1596.67, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
@@ -538,7 +538,7 @@ const productos = [
     { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaFileto.png" },
 
     // Tomate
-    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 622.38, img: "photo/08tomateBotella.png" },
+    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 623.76, img: "photo/08tomateBotella.png" },
     { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 269.88, img: "photo/08tomateMarolio.png" },
     { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 329.88, img: "photo/08tomateMolto.png" },
     // perita
