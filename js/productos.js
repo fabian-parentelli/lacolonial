@@ -14,7 +14,7 @@ const productos = [
     // 110
     { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 554.37, img: "photo/01papaTradicionalCh.png" },
     { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 554.37, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 307.97, img: "photo/01palito800-120-65.png" },
+    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 387.41, img: "photo/01palito800-120-65.png" },
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 352.19, img: "photo/01mani500-120-65.png" },
 
     // 60 
@@ -95,7 +95,7 @@ const productos = [
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1139.88, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2939.89, img: "photo/02mayoHell.png" },
     // Natura
-    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 256.29, img: "photo/02mayoNatura.png" },
+    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 239.87, img: "photo/02mayoNatura.png" },
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 494.94, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 797.89, img: "photo/02mayoNatura.png" },
     // Savora
@@ -212,7 +212,7 @@ const productos = [
     // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoMono.png"},
 
     // Vinagres
-    { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 197.88, img: "photo/02vinagreA.png" },
+    { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 227.88, img: "photo/02vinagreA.png" },
     { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 269.89, img: "photo/02vinagreA.png" },
     { id: 137, nombre: "Vinagre Manzana", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02vinagreM.png" },
 
@@ -515,7 +515,7 @@ const productos = [
     { id: 307, nombre: "Poroto Alubia La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 446.45, img: "photo/08porotoAlubiaBanda.png" },
 
     // Arvejas y Jardinera
-    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 209.88, img: "photo/08arvejaMarolio.png" },
+    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 239.88, img: "photo/08arvejaMarolio.png" },
     // {id: 309, nombre: "Arvejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 116.53, img: "photo/08arvejaBanda.png"},
     { id: 310, nombre: "Jardinera Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 275.89, img: "photo/08jardineraMarolio.png" },
     // { id: 311, nombre: "Jardinera La Colina", medida: 1, familia: "conservas", cantidad: 1, precio: 179.88, img: "photo/08jardineraColina.png" },
