@@ -2,8 +2,8 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1621.02, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1832.92, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1832.92, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1352.40, img: "photo/01palito800-120-65.png" },
@@ -372,7 +372,7 @@ const productos = [
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 40240.58, img: "photo/04parrillero.png" },
     { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3435.42, img: "photo/04fiambrin.png" },
     { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3758.36, img: "photo/04cheddarSere.png" },
-    { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 539.21, img: "photo/04cheddarTonadita.png" },
+    { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
     // ****************************************************** Lacteos ****************************************************** //
 
