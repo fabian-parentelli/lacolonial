@@ -84,7 +84,7 @@ const productos = [
     // Aceite Pureza y Marolio.
     // { id: 51, nombre: "Aceite Pureza 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02aceitePureza.png" },
     // { id: 52, nombre: "Aceite Pureza 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 1115.88, img: "photo/02aceitePureza.png" },
-    { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 707.89, img: "photo/02aceiteMarolio.png" },
+    { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // {id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 503.87, img: "photo/02aceiteCanuelas.png"},
     {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 452.48, img: "photo/02cocinero.png"},
@@ -111,8 +111,8 @@ const productos = [
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02cafeClasico.png" },
     { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02cafeSuave.png" },
-    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 743.89, img: "photo/02cafeClasico.png" },
-    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 743.89, img: "photo/02cafeSuave.png" },
+    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02cafeClasico.png" },
+    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02cafeSuave.png" },
     // Cafe Marolio
     { id: 73, nombre: "Cafe Marolio 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1259.88, img: "photo/02cafeMarolio.png" },
     { id: 74, nombre: "Cafe Marolio .. 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02cafeMarolio.png" },
@@ -122,17 +122,17 @@ const productos = [
 
     // Yerbas
     { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02yerbaChamigo.png" },
-    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02yerbaMarolio.png" },
+    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02yerbaMarolio.png" },
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 827.86, img: "photo/02yerbaUnionLiviana.png" },
     { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaTaragui.png" },
-    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02yerbaMananita.png" },
+    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 977.88, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
     { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 251.32, img: "photo/02harinaCanuela.png" },
     { id: 83, nombre: "Harina Pueza 0000 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02harina0000.png" },
     { id: 84, nombre: "Harina Leudante 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02harinaLeudante.png" },
-    { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02harinaPizza.png" },
+    { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 407.88, img: "photo/02harinaPizza.png" },
 
     // Pan Rallado y Polenta
     { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 287.88, img: "photo/02panRallado.png" },
@@ -201,15 +201,15 @@ const productos = [
     { id: 126, nombre: "Sopa Zapallo Light", medida: 1, familia: "almacen", cantidad: 1, precio: 455.9, img: "photo/02SopaZapalloL.png" },
 
     // Fideos Marolio
-    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoTira.png" },
-    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoDado.png" },
-    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoAveM.png"},
-    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoCodi.png"},
-    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoMost.png" },
-    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoTall.png" },
-    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoSpag.png" },
-    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoMuni.png" },
-    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02fideoMono.png"},
+    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoTira.png" },
+    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoDado.png" },
+    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoAveM.png"},
+    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoCodi.png"},
+    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoMost.png" },
+    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoTall.png" },
+    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoSpag.png" },
+    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoMuni.png" },
+    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02fideoMono.png"},
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 227.88, img: "photo/02vinagreA.png" },
@@ -483,7 +483,7 @@ const productos = [
     // {id: 289, nombre: "Jurel Marolio Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 592.08, img: "photo/08jurelMarolioA.png"},
     // {id: 290, nombre: "Jurel Marolio Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 592.08, img: "photo/08jurelMarolioN.png"},
     // { id: 290, nombre: "Jurel Cumaná Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 818.62, img: "photo/08jurelCumana.png" },
-    { id: 291, nombre: "Sardina marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1199.88, img: "photo/08sardinaMarolio.png" },
+    { id: 291, nombre: "Sardina marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1559.88, img: "photo/08sardinaMarolio.png" },
     // {id: 292, nombre: "Sardina Buen Piquie", medida: 1, familia: "conservas", cantidad: 1, precio: 0, img: "photo/08sardinaBuenPique.png"},
     { id: 433, nombre: "Caballa LB Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbAce.png" },
     { id: 434, nombre: "Caballa LB Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbNat.png" },
@@ -526,9 +526,9 @@ const productos = [
     { id: 314, nombre: "Palmitos Cumaná", medida: 1, familia: "conservas", cantidad: 1, precio: 1630.26, img: "photo/08palmitoCumana.png" },
 
     // Choclos
-    { id: 315, nombre: "Choclo Marolio Amamrillo", medida: 1, familia: "conservas", cantidad: 1, precio: 575.88, img: "photo/08chocloMarolio.png" },
+    { id: 315, nombre: "Choclo Marolio Amamrillo", medida: 1, familia: "conservas", cantidad: 1, precio: 779.88, img: "photo/08chocloMarolio.png" },
     { id: 316, nombre: "Choclo Marolio Cremoso", medida: 1, familia: "conservas", cantidad: 1, precio: 227.89, img: "photo/08cremosoMarolio.png" },
-    { id: 317, nombre: "Choclo La Banda Amarillo", medida: 1, familia: "conservas", cantidad: 1, precio: 653.63, img: "photo/08chocloBanda.png" },
+    { id: 317, nombre: "Choclo La Banda Amarillo", medida: 1, familia: "conservas", cantidad: 1, precio: 779.88, img: "photo/08chocloBanda.png" },
     { id: 318, nombre: "Choclo La Banda Cremoso", medida: 1, familia: "conservas", cantidad: 1, precio: 444.56, img: "photo/08cremosoBanda.png" },
 
     // Salsa Listas
@@ -615,7 +615,7 @@ const productos = [
     { id: 436, nombre: "Jabon Tocador Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 436.88, img: "photo/09jabonDove.png" },
 
     // Algodon Doncella
-    { id: 362, nombre: "Algodoón Doncella", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09algodonDoncella.png" },
+    { id: 362, nombre: "Algodoón Doncella", medida: 1, familia: "perfumeria", cantidad: 1, precio: 333.39, img: "photo/09algodonDoncella.png" },
 
     // Maquina BicFlex 3
     // { id: 363, nombre: "Maquinita BicFlex3", medida: 6, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09maquinitaBicFlex3.png" },
@@ -657,8 +657,8 @@ const productos = [
     { id: 423, nombre: "Poet Musica Primavera", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.89, img: "photo/10ambienteTropical.png" },
 
     // Jabon Piso Esencial
-    { id: 378, nombre: "J. Psio Esencial Tropicales", medida: 1, familia: "limpieza", cantidad: 1, precio: 229.87, img: "photo/10pisoEsTropicales.png" },
-    { id: 379, nombre: "J. Psio Esencial Lavanda", medida: 1, familia: "limpieza", cantidad: 1, precio: 229.87, img: "photo/10pisoEsLavanda.png" },
+    { id: 378, nombre: "J. Psio Esencial Tropicales", medida: 1, familia: "limpieza", cantidad: 1, precio: 247.14, img: "photo/10pisoEsTropicales.png" },
+    { id: 379, nombre: "J. Psio Esencial Lavanda", medida: 1, familia: "limpieza", cantidad: 1, precio: 247.14, img: "photo/10pisoEsLavanda.png" },
 
     // Jabon Polvo Ala
     { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 344.88, img: "photo/10alaRegular.png" },
@@ -668,7 +668,7 @@ const productos = [
     { id: 382, nombre: "J. pan Ropa", medida: 1, familia: "limpieza", cantidad: 1, precio: 195.39, img: "photo/10jabonPanRopa.png" },
 
     // Esponja Esencial
-    { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 172.39, img: "photo/10esponjaEsencial.png" },
+    { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 183.89, img: "photo/10esponjaEsencial.png" },
 
     // Limpia Vidrios
     { id: 384, nombre: "Limpiavidrios Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.88, img: "photo/10limpiaVidriosZorro.png" },
@@ -683,13 +683,13 @@ const productos = [
     // Papel Higienico Esencial
     { id: 387, nombre: "Papel Hig Esencial texturado 6x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 701.39, img: "photo/10papelHigText6.jpg" },
     { id: 388, nombre: "Papel Hig Esencial Texturado 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 503.88, img: "photo/10papelHigText4.png" },
-    { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 471.39, img: "photo/10papelHigBlanco.jpg" },
+    { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.89, img: "photo/10papelHigBlanco.jpg" },
 
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 275.88, img: "photo/10bolsaEsencial.png" },
     { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.89, img: "photo/10bolsaEsencial.png" },
     { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 621.74, img: "photo/10bolsaEsencial.png" },
-    { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 1494.90, img: "photo/10bolsaEsencial.png" },
+    { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 1609.89, img: "photo/10bolsaEsencial.png" },
 
     // Lamparas Esencial de Luz
     {id: 393, nombre: "Lámpara Esencial 7w", medida: 1, familia: "limpieza", cantidad: 1, precio: 482.88, img: "photo/10lampara7.png"},
