@@ -8,7 +8,7 @@ const productos = [
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1352.40, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1546.48, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1429.37, img: "photo/01papaCheddar350-60.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1572.30, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -25,7 +25,7 @@ const productos = [
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaCheddar350-60.png" },
     { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaJamon.png" },
-    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 232.26, img: "photo/01chizo400-60.png" },
+    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 255.48, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 256.25, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
     // {id: 22, nombre: "Mani 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01mani500-120-65.png"},
@@ -55,7 +55,7 @@ const productos = [
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 203.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 119.87, img: "photo/02salFinaElDique.png" },
-    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 239.89, img: "photo/02salFinaCelusal.png" },
+    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 249.48, img: "photo/02salFinaCelusal.png" },
     { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 179.89, img: "photo/02salGruesaCelusal.png" },
     { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02salGruesaMarolio.png" },
 
@@ -183,8 +183,8 @@ const productos = [
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
     // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 162.23, img: "photo/02arrozAla.png" },
     // Arroz Marolio
-    { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 839.89, img: "photo/02arrozMarolio.png" },
-    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02arrozMarolio.png" },
+    { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
+    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 539.88, img: "photo/02arrozMarolio.png" },
     // Arroz Molto
     { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 539.88, img: "photo/02arrozMolto.png" },
 
@@ -293,14 +293,14 @@ const productos = [
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 3769.96, img: "photo/03salameApetece.png" },
 
     // Secos ... (salamines, candelarios, baston)
-    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 4431.73, img: "photo/03salamines42F.png" },
-    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 4431.73, img: "photo/03salamines42G.png" },
-    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 4431.73, img: "photo/03salamines42L.png" },
+    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 4786.37, img: "photo/03salamines42F.png" },
+    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 4786.37, img: "photo/03salamines42G.png" },
+    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 4786.37, img: "photo/03salamines42L.png" },
     // Candelarios leopardo
-    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 4431.73, img: "photo/03candelario42.png" },
+    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 4786.37, img: "photo/03candelario42.png" },
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
-    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 4431.73, img: "photo/03baston42.png" },
+    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 4786.37, img: "photo/03baston42.png" },
     { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 4425.70, img: "photo/03bastonFox.png" },
 
     // Bondiolas
@@ -465,7 +465,7 @@ const productos = [
 
     // Caja x 500
     { id: 280, nombre: "Caja x500 Membrillo", medida: 1, familia: "mermeladas", cantidad: 1, precio: 983.13, img: "photo/07caja500Membrillo.png" },
-    { id: 281, nombre: "Caja x500 Batata", medida: 1, familia: "mermeladas", cantidad: 1, precio: 475.86, img: "photo/07caja500Batata.png" },
+    { id: 281, nombre: "Caja x500 Batata", medida: 1, familia: "mermeladas", cantidad: 1, precio: 612.84, img: "photo/07caja500Batata.png" },
     // {id: 282, nombre: "Caja Batata Choco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 269.93, img: "photo/07caja500Choco.png"},
 
     // Dulce de leche, Miel
@@ -482,7 +482,7 @@ const productos = [
     // {id: 417, nombre: "Caballa Cumaná Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 555.55, img: "photo/08caballaCumana.png"},
     // {id: 289, nombre: "Jurel Marolio Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 592.08, img: "photo/08jurelMarolioA.png"},
     // {id: 290, nombre: "Jurel Marolio Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 592.08, img: "photo/08jurelMarolioN.png"},
-    { id: 290, nombre: "Jurel Cumaná Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 818.62, img: "photo/08jurelCumana.png" },
+    // { id: 290, nombre: "Jurel Cumaná Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 818.62, img: "photo/08jurelCumana.png" },
     { id: 291, nombre: "Sardina marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1199.88, img: "photo/08sardinaMarolio.png" },
     // {id: 292, nombre: "Sardina Buen Piquie", medida: 1, familia: "conservas", cantidad: 1, precio: 0, img: "photo/08sardinaBuenPique.png"},
     { id: 433, nombre: "Caballa LB Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbAce.png" },
