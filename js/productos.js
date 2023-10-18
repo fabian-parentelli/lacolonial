@@ -18,18 +18,18 @@ const productos = [
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 352.19, img: "photo/01mani500-120-65.png" },
 
     // 60 
-    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 347.98, img: "photo/01papaTradicionalCh.png" },
-    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 347.98, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaTradicionalCh.png" },
+    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaAmericana550-120-60.png" },
     { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 360.36, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 324.44, img: "photo/01papaPay.png" },
-    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaCheddar350-60.png" },
-    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 385.44, img: "photo/01papaJamon.png" },
+    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 428.22, img: "photo/01papaKetchup.png" },
+    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 428.22, img: "photo/01papaCheddar350-60.png" },
+    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 428.22, img: "photo/01papaJamon.png" },
     { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 255.48, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 256.25, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
     // {id: 22, nombre: "Mani 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01mani500-120-65.png"},
-    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 470.05, img: "photo/01superCono50.png" },
+    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 344.70, img: "photo/01superCono50.png" },
 
     // 30
     { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 191.64, img: "photo/01papaTradicionalCh.png" },
@@ -244,12 +244,12 @@ const productos = [
     // ****************************************************** Fiambres ****************************************************** //
 
     // Jamon Cocido
-    { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 3450.00, img: "photo/03jamonOctava.png" },
+    { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4312.82, img: "photo/03jamonOctava.png" },
     { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 3091.79, img: "photo/03jamonLuvianka.png" },
     { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2484.14, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
-    { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 3265.67, img: "photo/03jamon42.png" },
+    { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 2592.24, img: "photo/03jamon42.png" },
     // {id: 409, nombre: "Jamon Cocido Scudetto", medida: 4, familia: "fiambres", cantidad: 1, precio: 1108.8, img: "photo/03jamonScudetto.png"},
 
     // Jamon Natural
@@ -279,16 +279,16 @@ const productos = [
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 2856.26, img: "photo/03matambreDyc.png" },
 
     // Mortadelas
-    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 2540.23, img: "photo/03mortadelaCalcha.png" },
+    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 2799.73, img: "photo/03mortadelaCalcha.png" },
     { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2125.02, img: "photo/03mortadelaCanon.png" },
     { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2035.20, img: "photo/03mortadelaApetece.png" },
-    { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 2231.59, img: "photo/03mortadela42.png" },
+    { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 2454.75, img: "photo/03mortadela42.png" },
     { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
 
     // Salame Milan
     // { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 4299.47, img: "photo/03salameCalcha.png" },
     { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 4425.70, img: "photo/03salameFox.png" },
-    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 3939.95, img: "photo/03salame42.png" },
+    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4333.95, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 3769.96, img: "photo/03salameApetece.png" },
 
@@ -305,22 +305,22 @@ const productos = [
 
     // Bondiolas
     { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 5470.20, img: "photo/03bondiolaLuvianka.png" },
-    { id: 195, nombre: "Bondiola Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 6603.02, img: "photo/03bondiola42.png" },
+    { id: 195, nombre: "Bondiola Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 7263.33, img: "photo/03bondiola42.png" },
 
     // Pancetas
-    { id: 196, nombre: "Panceta Los Calvos", medida: 2, familia: "fiambres", cantidad: 1, precio: 3934.10, img: "photo/03panceta42.png" },
+    { id: 196, nombre: "Panceta Los Calvos", medida: 2, familia: "fiambres", cantidad: 1, precio: 4327.51, img: "photo/03panceta42.png" },
     {id: 197, nombre: "Panceta Seoc", medida: 2, familia: "fiambres", cantidad: 1, precio: 2849.94, img: "photo/03pancetaSeoc.png"},
-    { id: 198, nombre: "Panceta Salada Luvianka", medida: 2, familia: "fiambres", cantidad: 1, precio: 3100.75, img: "photo/03pancetaLuvianka.png" },
+    { id: 198, nombre: "Panceta Salada Luvianka", medida: 2, familia: "fiambres", cantidad: 1, precio: 3348.79, img: "photo/03pancetaLuvianka.png" },
 
     // Salchichon .. La Octava
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1523.46, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1523.46, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1569.15, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1569.15, img: "photo/03salchichonLJ.png" },
     // Los Calvos
-    { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1999.62, img: "photo/03salchichon42P.png" },
-    { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1999.62, img: "photo/03salchichon42J.png" },
+    { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42P.png" },
+    { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
     { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
@@ -371,14 +371,14 @@ const productos = [
     // Varios (parrillero, fiambrin, cheddar)
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 40240.58, img: "photo/04parrillero.png" },
     { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3435.42, img: "photo/04fiambrin.png" },
-    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3758.36, img: "photo/04cheddarSere.png" },
+    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3946.36, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 398.62, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 398.62, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 432.30, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 432.30, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 623.00, img: "photo/05leche0lactoza.png" },
