@@ -6,8 +6,8 @@ const productos = [
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1832.92, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1352.40, img: "photo/01palito800-120-65.png" },
-    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1546.48, img: "photo/01mani500-120-65.png" },
+    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1555.20, img: "photo/01palito800-120-65.png" },
+    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1760.65, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1572.30, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
@@ -92,7 +92,7 @@ const productos = [
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 227.88, img: "photo/02mayoHell.png" },
     { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 347.88, img: "photo/02mayoHell.png" },
-    { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1139.88, img: "photo/02mayoHell.png" },
+    { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1198.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2939.89, img: "photo/02mayoHell.png" },
     // Natura
     { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 239.87, img: "photo/02mayoNatura.png" },
@@ -158,6 +158,7 @@ const productos = [
     { id: 101, nombre: "Condimento Chimichurri", medida: 10, familia: "almacen", cantidad: 1, precio: 123.59, img: "photo/02chimi.jpg" },
     { id: 102, nombre: "Condimento Provenzal", medida: 10, familia: "almacen", cantidad: 1, precio: 215.24, img: "photo/02provenzal.jpg" },
     { id: 441, nombre: "Condimento Bicarbonato", medida: 10, familia: "almacen", cantidad: 1, precio: 157.84, img: "photo/02bicarbonato.png" },
+    { id: 454, nombre: "Condimento Nuez Moscada", medida: 10, familia: "almacen", cantidad: 1, precio: 527.76, img: "photo/02nuez.png" },
 
     // Ravioles Orali
     { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 549.32, img: "photo/02ricota.png" },
@@ -365,7 +366,7 @@ const productos = [
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
-    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 362.01, img: "photo/04ralladoSere.png" },
+    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 380.14, img: "photo/04ralladoSere.png" },
     { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 160.08, img: "photo/04ralladoQuesera.png" },
 
     // Varios (parrillero, fiambrin, cheddar)
@@ -381,7 +382,7 @@ const productos = [
     { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 432.30, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
-    { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 623.00, img: "photo/05leche0lactoza.png" },
+    { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 686.81, img: "photo/05leche0lactoza.png" },
     // {id: 241, nombre: "Leche Oferta Larga Vida", medida: 1, familia: "lacteos", cantidad: 1, precio: 363.88, img: "photo/05lecheOferta.png"},
 
     { id: 242, nombre: "Crema de leche 200cc", medida: 1, familia: "lacteos", cantidad: 1, precio: 641.23, img: "photo/05cremaLeche.png" },
