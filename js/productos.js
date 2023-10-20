@@ -2,8 +2,8 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1832.92, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1832.92, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1555.20, img: "photo/01palito800-120-65.png" },
@@ -51,7 +51,7 @@ const productos = [
     // Sales y Azucares
     { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 604.78, img: "photo/02edulcoranteSweet.png" },
     { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 604.78, img: "photo/02edulcoranteClasico.png" },
-    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 774, img: "photo/02azucar.png" },
+    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 814.38, img: "photo/02azucar.png" },
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 203.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 119.87, img: "photo/02salFinaElDique.png" },
@@ -87,7 +87,7 @@ const productos = [
     { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // {id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 503.87, img: "photo/02aceiteCanuelas.png"},
-    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 452.48, img: "photo/02cocinero.png"},
+    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 471.16, img: "photo/02cocinero.png"},
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 227.88, img: "photo/02mayoHell.png" },
@@ -99,10 +99,10 @@ const productos = [
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 494.94, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 797.89, img: "photo/02mayoNatura.png" },
     // Savora
-    // { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 130.68, img: "photo/02savora.png" },
+    { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 167.88, img: "photo/02savora.png" },
     { id: 64, nombre: "Savora 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 311.88, img: "photo/02savora.png" },
     // Ketchup
-    { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 179.88, img: "photo/02ketchup.png" },
+    // { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 179.88, img: "photo/02ketchup.png" },
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 431.88, img: "photo/02ketchup.png" },
 
     // Cacao, cafe 5Hispanos.
@@ -348,7 +348,7 @@ const productos = [
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2426.88, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2086.67, img: "photo/04barraEsnaola.png" },
+    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2217.07, img: "photo/04barraEsnaola.png" },
     // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2089.58, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
@@ -541,10 +541,10 @@ const productos = [
     // Tomate
     { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 623.76, img: "photo/08tomateBotella.png" },
     { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 269.88, img: "photo/08tomateMarolio.png" },
-    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 329.88, img: "photo/08tomateMolto.png" },
+    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 407.88, img: "photo/08tomateMolto.png" },
     // perita
     { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 305.88, img: "photo/08peritaMarolio.png" },
-    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 323.88, img: "photo/08peritaMolto.png" },
+    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 407.88, img: "photo/08peritaMolto.png" },
 
     // Frutales
     { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 959.88, img: "photo/08duraznoMarolio.png" },
@@ -678,7 +678,7 @@ const productos = [
     { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 563.39, img: "photo/10rolloEsencial.png" },
     { id: 386, nombre: "Rollo Cocina Marolio", medida: 1, familia: "limpieza", cantidad: 1, precio: 563.39, img: "photo/10rolloMarolio.png" },
 
-    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 551.89, img: "photo/10rolloSussex.png" },
+    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.87, img: "photo/10rolloSussex.png" },
 
 
     // Papel Higienico Esencial
