@@ -5,7 +5,7 @@ const productos = [
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
-    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 946.20, img: "photo/01bastonito300-55.png" },
+    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1196.95, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1555.20, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1760.65, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1572.30, img: "photo/01papaCheddar350-60.png" },
@@ -246,11 +246,11 @@ const productos = [
 
     // Jamon Cocido
     { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4312.82, img: "photo/03jamonOctava.png" },
-    { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 3091.79, img: "photo/03jamonLuvianka.png" },
+    { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 4006.99, img: "photo/03jamonLuvianka.png" },
     { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2484.14, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
-    { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 2592.24, img: "photo/03jamon42.png" },
+    // { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 2592.24, img: "photo/03jamon42.png" },
     // {id: 409, nombre: "Jamon Cocido Scudetto", medida: 4, familia: "fiambres", cantidad: 1, precio: 1108.8, img: "photo/03jamonScudetto.png"},
 
     // Jamon Natural
@@ -331,7 +331,7 @@ const productos = [
 
     // Salchichas
     { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 333.22, img: "photo/03salchichaComarca.png" },
-    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 563.11, img: "photo/03salchichaPaladini6.png" },
+    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 650.39, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
     // Leberwust, pate y picadillo 
