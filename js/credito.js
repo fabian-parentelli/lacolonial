@@ -1,4 +1,7 @@
 const vecinos = [
+    {fecha: "24-oct", tipo: "Factura 45430", credito: 6047.80, haber: 0, saldo: 40951.60},
+
+    {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 10000, saldo: 34903.80},
     {fecha: "20-oct", tipo: "Mercado Pago", credito: 0, haber: 10000, saldo: 44903.80},
     {fecha: "20-oct", tipo: "Factura 45390", credito: 27729.42, haber: 0, saldo: 54903.80},
 
@@ -556,6 +559,9 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 13000, saldo: 5779.38},    
+    {fecha: "23-oct", tipo: "Factura 45410", credito: 5297.40, haber: 0, saldo: 18779.38},
+
     {fecha: "17-oct", tipo: "Factura 45304", credito: 13481.94, haber: 0, saldo: 13481.94},    
     {fecha: "17-oct", tipo: "Mercado Pago", credito: 21684.38, haber: 0, saldo: 0},
 
@@ -823,6 +829,9 @@ const viviana = [
 ];
 
 const jorge = [
+    {fecha: "23-oct", tipo: "Pago efectivo", credito: 0, haber: 25000, saldo: 23631.76},
+    {fecha: "23-oct", tipo: "Factura 45400", credito: 33909.34, haber: 0, saldo: 48631.76},
+
     {fecha: "17-oct", tipo: "Pago efectivo", credito: 0, haber: 20000, saldo: 14722.42},
     {fecha: "17-oct", tipo: "Factura 45306", credito: 11566.19, haber: 0, saldo: 34722.42},
 
@@ -934,6 +943,9 @@ const jorge = [
 ];
 
 const emilse = [
+    {fecha: "23-oct", tipo: "Factura 45406", credito: 19761.61, haber: 0, saldo: 19761.61},
+    {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 16267.66, saldo: 0},
+
     {fecha: "17-oct", tipo: "Factura 45278", credito: 0, haber: 16267.66, saldo: 16267.66},
     {fecha: "17-oct", tipo: "Mercado Pago", credito: 30961.51, haber: 0, saldo: 0},
 
@@ -1050,8 +1062,10 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
-    {fecha: "18-oct", tipo: "Mercado Pago", credito: 0, haber: 3160, saldo: 93327.44},
-    {fecha: "18-oct", tipo: "Mercado Pago", credito: 0, haber: 1280, saldo: 96487.44},
+    {fecha: "24-oct", tipo: "Mercado Pago", credito: 0, haber: 5760, saldo: 51183.44},
+    {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 36384, saldo: 56943.44},
+    {fecha: "20-oct", tipo: "Mercado Pago", credito: 0, haber: 3160, saldo: 93327.44},
+    {fecha: "19-oct", tipo: "Mercado Pago", credito: 0, haber: 1280, saldo: 96487.44},
     {fecha: "18-oct", tipo: "Mercado Pago", credito: 0, haber: 2400, saldo: 97767.44},
     {fecha: "18-oct", tipo: "Factura 45314", credito: 100167.44, haber: 0, saldo: 100167.44},
 
@@ -1348,6 +1362,9 @@ const carlos = [
 ];
 
 const rossana = [
+    {fecha: "24-oct", tipo: "Factura 45416", credito: 6206.82, haber: 0, saldo: 6206.82}, 
+    {fecha: "24-oct", tipo: "Mercado Pago", credito: 0, haber: 4178.71, saldo: 0},
+
     {fecha: "17-oct", tipo: "Factura 45298", credito: 4178.71, haber: 0, saldo: 4178.71}, 
     {fecha: "17-oct", tipo: "Mercado Pago", credito: 0, haber: 7988.36, saldo: 0},
 
@@ -1448,6 +1465,9 @@ const rossana = [
 ];
 
 const fernando = [
+    {fecha: "24-oct", tipo: "Pago efectivo", credito: 0, haber: 15000, saldo: 20151.67},
+    {fecha: "24-oct", tipo: "Factura 45418", credito: 19350.86, haber: 0, saldo: 35151.67},
+
     {fecha: "11-oct", tipo: "Pago efectivo", credito: 0, haber: 5000, saldo: 15800.81},
     {fecha: "11-oct", tipo: "Factura 45228", credito: 7053.11, haber: 0, saldo: 20800.81},
 
@@ -1535,6 +1555,9 @@ const fernando = [
 ];
 
 const cristina = [
+    {fecha: "24-oct", tipo: "Mercado pago", credito: 0, haber: 11000, saldo: 4108.30},
+    {fecha: "24-oct", tipo: "Factura 45422", credito: 7334.44, haber: 0, saldo: 15108.30},
+
     {fecha: "10-oct", tipo: "Mercado pago", credito: 0, haber: 20000, saldo: 7773.86},
     {fecha: "10-oct", tipo: "Factura 45194", credito: 25713.43, haber: 0, saldo: 27773.86},
 
@@ -1618,7 +1641,8 @@ const cristina = [
 ];
 
 const emanuel = [
-    {fecha: "26-sep", tipo: "Mercado Pago", credito: 0, haber: 13000, saldo: 10157.30},
+    {fecha: "24-Oct", tipo: "Mercado Pago", credito: 0, haber: 10157.30, saldo: 0},
+    {fecha: "26-Oct", tipo: "Mercado Pago", credito: 0, haber: 13000, saldo: 10157.30},
     {fecha: "26-sep", tipo: "Factura 44940", credito: 23157.30, haber: 0, saldo: 23157.30},
     {fecha: "26-sep", tipo: "Pago Factura", credito: 0, haber: 13287.24, saldo: 0},
 

@@ -20,7 +20,7 @@ const productos = [
     // 60 
     { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaTradicionalCh.png" },
     { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 360.36, img: "photo/01papaSinSal.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 425.06, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 324.44, img: "photo/01papaPay.png" },
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 443.21, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 443.21, img: "photo/01papaCheddar350-60.png" },
@@ -263,7 +263,7 @@ const productos = [
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2311.85, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2072.23, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2341.64, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 1376.25, img: "photo/03paletaRiosol.png" },
@@ -493,9 +493,9 @@ const productos = [
     {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
     {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
     // Atun Marolio
-    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1379.8, img: "photo/08lomitoMarolioA.png" },
-    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1379.8, img: "photo/08lomitoMarolioN.png" },
-    { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 755.88, img: "photo/08desmDiqueA.png" },
+    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1637.88, img: "photo/08lomitoMarolioA.png" },
+    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1637.88, img: "photo/08lomitoMarolioN.png" },
+    { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1070.88, img: "photo/08desmDiqueA.png" },
     // {id: 298, nombre: "Atun Dique Des lomm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 503.88, img: "photo/08desmDiqueN.png"},
     // { id: 402, nombre: "Atun Marbella Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 285.22, img: "photo/08atunMarbella.png" },
 
@@ -516,7 +516,7 @@ const productos = [
     { id: 307, nombre: "Poroto Alubia La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 446.45, img: "photo/08porotoAlubiaBanda.png" },
 
     // Arvejas y Jardinera
-    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 239.88, img: "photo/08arvejaMarolio.png" },
+    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 263.88, img: "photo/08arvejaMarolio.png" },
     // {id: 309, nombre: "Arvejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 116.53, img: "photo/08arvejaBanda.png"},
     { id: 310, nombre: "Jardinera Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 275.89, img: "photo/08jardineraMarolio.png" },
     // { id: 311, nombre: "Jardinera La Colina", medida: 1, familia: "conservas", cantidad: 1, precio: 179.88, img: "photo/08jardineraColina.png" },
@@ -598,16 +598,16 @@ const productos = [
     { id: 353, nombre: "J. Tocador Rexona Cotton", medida: 1, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09rexonaCotton.png" },
     { id: 354, nombre: "J. Tocador Rexona Orchid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09rexonaOrchid.png" },
     // Patricia Allen
-    { id: 355, nombre: "J. Tocador P.Allen Humectacion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenHumecta.png" },
-    { id: 356, nombre: "J. Tocador P.Allen Tropial", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenTropical.png" },
-    { id: 419, nombre: "J. Tocador P.Allen Intensidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenIntensidad.png" },
-    { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenSuavidad.png" },
-    { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 247.14, img: "photo/09pAllenEquilibrio.png" },
+    { id: 355, nombre: "J. Tocador P.Allen Humectacion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 277.61, img: "photo/09pAllenHumecta.png" },
+    { id: 356, nombre: "J. Tocador P.Allen Tropial", medida: 1, familia: "perfumeria", cantidad: 1, precio: 277.61, img: "photo/09pAllenTropical.png" },
+    { id: 419, nombre: "J. Tocador P.Allen Intensidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 277.61, img: "photo/09pAllenIntensidad.png" },
+    { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 277.61, img: "photo/09pAllenSuavidad.png" },
+    { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 277.61, img: "photo/09pAllenEquilibrio.png" },
     // Plusbelle
-    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusEnergia.png" },
-    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusFrescura.png" },
-    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusBelleza.png" },
-    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 258.65, img: "photo/09plusRelajacion.png" },
+    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusEnergia.png" },
+    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusFrescura.png" },
+    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusBelleza.png" },
+    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusRelajacion.png" },
     // Jabon Neutro y Glicerina
     // {id: 361, nombre: "Jabon Neutro Odorno", medida: 1, familia: "perfumeria", cantidad: 1, precio: 138.75, img: "photo/09odorno.png"},
     { id: 410, nombre: "Jabon Neutro Estrella Gli", medida: 1, familia: "perfumeria", cantidad: 1, precio: 448.39, img: "photo/09jabonNeutroEstrella.png" },
