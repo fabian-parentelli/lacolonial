@@ -126,7 +126,7 @@ const productos = [
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 827.86, img: "photo/02yerbaUnionLiviana.png" },
     { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 947.88, img: "photo/02yerbaTaragui.png" },
-    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 977.88, img: "photo/02yerbaMananita.png" },
+    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 995.88, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
     { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 251.32, img: "photo/02harinaCanuela.png" },
@@ -171,7 +171,7 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 105.12, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 324.38, img: "photo/02empanadaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 356.84, img: "photo/02empanadaOrali.png" },
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 413.47, img: "photo/02pascualinaOrali.png" },
     { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
@@ -247,14 +247,14 @@ const productos = [
     // Jamon Cocido
     { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4312.82, img: "photo/03jamonOctava.png" },
     { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 4006.99, img: "photo/03jamonLuvianka.png" },
-    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2484.14, img: "photo/03jamonSeoc.png" },
+    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 2732.59, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
     // { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 2592.24, img: "photo/03jamon42.png" },
     // {id: 409, nombre: "Jamon Cocido Scudetto", medida: 4, familia: "fiambres", cantidad: 1, precio: 1108.8, img: "photo/03jamonScudetto.png"},
 
     // Jamon Natural
-    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 3468.53, img: "photo/03jamonNatLuvianka.png" },
+    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 4600, img: "photo/03jamonNatLuvianka.png" },
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
@@ -262,7 +262,7 @@ const productos = [
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
-    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2311.85, img: "photo/03paletaComarca.png" },
+    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2543.04, img: "photo/03paletaComarca.png" },
     { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2341.64, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
@@ -273,8 +273,8 @@ const productos = [
     // {id: 415, nombre: "Crudo sol del Pilar", medida: 4, familia: "fiambres", cantidad: 1, precio: 4173.97, img: "photo/03crudoPilar.png"},
 
     // Matambres ... LosiFar
-    { id: 175, nombre: "Matambres Losifar Carne", medida: 2, familia: "fiambres", cantidad: 1, precio: 2528.06, img: "photo/03matambreLosiC.png" },
-    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 2528.06, img: "photo/03matambreLosiP.png" },
+    { id: 175, nombre: "Matambres Losifar Carne", medida: 2, familia: "fiambres", cantidad: 1, precio: 3193.54, img: "photo/03matambreLosiC.png" },
+    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 3193.54, img: "photo/03matambreLosiP.png" },
     // Campo Argentino
     // {id: 177, nombre: "Matambres Campo Carne", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 1800.96, img: "photo/03matambreCampo.png"},
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 2856.26, img: "photo/03matambreDyc.png" },
@@ -289,7 +289,7 @@ const productos = [
     // Salame Milan
     // { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 4299.47, img: "photo/03salameCalcha.png" },
     { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 4425.70, img: "photo/03salameFox.png" },
-    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4333.95, img: "photo/03salame42.png" },
+    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4680.56, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 3769.96, img: "photo/03salameApetece.png" },
 
@@ -317,8 +317,8 @@ const productos = [
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1569.15, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1569.15, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1757.47, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1757.47, img: "photo/03salchichonLJ.png" },
     // Los Calvos
     { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42P.png" },
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42J.png" },
@@ -371,7 +371,7 @@ const productos = [
 
     // Varios (parrillero, fiambrin, cheddar)
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 40240.58, img: "photo/04parrillero.png" },
-    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3435.42, img: "photo/04fiambrin.png" },
+    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4252.98, img: "photo/04fiambrin.png" },
     { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3946.36, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
@@ -562,12 +562,16 @@ const productos = [
     { id: 333, nombre: "Shampo Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalLiso.png" },
     { id: 334, nombre: "Shampo Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalBalance.png" },
     { id: 335, nombre: "Shampo Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalCreamidas.png" },
+    { id: 454, nombre: "Shampo Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.9, img: "photo/09shSedalBalance.png" },
+
     // Crema Sedal
     { id: 336, nombre: "Crema Sedal Restauración", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRestauracion.png" },
     { id: 337, nombre: "Crema Sedal Rizo Definido", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRizo.png" },
     { id: 338, nombre: "Crema Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalLiso.png" },
     { id: 339, nombre: "Crema Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalBalance.png" },
     { id: 340, nombre: "Crema Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalCreamidas.png" },
+    { id: 454, nombre: "Crema Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.9, img: "photo/09shSedalBalance.png" },
+
     // Shampoo Plusbelle
     { id: 341, nombre: "Shampo Plusbelle Manzana", medida: 1, familia: "perfumeria", cantidad: 1, precio: 597.88, img: "photo/09shPlusbelle.png" },
     { id: 429, nombre: "Acondicionador Plusbelle", medida: 1, familia: "perfumeria", cantidad: 1, precio: 597.88, img: "photo/09shPlusbelle.png" },
@@ -707,4 +711,4 @@ const productos = [
 
 ];
 
-// 454
+// 456
