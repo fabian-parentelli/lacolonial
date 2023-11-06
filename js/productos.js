@@ -2,8 +2,8 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2107.86, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1196.95, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1555.20, img: "photo/01palito800-120-65.png" },
@@ -42,7 +42,7 @@ const productos = [
     { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1310.23, img: "photo/01palitoFrontys.png" },
 
     // Otros
-    { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 467.89, img: "photo/01nachosMacritas.png" },
+    { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 594.80, img: "photo/01nachosMacritas.png" },
     { id: 31, nombre: "Papas Pay PeiPo 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2014.72, img: "photo/01payPeipo.png" },
     { id: 398, nombre: "Batata Quento 80gr", medida: 6, familia: "snacks", cantidad: 1, precio: 467.89, img: "photo/01batata.png" },
 
@@ -171,7 +171,7 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 105.12, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 356.84, img: "photo/02empanadaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 399.64, img: "photo/02empanadaOrali.png" },
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 413.47, img: "photo/02pascualinaOrali.png" },
     { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
@@ -269,7 +269,7 @@ const productos = [
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 1376.25, img: "photo/03paletaRiosol.png" },
 
     // Crudo
-    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 4523.92, img: "photo/03crudoSol.png" },
+    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 5455.30, img: "photo/03crudoSol.png" },
     // {id: 415, nombre: "Crudo sol del Pilar", medida: 4, familia: "fiambres", cantidad: 1, precio: 4173.97, img: "photo/03crudoPilar.png"},
 
     // Matambres ... LosiFar
@@ -283,7 +283,7 @@ const productos = [
     { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 2799.73, img: "photo/03mortadelaCalcha.png" },
     { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2506.37, img: "photo/03mortadelaCanon.png" },
     { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2035.20, img: "photo/03mortadelaApetece.png" },
-    { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 2454.75, img: "photo/03mortadela42.png" },
+    { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 2651.33, img: "photo/03mortadela42.png" },
     { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
 
     // Salame Milan
@@ -366,7 +366,7 @@ const productos = [
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
-    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 380.14, img: "photo/04ralladoSere.png" },
+    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 398.93, img: "photo/04ralladoSere.png" },
     { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 160.08, img: "photo/04ralladoQuesera.png" },
 
     // Varios (parrillero, fiambrin, cheddar)
@@ -441,9 +441,9 @@ const productos = [
     // { id: 269, nombre: "Mermelada Dulcor Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 695.88, img: "photo/07dulcorDurazno.png" },
 
     // Mermelada Cormillot
-    { id: 270, nombre: "Mermelada Cormillot Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 677.59, img: "photo/07cormillotFrutilla.png" },
-    // {id: 271, nombre: "Mermelada Cormillot Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 246.70, img: "photo/07cormillotCiruela.png"},
-    {id: 272, nombre: "Mermelada Cormillot Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 677.59, img: "photo/07cormillotDurazno.png"},
+    { id: 270, nombre: "Mermelada Cormillot Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 909.47, img: "photo/07cormillotFrutilla.png" },
+    {id: 271, nombre: "Mermelada Cormillot Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 909.47, img: "photo/07cormillotCiruela.png"},
+    {id: 272, nombre: "Mermelada Cormillot Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 909.47, img: "photo/07cormillotDurazno.png"},
     
     {id: 451, nombre: "Mermelada Noel Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 527.88, img: "photo/07noelD.png"},
 
