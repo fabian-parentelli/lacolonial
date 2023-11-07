@@ -18,13 +18,13 @@ const productos = [
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 352.19, img: "photo/01mani500-120-65.png" },
 
     // 60 
-    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaTradicionalCh.png" },
-    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 386.64, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 425.06, img: "photo/01papaSinSal.png" },
-    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 324.44, img: "photo/01papaPay.png" },
-    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 443.21, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 443.21, img: "photo/01papaCheddar350-60.png" },
-    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 443.21, img: "photo/01papaJamon.png" },
+    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaTradicionalCh.png" },
+    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaSinSal.png" },
+    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaPay.png" },
+    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaKetchup.png" },
+    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaCheddar350-60.png" },
+    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaJamon.png" },
     { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 271.19, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 256.25, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
@@ -49,8 +49,8 @@ const productos = [
     // ****************************************************** almacen ****************************************************** //
 
     // Sales y Azucares
-    { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02edulcoranteSweet.png" },
-    { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02edulcoranteClasico.png" },
+    { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02edulcoranteSweet.png" },
+    { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02edulcoranteClasico.png" },
     { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 822, img: "photo/02azucar.png" },
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 203.88, img: "photo/02salFinaMarolio.png" },
@@ -60,9 +60,9 @@ const productos = [
     { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02salGruesaMarolio.png" },
 
     // Caldo Knorr
-    { id: 40, nombre: "Caldo Knoor Verdura", medida: 24, familia: "almacen", cantidad: 1, precio: 86.28, img: "photo/02caldoVerdura.png" },
-    { id: 41, nombre: "Caldo Knoor Gallina", medida: 24, familia: "almacen", cantidad: 1, precio: 86.28, img: "photo/02caldoGallina.png" },
-    { id: 42, nombre: "Caldo Knoor Carne", medida: 24, familia: "almacen", cantidad: 1, precio: 86.28, img: "photo/02caldoCarne.png" },
+    { id: 40, nombre: "Caldo Knoor Verdura", medida: 24, familia: "almacen", cantidad: 1, precio: 94.68, img: "photo/02caldoVerdura.png" },
+    { id: 41, nombre: "Caldo Knoor Gallina", medida: 24, familia: "almacen", cantidad: 1, precio: 94.68, img: "photo/02caldoGallina.png" },
+    { id: 42, nombre: "Caldo Knoor Carne", medida: 24, familia: "almacen", cantidad: 1, precio: 94.68, img: "photo/02caldoCarne.png" },
 
     // Pure Papas
     // {id: 43, nombre: "Pure Papas Marolio", medida: 15, familia: "almacen", cantidad: 1, precio: 0, img: "photo/02purePapasMarolio.png"},
@@ -87,10 +87,10 @@ const productos = [
     { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // {id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 503.87, img: "photo/02aceiteCanuelas.png"},
-    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 471.16, img: "photo/02cocinero.png"},
+    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 501.79, img: "photo/02cocinero.png"},
 
     // Mayonesa Hellmans
-    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 227.88, img: "photo/02mayoHell.png" },
+    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 241.37, img: "photo/02mayoHell.png" },
     { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 446.53, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1198.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2939.89, img: "photo/02mayoHell.png" },
@@ -192,7 +192,7 @@ const productos = [
     // Te y Mate cocido ...
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02teTaragui.png" },
     { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 239.88, img: "photo/02teMarolio.png" },
-    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02mateCocidoUnion.png" },
+    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02mateCocidoUnion.png" },
     { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 275.88, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
@@ -330,7 +330,7 @@ const productos = [
     { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1345.32, img: "photo/03quesoCerdoSeoc.png" },
 
     // Salchichas
-    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 333.22, img: "photo/03salchichaComarca.png" },
+    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 421.54, img: "photo/03salchichaComarca.png" },
     { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 650.39, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
@@ -342,14 +342,14 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2076.48, img: "photo/04cremosoPunta.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2188.48, img: "photo/04cremosoPunta.png" },
     // { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 1731.40, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2426.88, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2217.07, img: "photo/04barraEsnaola.png" },
-    // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2089.58, img: "photo/04barraMelincue.png" },
+    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2765.04, img: "photo/04barraEsnaola.png" },
+    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2388, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
 
@@ -378,8 +378,8 @@ const productos = [
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 432.30, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 432.30, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 454.30, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 454.30, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 720.91, img: "photo/05leche0lactoza.png" },
@@ -392,7 +392,7 @@ const productos = [
     // mantecas
     { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 533.17, img: "photo/05mantecaSere.png" },
     { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 923.38, img: "photo/05mantecaSere.png" },
-    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 279.29, img: "photo/05mantecaSys.png" },
+    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 299.99, img: "photo/05mantecaSys.png" },
     { id: 246, nombre: "Manteca SYS 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 558.58, img: "photo/05mantecaSys.png" },
     
     // lacteos
