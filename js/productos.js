@@ -4,9 +4,9 @@ const productos = [
 
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 956.27, img: "photo/01chizo400-60.png" },
+    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1252.02, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1196.95, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1555.20, img: "photo/01palito800-120-65.png" },
+    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1788.50, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1760.65, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1572.30, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
@@ -22,9 +22,9 @@ const productos = [
     { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaAmericana550-120-60.png" },
     { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaPay.png" },
-    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaCheddar350-60.png" },
-    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaJamon.png" },
+    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaKetchup.png" },
+    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaCheddar350-60.png" },
+    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaJamon.png" },
     { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 271.19, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 256.25, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
@@ -35,15 +35,15 @@ const productos = [
     { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 220.39, img: "photo/01papaTradicionalCh.png" },
 
     // Frontys
-    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1665.68, img: "photo/01maniCrocanteFrontys.png" },
-    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1665.68, img: "photo/01maniSaladoFrontys.png" },
-    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1665.68, img: "photo/01maniSinSalFrontys.png" },
-    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1665.68, img: "photo/01maniVainaFrontys.png" },
-    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1310.23, img: "photo/01palitoFrontys.png" },
+    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniCrocanteFrontys.png" },
+    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniSaladoFrontys.png" },
+    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniSinSalFrontys.png" },
+    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniVainaFrontys.png" },
+    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1400.26, img: "photo/01palitoFrontys.png" },
 
     // Otros
     { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 594.80, img: "photo/01nachosMacritas.png" },
-    { id: 31, nombre: "Papas Pay PeiPo 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2014.72, img: "photo/01payPeipo.png" },
+    { id: 31, nombre: "Papas Pay PeiPo 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2195.16, img: "photo/01payPeipo.png" },
     { id: 398, nombre: "Batata Quento 80gr", medida: 6, familia: "snacks", cantidad: 1, precio: 467.89, img: "photo/01batata.png" },
 
     // ****************************************************** almacen ****************************************************** //
@@ -141,11 +141,11 @@ const productos = [
 
     // Salsas Benidorm
     { id: 88, nombre: "Benidorm Mayonesa", medida: 1, familia: "almacen", cantidad: 1, precio: 546.79, img: "photo/02benMayonesa.png" },
-    { id: 89, nombre: "Benidorm Parmesano", medida: 1, familia: "almacen", cantidad: 1, precio: 711.49, img: "photo/02benParmesano.png" },
-    { id: 90, nombre: "Benidorm Mostaza", medida: 1, familia: "almacen", cantidad: 1, precio: 711.49, img: "photo/02benMostaza.png" },
-    { id: 91, nombre: "Benidorm Ketchup", medida: 1, familia: "almacen", cantidad: 1, precio: 711.49, img: "photo/02benKetchup.png" },
-    { id: 92, nombre: "Benidorm Golf", medida: 1, familia: "almacen", cantidad: 1, precio: 711.49, img: "photo/02benGolf.png" },
-    { id: 93, nombre: "Benidorm Cheddar", medida: 1, familia: "almacen", cantidad: 1, precio: 711.49, img: "photo/02benCheddar.png" },
+    { id: 89, nombre: "Benidorm Parmesano", medida: 1, familia: "almacen", cantidad: 1, precio: 853.74, img: "photo/02benParmesano.png" },
+    { id: 90, nombre: "Benidorm Mostaza", medida: 1, familia: "almacen", cantidad: 1, precio: 736.72, img: "photo/02benMostaza.png" },
+    { id: 91, nombre: "Benidorm Ketchup", medida: 1, familia: "almacen", cantidad: 1, precio: 736.72, img: "photo/02benKetchup.png" },
+    { id: 92, nombre: "Benidorm Golf", medida: 1, familia: "almacen", cantidad: 1, precio: 736.72, img: "photo/02benGolf.png" },
+    { id: 93, nombre: "Benidorm Cheddar", medida: 1, familia: "almacen", cantidad: 1, precio: 736.72, img: "photo/02benCheddar.png" },
 
     // Condimentos
     { id: 94, nombre: "Condimento Oregano", medida: 10, familia: "almacen", cantidad: 1, precio: 179.56, img: "photo/02oregano.jpg" },
@@ -161,9 +161,9 @@ const productos = [
     { id: 454, nombre: "Condimento Nuez Moscada", medida: 10, familia: "almacen", cantidad: 1, precio: 527.76, img: "photo/02nuez.png" },
 
     // Ravioles Orali
-    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 549.32, img: "photo/02ricota.png" },
-    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 549.32, img: "photo/02pollo.png" },
-    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 549.32, img: "photo/02verdura.png" },
+    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02ricota.png" },
+    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02pollo.png" },
+    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02verdura.png" },
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
@@ -175,8 +175,8 @@ const productos = [
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 413.47, img: "photo/02pascualinaOrali.png" },
     { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
-    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 354.94, img: "photo/02empanadaCriolla.png" },
-    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 354.94, img: "photo/02empanadaHojaldre.png" },
+    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaCriolla.png" },
+    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaHojaldre.png" },
     { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 435.12, img: "photo/02pascualinaCriolla.png" },
     { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 435.12, img: "photo/02pascualinaHojaldre.png" },
 
@@ -281,7 +281,7 @@ const productos = [
 
     // Mortadelas
     { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 2799.73, img: "photo/03mortadelaCalcha.png" },
-    { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2506.37, img: "photo/03mortadelaCanon.png" },
+    { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2680.36, img: "photo/03mortadelaCanon.png" },
     { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2035.20, img: "photo/03mortadelaApetece.png" },
     { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 2651.33, img: "photo/03mortadela42.png" },
     { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
@@ -302,10 +302,10 @@ const productos = [
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
     { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03baston42.png" },
-    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 4425.70, img: "photo/03bastonFox.png" },
+    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 5230.37, img: "photo/03bastonFox.png" },
 
     // Bondiolas
-    { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 5470.20, img: "photo/03bondiolaLuvianka.png" },
+    { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 7180.38, img: "photo/03bondiolaLuvianka.png" },
     { id: 195, nombre: "Bondiola Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 7263.33, img: "photo/03bondiola42.png" },
 
     // Pancetas
@@ -343,7 +343,7 @@ const productos = [
 
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2188.48, img: "photo/04cremosoPunta.png" },
-    // { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 1731.40, img: "photo/04cremosoLactovita.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 1974.97, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
     // Barras
@@ -367,11 +367,11 @@ const productos = [
 
     // Rallados
     { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 398.93, img: "photo/04ralladoSere.png" },
-    { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 160.08, img: "photo/04ralladoQuesera.png" },
+    { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 195.69, img: "photo/04ralladoQuesera.png" },
 
     // Varios (parrillero, fiambrin, cheddar)
-    { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 40240.58, img: "photo/04parrillero.png" },
-    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4252.98, img: "photo/04fiambrin.png" },
+    { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 5250.96, img: "photo/04parrillero.png" },
+    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4465.86, img: "photo/04fiambrin.png" },
     { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 3946.36, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
