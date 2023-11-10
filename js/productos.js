@@ -7,8 +7,8 @@ const productos = [
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1252.02, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1196.95, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1788.50, img: "photo/01palito800-120-65.png" },
-    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1760.65, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1572.30, img: "photo/01papaCheddar350-60.png" },
+    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2632.55, img: "photo/01mani500-120-65.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2079.36, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -177,8 +177,8 @@ const productos = [
     // Empanadas y pascualinas Litoraleña
     { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaCriolla.png" },
     { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaHojaldre.png" },
-    { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 435.12, img: "photo/02pascualinaCriolla.png" },
-    { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 435.12, img: "photo/02pascualinaHojaldre.png" },
+    { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 500.39, img: "photo/02pascualinaCriolla.png" },
+    { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 500.39, img: "photo/02pascualinaHojaldre.png" },
 
     // Arroz Ala
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
@@ -258,7 +258,7 @@ const productos = [
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
-    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 2522.33, img: "photo/03pernilFox.png" },
+    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 2971.09, img: "photo/03pernilFox.png" },
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
@@ -288,20 +288,20 @@ const productos = [
 
     // Salame Milan
     // { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 4299.47, img: "photo/03salameCalcha.png" },
-    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 4425.70, img: "photo/03salameFox.png" },
+    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 5230.37, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4680.56, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 4146.91, img: "photo/03salameApetece.png" },
 
     // Secos ... (salamines, candelarios, baston)
-    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03salamines42F.png" },
-    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03salamines42G.png" },
-    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03salamines42L.png" },
+    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03salamines42F.png" },
+    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03salamines42G.png" },
+    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03salamines42L.png" },
     // Candelarios leopardo
-    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03candelario42.png" },
+    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03candelario42.png" },
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
-    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 5265.04, img: "photo/03baston42.png" },
+    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03baston42.png" },
     { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 5230.37, img: "photo/03bastonFox.png" },
 
     // Bondiolas
