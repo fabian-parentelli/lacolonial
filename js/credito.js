@@ -969,6 +969,12 @@ const jorge = [
 ];
 
 const emilse = [
+    // {fecha: "06-nov", tipo: "Factura 45406", credito: 19761.61, haber: 0, saldo: 19761.61},
+    // {fecha: "06-nov", tipo: "Mercado Pago", credito: 0, haber: 19761.61, saldo: 0},
+
+    // {fecha: "23-oct", tipo: "Factura 45536", credito: 31884.85, haber: 0, saldo: 19761.61},
+    // {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 19761.61, saldo: 0},
+
     {fecha: "23-oct", tipo: "Factura 45406", credito: 19761.61, haber: 0, saldo: 19761.61},
     {fecha: "23-oct", tipo: "Mercado Pago", credito: 0, haber: 16267.66, saldo: 0},
 

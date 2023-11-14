@@ -277,7 +277,7 @@ const productos = [
     { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 3193.54, img: "photo/03matambreLosiP.png" },
     // Campo Argentino
     // {id: 177, nombre: "Matambres Campo Carne", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 1800.96, img: "photo/03matambreCampo.png"},
-    { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 2856.26, img: "photo/03matambreDyc.png" },
+    { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 3917.76, img: "photo/03matambreDyc.png" },
 
     // Mortadelas
     { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 2799.73, img: "photo/03mortadelaCalcha.png" },
@@ -317,17 +317,17 @@ const productos = [
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1757.47, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1757.47, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1880.48, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1880.48, img: "photo/03salchichonLJ.png" },
     // Los Calvos
     { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42P.png" },
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
-    { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
+    // { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
     // {id: 206, nombre: "Queso de credo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
     // {id: 207, nombre: "Queso de credo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 999.43, img: "photo/03quesoCerdo8.png"},
-    { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1345.32, img: "photo/03quesoCerdoSeoc.png" },
+    { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1585.08, img: "photo/03quesoCerdoSeoc.png" },
 
     // Salchichas
     { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 421.54, img: "photo/03salchichaComarca.png" },
