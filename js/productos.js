@@ -106,7 +106,7 @@ const productos = [
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02ketchup.png" },
 
     // Cacao, cafe 5Hispanos.
-    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 455.88, img: "photo/02cacao.png" },
+    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 63.08, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1535.89, img: "photo/02cafeClasico.png" },
