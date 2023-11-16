@@ -69,8 +69,8 @@ const productos = [
     // {id: 44, nombre: "Pure Papas Maggi", medida: 6, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02pureMaggi.png"},
 
     // Grasa Vacuna y Porcina
-    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 604.78, img: "photo/02grasaVacuna.png" },
-    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 604.78, img: "photo/02grasaPorcina.png" },
+    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 686.40, img: "photo/02grasaVacuna.png" },
+    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 686.40, img: "photo/02grasaPorcina.png" },
 
     // Jugo Limon
     { id: 47, nombre: "Jugo limon Marolio 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 263.88, img: "photo/02jugoLimon.png" },
@@ -148,7 +148,7 @@ const productos = [
     { id: 93, nombre: "Benidorm Cheddar", medida: 1, familia: "almacen", cantidad: 1, precio: 736.72, img: "photo/02benCheddar.png" },
 
     // Condimentos
-    { id: 94, nombre: "Condimento Oregano", medida: 10, familia: "almacen", cantidad: 1, precio: 179.56, img: "photo/02oregano.jpg" },
+    { id: 94, nombre: "Condimento Oregano", medida: 10, familia: "almacen", cantidad: 1, precio: 219.63, img: "photo/02oregano.jpg" },
     { id: 95, nombre: "Condimento Aji Molido", medida: 10, familia: "almacen", cantidad: 1, precio: 136.86, img: "photo/02ajiMolido.jpg" },
     { id: 96, nombre: "Condimento Pimienta Negrade", medida: 10, familia: "almacen", cantidad: 1, precio: 115.94, img: "photo/02pimientaNegra.jpg" },
     { id: 97, nombre: "Condimento Pimenton", medida: 10, familia: "almacen", cantidad: 1, precio: 231.55, img: "photo/02pimenton.jpg" },
@@ -254,7 +254,7 @@ const productos = [
     // {id: 409, nombre: "Jamon Cocido Scudetto", medida: 4, familia: "fiambres", cantidad: 1, precio: 1108.8, img: "photo/03jamonScudetto.png"},
 
     // Jamon Natural
-    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 4600, img: "photo/03jamonNatLuvianka.png" },
+    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 4930.13, img: "photo/03jamonNatLuvianka.png" },
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
@@ -263,13 +263,13 @@ const productos = [
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2543.04, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2341.64, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2505.53, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 1376.25, img: "photo/03paletaRiosol.png" },
 
     // Crudo
-    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 5455.30, img: "photo/03crudoSol.png" },
+    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 6120.58, img: "photo/03crudoSol.png" },
     // {id: 415, nombre: "Crudo sol del Pilar", medida: 4, familia: "fiambres", cantidad: 1, precio: 4173.97, img: "photo/03crudoPilar.png"},
 
     // Matambres ... LosiFar
@@ -302,7 +302,7 @@ const productos = [
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
     { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 5686.19, img: "photo/03baston42.png" },
-    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 5230.37, img: "photo/03bastonFox.png" },
+    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 5966.20, img: "photo/03bastonFox.png" },
 
     // Bondiolas
     { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 7180.38, img: "photo/03bondiolaLuvianka.png" },
@@ -324,7 +324,7 @@ const productos = [
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.12, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
-    // { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 1558.84, img: "photo/03quesoCerdo42.png" },
+    { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.96, img: "photo/03quesoCerdo42.png" },
     // {id: 206, nombre: "Queso de credo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
     // {id: 207, nombre: "Queso de credo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 999.43, img: "photo/03quesoCerdo8.png"},
     { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1585.08, img: "photo/03quesoCerdoSeoc.png" },
@@ -390,7 +390,7 @@ const productos = [
     // { id: 426, nombre: "Chocolatada Milkaut", medida: 1, familia: "lacteos", cantidad: 1, precio: 506.69, img: "photo/05chocoMilkaut.png" },
 
     // mantecas
-    { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 533.17, img: "photo/05mantecaSere.png" },
+    { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 617.15, img: "photo/05mantecaSere.png" },
     { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 923.38, img: "photo/05mantecaSere.png" },
     { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 299.99, img: "photo/05mantecaSys.png" },
     { id: 246, nombre: "Manteca SYS 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 558.58, img: "photo/05mantecaSys.png" },
@@ -490,11 +490,12 @@ const productos = [
     { id: 434, nombre: "Caballa LB Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbNat.png" },
 
     // Atun Cumana
-    {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
-    {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
+    // {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
+    // {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
     // Atun Marolio
     { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1637.88, img: "photo/08lomitoMarolioA.png" },
     { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1637.88, img: "photo/08lomitoMarolioN.png" },
+    
     { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1070.88, img: "photo/08desmDiqueA.png" },
     // {id: 298, nombre: "Atun Dique Des lomm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 503.88, img: "photo/08desmDiqueN.png"},
     // { id: 402, nombre: "Atun Marbella Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 285.22, img: "photo/08atunMarbella.png" },
