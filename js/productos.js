@@ -168,7 +168,7 @@ const productos = [
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
     { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 317.15, img: "photo/02oralita.png" },
-    { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 105.12, img: "photo/02levaduraCalsa.png" },
+    // { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 105.12, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
     { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 399.64, img: "photo/02empanadaOrali.png" },
@@ -182,7 +182,7 @@ const productos = [
 
     // Arroz Ala
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
-    // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 162.23, img: "photo/02arrozAla.png" },
+    { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
     { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
     { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02arrozMarolio.png" },
@@ -580,9 +580,9 @@ const productos = [
     { id: 342, nombre: "Shampo JyJ 200ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1149.89, img: "photo/09shJ&j.png" },
 
     // Desodorante Patrichs
-    { id: 343, nombre: "Patrichs Black Label", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.39, img: "photo/09patrichsBlack.png" },
-    { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.39, img: "photo/09PatrichsAviator.png" },
-    { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.39, img: "photo/09patrichsGrand.png" },
+    { id: 343, nombre: "Patrichs Black Label", medida: 1, familia: "perfumeria", cantidad: 1, precio: 747.38, img: "photo/09patrichsBlack.png" },
+    { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 747.38, img: "photo/09PatrichsAviator.png" },
+    { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 747.38, img: "photo/09patrichsGrand.png" },
     // desodorante ciell
     { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1494.89, img: "photo/09ciell.png" },
     // desodorante Dove
@@ -683,7 +683,7 @@ const productos = [
     { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 667, img: "photo/10rolloEsencial.png" },
     { id: 386, nombre: "Rollo Cocina Marolio", medida: 1, familia: "limpieza", cantidad: 1, precio: 667, img: "photo/10rolloMarolio.png" },
 
-    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.87, img: "photo/10rolloSussex.png" },
+    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.89, img: "photo/10rolloSussex.png" },
 
 
     // Papel Higienico Esencial
@@ -704,7 +704,7 @@ const productos = [
 
     // Insecticida Selton
     { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 632.39, img: "photo/10insecticida.png" },
-    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 965.89, img: "photo/10raid.png" },
+    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 1011.88, img: "photo/10raid.png" },
 
     // Boligrafo
     { id: 442, nombre: "Bolígrafo Bic Negra", medida: 1, familia: "limpieza", cantidad: 1, precio: 241.39, img: "photo/10negra.png" },
