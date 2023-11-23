@@ -49,11 +49,11 @@ const productos = [
     // ****************************************************** almacen ****************************************************** //
 
     // Sales y Azucares
-    { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02edulcoranteSweet.png" },
-    { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02edulcoranteClasico.png" },
-    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 822, img: "photo/02azucar.png" },
+    { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 863.89, img: "photo/02edulcoranteSweet.png" },
+    { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 863.89, img: "photo/02edulcoranteClasico.png" },
+    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 861.06, img: "photo/02azucar.png" },
 
-    { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 203.88, img: "photo/02salFinaMarolio.png" },
+    { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 119.87, img: "photo/02salFinaElDique.png" },
     { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02salFinaCelusal.png" },
     { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 221.88, img: "photo/02salGruesaCelusal.png" },
@@ -84,10 +84,10 @@ const productos = [
     // Aceite Pureza y Marolio.
     // { id: 51, nombre: "Aceite Pureza 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02aceitePureza.png" },
     // { id: 52, nombre: "Aceite Pureza 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 1115.88, img: "photo/02aceitePureza.png" },
-    // { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png" },
+    { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 1295.89, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // {id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 503.87, img: "photo/02aceiteCanuelas.png"},
-    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02cocinero.png"},
+    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1448.87, img: "photo/02cocinero.png"},
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 241.37, img: "photo/02mayoHell.png" },
@@ -95,7 +95,7 @@ const productos = [
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1198.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 3239.88, img: "photo/02mayoHell.png" },
     // Natura
-    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 239.87, img: "photo/02mayoNatura.png" },
+    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 252.22, img: "photo/02mayoNatura.png" },
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 494.94, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 797.89, img: "photo/02mayoNatura.png" },
     // Savora
@@ -273,8 +273,8 @@ const productos = [
     // {id: 415, nombre: "Crudo sol del Pilar", medida: 4, familia: "fiambres", cantidad: 1, precio: 4173.97, img: "photo/03crudoPilar.png"},
 
     // Matambres ... LosiFar
-    { id: 175, nombre: "Matambres Losifar Carne", medida: 2, familia: "fiambres", cantidad: 1, precio: 3193.54, img: "photo/03matambreLosiC.png" },
-    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 3193.54, img: "photo/03matambreLosiP.png" },
+    { id: 175, nombre: "Matambres Losifar Carne", medida: 2, familia: "fiambres", cantidad: 1, precio: 3592.51, img: "photo/03matambreLosiC.png" },
+    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 3592.51, img: "photo/03matambreLosiP.png" },
     // Campo Argentino
     // {id: 177, nombre: "Matambres Campo Carne", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 1800.96, img: "photo/03matambreCampo.png"},
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 3917.76, img: "photo/03matambreDyc.png" },
@@ -331,7 +331,7 @@ const productos = [
 
     // Salchichas
     { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 421.54, img: "photo/03salchichaComarca.png" },
-    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 650.39, img: "photo/03salchichaPaladini6.png" },
+    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 672.26, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
     // Leberwust, pate y picadillo 
@@ -347,7 +347,7 @@ const productos = [
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    // { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2426.88, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2725.60, img: "photo/04barraPunta.png" },
     { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2765.04, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2433.98, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
@@ -362,7 +362,7 @@ const productos = [
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 3122.31, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2046, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
-    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3408.80, img: "photo/04reggianito.png" },
+    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3540.10, img: "photo/04reggianito.png" },
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
@@ -521,7 +521,7 @@ const productos = [
     // {id: 309, nombre: "Arvejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 116.53, img: "photo/08arvejaBanda.png"},
     { id: 310, nombre: "Jardinera Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 419.88, img: "photo/08jardineraMarolio.png" },
     // { id: 311, nombre: "Jardinera La Colina", medida: 1, familia: "conservas", cantidad: 1, precio: 179.88, img: "photo/08jardineraColina.png" },
-    { id: 312, nombre: "Jardinera La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 367.33, img: "photo/08jardineraBanda.png" },
+    // { id: 312, nombre: "Jardinera La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 367.33, img: "photo/08jardineraBanda.png" },
 
     // palmito, champigniones
     { id: 313, nombre: "Champignion Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1597.05, img: "photo/08champignionMarolio.png" },
@@ -540,7 +540,7 @@ const productos = [
     { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaFileto.png" },
 
     // Tomate
-    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 623.76, img: "photo/08tomateBotella.png" },
+    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 712.76, img: "photo/08tomateBotella.png" },
     { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 395.88, img: "photo/08tomateMarolio.png" },
     { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 455.89, img: "photo/08tomateMolto.png" },
     // perita
@@ -554,28 +554,28 @@ const productos = [
 
     // ****************************************************** Perfumeria ****************************************************** //
 
-    { id: 452, nombre: "Shampo Sedal Cr.Balance 10ml", medida: 24, familia: "perfumeria", cantidad: 1, precio: 32.29, img: "photo/09shampo10ml.png" },
-    { id: 453, nombre: "Acondicionadors Cr.Balance 10ml", medida: 24, familia: "perfumeria", cantidad: 1, precio: 32.29, img: "photo/09shampo10ml.png" },
+    { id: 452, nombre: "Shampo Sedal Cr.Balance 10ml", medida: 24, familia: "perfumeria", cantidad: 1, precio: 37.84, img: "photo/09shampo10ml.png" },
+    { id: 453, nombre: "Acondicionadors Cr.Balance 10ml", medida: 24, familia: "perfumeria", cantidad: 1, precio: 37.84, img: "photo/09shampo10ml.png" },
 
     // Shampoo Sedal
-    { id: 331, nombre: "Shampo Sedal Restauración", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRestauracion.png" },
-    { id: 332, nombre: "Shampo Sedal Rizo Definido", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRizo.png" },
-    { id: 333, nombre: "Shampo Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalLiso.png" },
-    { id: 334, nombre: "Shampo Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalBalance.png" },
-    { id: 335, nombre: "Shampo Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalCreamidas.png" },
-    { id: 454, nombre: "Shampo Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 747.39, img: "photo/09shSedalBalance.png" },
+    { id: 331, nombre: "Shampo Sedal Restauración", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalRestauracion.png" },
+    { id: 332, nombre: "Shampo Sedal Rizo Definido", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalRizo.png" },
+    { id: 333, nombre: "Shampo Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalLiso.png" },
+    { id: 334, nombre: "Shampo Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalBalance.png" },
+    { id: 335, nombre: "Shampo Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalCreamidas.png" },
+    { id: 454, nombre: "Shampo Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09shSedalBalance.png" },
 
     // Crema Sedal
-    { id: 336, nombre: "Crema Sedal Restauración", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRestauracion.png" },
-    { id: 337, nombre: "Crema Sedal Rizo Definido", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalRizo.png" },
-    { id: 338, nombre: "Crema Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalLiso.png" },
-    { id: 339, nombre: "Crema Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalBalance.png" },
-    { id: 340, nombre: "Crema Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 494.39, img: "photo/09shSedalCreamidas.png" },
-    { id: 454, nombre: "Crema Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 747.39, img: "photo/09shSedalBalance.png" },
+    { id: 336, nombre: "Crema Sedal Restauración", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalRestauracion.png" },
+    { id: 337, nombre: "Crema Sedal Rizo Definido", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalRizo.png" },
+    { id: 338, nombre: "Crema Sedal Liso perfecto", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalLiso.png" },
+    { id: 339, nombre: "Crema Sedal Balance", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalBalance.png" },
+    { id: 340, nombre: "Crema Sedal Creamidas", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.88, img: "photo/09shSedalCreamidas.png" },
+    { id: 454, nombre: "Crema Sedal Balance 340ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09shSedalBalance.png" },
 
     // Shampoo Plusbelle
-    { id: 341, nombre: "Shampo Plusbelle Manzana", medida: 1, familia: "perfumeria", cantidad: 1, precio: 597.88, img: "photo/09shPlusbelle.png" },
-    { id: 429, nombre: "Acondicionador Plusbelle", medida: 1, familia: "perfumeria", cantidad: 1, precio: 597.88, img: "photo/09shPlusbelle.png" },
+    { id: 341, nombre: "Shampo Plusbelle Manzana", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1080.89, img: "photo/09shPlusbelle.png" },
+    { id: 429, nombre: "Acondicionador Plusbelle", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1080.89, img: "photo/09shPlusbelle.png" },
     // Shampoo J&J
     { id: 342, nombre: "Shampo JyJ 200ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1149.89, img: "photo/09shJ&j.png" },
 
@@ -586,9 +586,9 @@ const productos = [
     // desodorante ciell
     { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1494.89, img: "photo/09ciell.png" },
     // desodorante Dove
-    { id: 347, nombre: "Desodorante Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 896.87, img: "photo/09desodoranteDove.png" },
+    { id: 347, nombre: "Desodorante Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1264.89, img: "photo/09desodoranteDove.png" },
     // desodorante Rolon Nivea
-    { id: 348, nombre: "Desodorante Rolon Nivea", medida: 1, familia: "perfumeria", cantidad: 1, precio: 517.38, img: "photo/09desodoranteNivea.png" },
+    { id: 348, nombre: "Desodorante Rolon Nivea", medida: 1, familia: "perfumeria", cantidad: 1, precio: 655.39, img: "photo/09desodoranteNivea.png" },
 
     { id: 431, nombre: "Desodorante Axe Marine", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09axe.png" },
     // { id: 431, nombre: "Desodorante Axe Apollo", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09axe.png" },
@@ -668,8 +668,8 @@ const productos = [
     { id: 379, nombre: "J. Psio Esencial Lavanda", medida: 1, familia: "limpieza", cantidad: 1, precio: 247.14, img: "photo/10pisoEsLavanda.png" },
 
     // Jabon Polvo Ala
-    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 344.88, img: "photo/10alaRegular.png" },
-    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 344.88, img: "photo/10alaMatics.png" },
+    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 436.88, img: "photo/10alaRegular.png" },
+    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 436.88, img: "photo/10alaMatics.png" },
 
     // jabon Pan Ropa
     { id: 382, nombre: "J.pan Ropa Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 302.27, img: "photo/10jabonPanRopa.png" },
@@ -678,7 +678,7 @@ const productos = [
     { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 183.89, img: "photo/10esponjaEsencial.png" },
 
     // Limpia Vidrios
-    { id: 384, nombre: "Limpiavidrios Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.88, img: "photo/10limpiaVidriosZorro.png" },
+    { id: 384, nombre: "Limpiavidrios Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 873.89, img: "photo/10limpiaVidriosZorro.png" },
 
     // Rollo Cocina Esencial
     { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 667, img: "photo/10rolloEsencial.png" },
@@ -699,9 +699,9 @@ const productos = [
     { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 1609.89, img: "photo/10bolsaEsencial.png" },
 
     // Lamparas Esencial de Luz
-    {id: 393, nombre: "Lámpara Esencial 7w", medida: 1, familia: "limpieza", cantidad: 1, precio: 482.88, img: "photo/10lampara7.png"},
-    {id: 394, nombre: "Lámpara Esencial 9w", medida: 1, familia: "limpieza", cantidad: 1, precio: 551.88, img: "photo/10lampara9.png"},
-    { id: 395, nombre: "Lámpara Esencial 12w", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.90, img: "photo/10lampara.png" },
+    // {id: 393, nombre: "Lámpara Esencial 7w", medida: 1, familia: "limpieza", cantidad: 1, precio: 482.88, img: "photo/10lampara7.png"},
+    {id: 394, nombre: "Lámpara Esencial 9w", medida: 1, familia: "limpieza", cantidad: 1, precio: 827.88, img: "photo/10lampara9.png"},
+    // { id: 395, nombre: "Lámpara Esencial 12w", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.90, img: "photo/10lampara.png" },
 
     // Insecticida Selton
     { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 632.39, img: "photo/10insecticida.png" },
