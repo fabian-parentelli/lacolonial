@@ -1,4 +1,5 @@
 const vecinos = [
+    {fecha: "24-nov", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 47845.47},
     {fecha: "24-nov", tipo: "Mercado Pago", credito: 0, haber: 30000, saldo: 67845.47},
     {fecha: "24-nov", tipo: "Factura 45854", credito: 45670.63, haber: 0, saldo: 97845.47},
 
@@ -594,6 +595,7 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "27-nov", tipo: "Mercado Pago", credito: 0, haber: 15000, saldo: 17828.77},    
     {fecha: "23-nov", tipo: "Mercado Pago", credito: 0, haber: 12000, saldo: 32828.77},    
     {fecha: "23-nov", tipo: "Factura 45808", credito: 33052.56, haber: 0, saldo: 44828.77},
 
@@ -886,6 +888,9 @@ const viviana = [
 ];
 
 const jorge = [
+    {fecha: "27-nov", tipo: "Pago efectivo", credito: 0, haber: 25000, saldo: 22577.75},
+    {fecha: "27-nov", tipo: "Factura 45868", credito: 21577.75, haber: 0, saldo: 47577.75},
+
     {fecha: "23-nov", tipo: "Pago efectivo", credito: 0, haber: 22543.05, saldo: 26000},
     {fecha: "23-nov", tipo: "Factura 45810", credito: 28543.05, haber: 0, saldo: 48543.05},
 
@@ -1015,6 +1020,9 @@ const jorge = [
 ];
 
 const emilse = [
+    {fecha: "27-nov", tipo: "Factura 45864", credito: 56321.69, haber: 0, saldo: 56321.69},
+    {fecha: "27-nov", tipo: "Pago efcetivo", credito: 0, haber: 18572.92, saldo: 0},
+
     {fecha: "21-nov", tipo: "Factura 45772", credito: 18572.92, haber: 0, saldo: 18572.92},
     {fecha: "21-nov", tipo: "Mercado Pago", credito: 0, haber: 18572.92, saldo: 0},
 
@@ -1145,7 +1153,7 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
-    {fecha: "24-nov", tipo: "Mercado Pago", credito: 0, haber: 7400, saldo: 75568.83},
+    {fecha: "27-nov", tipo: "Mercado Pago", credito: 0, haber: 54700, saldo: 28268.83},
     {fecha: "23-nov", tipo: "Mercado Pago", credito: 0, haber: 6920, saldo: 82968.83},
     {fecha: "22-nov", tipo: "Mercado Pago", credito: 0, haber: 4280, saldo: 89888.83},
     {fecha: "22-nov", tipo: "Factura 45784", credito: 81907.01, haber: 0, saldo: 94168.83},

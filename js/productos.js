@@ -122,11 +122,11 @@ const productos = [
 
     // Yerbas
     { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02yerbaChamigo.png" },
-    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 875.88, img: "photo/02yerbaMarolio.png" },
+    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 919.89, img: "photo/02yerbaMarolio.png" },
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 827.86, img: "photo/02yerbaUnionLiviana.png" },
     { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaTaragui.png" },
-    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1175.88, img: "photo/02yerbaMananita.png" },
+    { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1322.39, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
     { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02harinaCanuela.png" },
@@ -137,7 +137,7 @@ const productos = [
     // Pan Rallado y Polenta
     { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02panRallado.png" },
     { id: 87, nombre: "Polenta Marolio 500gr", medida: 16, familia: "almacen", cantidad: 1, precio: 233.88, img: "photo/02polenta.png" },
-    { id: 438, nombre: "Vitina 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02vitina.png" },
+    { id: 438, nombre: "Vitina 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 436.89, img: "photo/02vitina.png" },
 
     // Salsas Benidorm
     { id: 88, nombre: "Benidorm Mayonesa", medida: 1, familia: "almacen", cantidad: 1, precio: 566.53, img: "photo/02benMayonesa.png" },
@@ -192,8 +192,8 @@ const productos = [
     // Te y Mate cocido ...
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02teTaragui.png" },
     { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 239.88, img: "photo/02teMarolio.png" },
-    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02mateCocidoUnion.png" },
-    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 335.88, img: "photo/02mateCocidoMarolio.png" },
+    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 551.88, img: "photo/02mateCocidoUnion.png" },
+    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 379.39, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
     { id: 123, nombre: "Sopa Verdura Clásica", medida: 1, familia: "almacen", cantidad: 1, precio: 455.9, img: "photo/02sopaVerduraC.png" },
@@ -223,10 +223,10 @@ const productos = [
     { id: 150, nombre: "Flan D. Leche Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 191.89, img: "photo/02flanEsLeche.png" },
     { id: 140, nombre: "Flan Vainilla Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 191.89, img: "photo/02flanEsVainilla.png" },
     // Gelatina Marolio
-    { id: 151, nombre: "Gelatina Marolio Cereza", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02gelatinaMaCere.png" },
-    { id: 152, nombre: "Gelatina Marolio Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02gelatinaMaFram.png" },
-    { id: 153, nombre: "Gelatina Marolio Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02gelatinaMaFrut.png" },
-    { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02gelatinaMaLight.png" },
+    { id: 151, nombre: "Gelatina Marolio Cereza", medida: 1, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02gelatinaMaCere.png" },
+    { id: 152, nombre: "Gelatina Marolio Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02gelatinaMaFram.png" },
+    { id: 153, nombre: "Gelatina Marolio Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02gelatinaMaFrut.png" },
+    { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02gelatinaMaLight.png" },
     // Gelatina Esquisita
     { id: 155, nombre: "Gelatina Exquisita Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02gelatinaEsFram.png" },
     { id: 156, nombre: "Gelatina Exquisita Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02gelatinaEsFrut.png" },
@@ -517,7 +517,7 @@ const productos = [
     { id: 307, nombre: "Poroto Alubia La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 446.45, img: "photo/08porotoAlubiaBanda.png" },
 
     // Arvejas y Jardinera
-    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 287.88, img: "photo/08arvejaMarolio.png" },
+    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 379.39, img: "photo/08arvejaMarolio.png" },
     // {id: 309, nombre: "Arvejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 116.53, img: "photo/08arvejaBanda.png"},
     { id: 310, nombre: "Jardinera Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 419.88, img: "photo/08jardineraMarolio.png" },
     // { id: 311, nombre: "Jardinera La Colina", medida: 1, familia: "conservas", cantidad: 1, precio: 179.88, img: "photo/08jardineraColina.png" },
@@ -584,7 +584,7 @@ const productos = [
     { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09PatrichsAviator.png" },
     { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09patrichsGrand.png" },
     // desodorante ciell
-    { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1494.89, img: "photo/09ciell.png" },
+    { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1609.89, img: "photo/09ciell.png" },
     // desodorante Dove
     { id: 347, nombre: "Desodorante Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1264.89, img: "photo/09desodoranteDove.png" },
     // desodorante Rolon Nivea
@@ -633,7 +633,7 @@ const productos = [
     { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 448.39, img: "photo/09linaNocturna.png" },
     { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 212.64, img: "photo/09toallaCalipso.png" },
     // { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1110.77, img: "photo/09tamponKotekmedio20.png" },
-    { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 229.89, img: "photo/09doncella.png" },
+    { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09doncella.png" },
 
     // Pañuelos Elite
     { id: 366, nombre: "Pañuelos Elite x 3unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 517.39, img: "photo/09panueloElite.png" },
@@ -647,7 +647,7 @@ const productos = [
     { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 367.88, img: "photo/10detergenteEsLimon.png" },
     { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 367.88, img: "photo/10detergenteEsHierbas.png" },
     // Cif
-    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 448.39, img: "photo/10detergenteCif.png" },
+    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.89, img: "photo/10detergenteCif.png" },
 
     // Lavandina ... Ayudìn
     { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 919.88, img: "photo/10lavandinaAy2.png" },
