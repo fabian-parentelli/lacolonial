@@ -51,7 +51,7 @@ const productos = [
     // Sales y Azucares
     { id: 32, nombre: "Edulcorante Sweet 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 779.88, img: "photo/02edulcoranteSweet.png" },
     { id: 33, nombre: "Edulcorante Clásico 200cc", medida: 1, familia: "almacen", cantidad: 1, precio: 779.88, img: "photo/02edulcoranteClasico.png" },
-    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 861.06, img: "photo/02azucar.png" },
+    { id: 34, nombre: "Azucar La Muñeca 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 897, img: "photo/02azucar.png" },
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 119.87, img: "photo/02salFinaElDique.png" },
@@ -280,7 +280,7 @@ const productos = [
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 3917.76, img: "photo/03matambreDyc.png" },
 
     // Mortadelas
-    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 3079.71, img: "photo/03mortadelaCalcha.png" },
+    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 3425.23, img: "photo/03mortadelaCalcha.png" },
     { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2787.56, img: "photo/03mortadelaCanon.png" },
     { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2035.20, img: "photo/03mortadelaApetece.png" },
     { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 3149.65, img: "photo/03mortadela42.png" },
@@ -291,7 +291,7 @@ const productos = [
     { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 5880.28, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4680.56, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
-    { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 4146.91, img: "photo/03salameApetece.png" },
+    { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 4835.16, img: "photo/03salameApetece.png" },
 
     // Secos ... (salamines, candelarios, baston)
     { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03salamines42F.png" },
@@ -347,9 +347,9 @@ const productos = [
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2725.60, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2919.60, img: "photo/04barraPunta.png" },
     { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2850.56, img: "photo/04barraEsnaola.png" },
-    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2433.98, img: "photo/04barraMelincue.png" },
+    // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2433.98, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
 
@@ -371,7 +371,7 @@ const productos = [
 
     // Varios (parrillero, fiambrin, cheddar)
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 5250.96, img: "photo/04parrillero.png" },
-    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4465.86, img: "photo/04fiambrin.png" },
+    { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4689.16, img: "photo/04fiambrin.png" },
     { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4350.77, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
@@ -385,7 +385,7 @@ const productos = [
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 720.91, img: "photo/05leche0lactoza.png" },
     // {id: 241, nombre: "Leche Oferta Larga Vida", medida: 1, familia: "lacteos", cantidad: 1, precio: 363.88, img: "photo/05lecheOferta.png"},
 
-    { id: 242, nombre: "Crema de leche 200cc", medida: 1, familia: "lacteos", cantidad: 1, precio: 706.98, img: "photo/05cremaLeche.png" },
+    { id: 242, nombre: "Crema de leche 200cc", medida: 1, familia: "lacteos", cantidad: 1, precio: 742.14, img: "photo/05cremaLeche.png" },
 
     // { id: 426, nombre: "Chocolatada Milkaut", medida: 1, familia: "lacteos", cantidad: 1, precio: 506.69, img: "photo/05chocoMilkaut.png" },
 
