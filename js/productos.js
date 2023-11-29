@@ -75,7 +75,7 @@ const productos = [
     // Jugo Limon
     { id: 47, nombre: "Jugo limon Marolio 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 293.87, img: "photo/02jugoLimon.png" },
     { id: 48, nombre: "Jugo limon Marolio 500cc", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02jugoLimon.png" },
-/    { id: 48, nombre: "Jugo limon Minerva 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 311.88, img: "photo/02jugoMinerva.png" },
+    { id: 48, nombre: "Jugo limon Minerva 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 311.88, img: "photo/02jugoMinerva.png" },
     // Esencia de  Vainilla
     // {id: 49, nombre: "Esencia de Vainilla Tahití", medida: 1, familia: "almacen", cantidad: 1, precio: 203.14, img: "photo/02vainillaTahiti.png"},
     { id: 50, nombre: "Esencia de Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 522.57, img: "photo/02vainillaMarolio.png" },
