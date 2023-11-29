@@ -25,7 +25,7 @@ const productos = [
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaCheddar350-60.png" },
     { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 509.70, img: "photo/01papaJamon.png" },
-    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 271.19, img: "photo/01chizo400-60.png" },
+    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 337.87, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 338.89, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
     // {id: 22, nombre: "Mani 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01mani500-120-65.png"},
@@ -35,10 +35,10 @@ const productos = [
     { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 253.51, img: "photo/01papaTradicionalCh.png" },
 
     // Frontys
-    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniCrocanteFrontys.png" },
-    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniSaladoFrontys.png" },
-    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniSinSalFrontys.png" },
-    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2361.22, img: "photo/01maniVainaFrontys.png" },
+    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniCrocanteFrontys.png" },
+    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSaladoFrontys.png" },
+    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSinSalFrontys.png" },
+    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniVainaFrontys.png" },
     { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1400.26, img: "photo/01palitoFrontys.png" },
 
     // Otros
@@ -75,8 +75,7 @@ const productos = [
     // Jugo Limon
     { id: 47, nombre: "Jugo limon Marolio 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 293.87, img: "photo/02jugoLimon.png" },
     { id: 48, nombre: "Jugo limon Marolio 500cc", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02jugoLimon.png" },
-    { id: 48, nombre: "Jugo limon Minerva 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 311.88, img: "photo/02jugoMinerva.png" },
-
+/    { id: 48, nombre: "Jugo limon Minerva 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 311.88, img: "photo/02jugoMinerva.png" },
     // Esencia de  Vainilla
     // {id: 49, nombre: "Esencia de Vainilla Tahití", medida: 1, familia: "almacen", cantidad: 1, precio: 203.14, img: "photo/02vainillaTahiti.png"},
     { id: 50, nombre: "Esencia de Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 522.57, img: "photo/02vainillaMarolio.png" },
@@ -106,7 +105,7 @@ const productos = [
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02ketchup.png" },
 
     // Cacao, cafe 5Hispanos.
-    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02cacao.png" },
+    { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.87, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 63.08, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1692, img: "photo/02cafeClasico.png" },
@@ -161,9 +160,9 @@ const productos = [
     { id: 454, nombre: "Condimento Nuez Moscada", medida: 10, familia: "almacen", cantidad: 1, precio: 527.76, img: "photo/02nuez.png" },
 
     // Ravioles Orali
-    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02ricota.png" },
-    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02pollo.png" },
-    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 652.58, img: "photo/02verdura.png" },
+    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 805.46, img: "photo/02ricota.png" },
+    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 805.46, img: "photo/02pollo.png" },
+    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 805.46, img: "photo/02verdura.png" },
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
@@ -193,7 +192,7 @@ const productos = [
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02teTaragui.png" },
     { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 239.88, img: "photo/02teMarolio.png" },
     { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 551.88, img: "photo/02mateCocidoUnion.png" },
-    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 379.39, img: "photo/02mateCocidoMarolio.png" },
+    { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 395.87, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
     { id: 123, nombre: "Sopa Verdura Clásica", medida: 1, familia: "almacen", cantidad: 1, precio: 455.9, img: "photo/02sopaVerduraC.png" },
@@ -324,7 +323,7 @@ const productos = [
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2822.15, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
-    { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 2199.96, img: "photo/03quesoCerdo42.png" },
+    { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 2662.13, img: "photo/03quesoCerdo42.png" },
     // {id: 206, nombre: "Queso de credo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
     // {id: 207, nombre: "Queso de credo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 999.43, img: "photo/03quesoCerdo8.png"},
     { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1585.08, img: "photo/03quesoCerdoSeoc.png" },
@@ -342,8 +341,8 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2322.88, img: "photo/04cremosoPunta.png" },
-    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2094.97, img: "photo/04cremosoLactovita.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2434.88, img: "photo/04cremosoPunta.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2349.76, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 1755.60, img: "photo/04cremosoOferta.png" },
 
     // Barras
@@ -378,8 +377,8 @@ const productos = [
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 454.30, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 454.30, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 499, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 499, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 720.91, img: "photo/05leche0lactoza.png" },
@@ -541,11 +540,11 @@ const productos = [
 
     // Tomate
     { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 712.76, img: "photo/08tomateBotella.png" },
-    { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 395.88, img: "photo/08tomateMarolio.png" },
-    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 455.89, img: "photo/08tomateMolto.png" },
+    { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 455.88, img: "photo/08tomateMarolio.png" },
+    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 503.87, img: "photo/08tomateMolto.png" },
     // perita
-    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 305.88, img: "photo/08peritaMarolio.png" },
-    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 407.88, img: "photo/08peritaMolto.png" },
+    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 455.88, img: "photo/08peritaMarolio.png" },
+    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 503.87, img: "photo/08peritaMolto.png" },
 
     // Frutales
     { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1319.88, img: "photo/08duraznoMarolio.png" },
