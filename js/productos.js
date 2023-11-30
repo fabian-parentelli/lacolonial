@@ -106,7 +106,7 @@ const productos = [
 
     // Cacao, cafe 5Hispanos.
     { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.87, img: "photo/02cacao.png" },
-    { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 63.08, img: "photo/02cafe5Hispanos.png" },
+    { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 72.54, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1692, img: "photo/02cafeClasico.png" },
     { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1692, img: "photo/02cafeSuave.png" },
@@ -170,8 +170,8 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 129.60, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 399.64, img: "photo/02empanadaOrali.png" },
-    { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 522.98, img: "photo/02pascualinaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 493.31, img: "photo/02empanadaOrali.png" },
+    { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 645.53, img: "photo/02pascualinaOrali.png" },
     { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
     { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaCriolla.png" },
@@ -286,9 +286,9 @@ const productos = [
     { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
 
     // Salame Milan
-    // { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 4299.47, img: "photo/03salameCalcha.png" },
+    { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 6316.72, img: "photo/03salameCalcha.png" },
     { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 5880.28, img: "photo/03salameFox.png" },
-    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 4680.56, img: "photo/03salame42.png" },
+    { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 6116.72, img: "photo/03salame42.png" },
     { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 4835.16, img: "photo/03salameApetece.png" },
 
@@ -316,8 +316,8 @@ const productos = [
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1880.48, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 1880.48, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2068.54, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2068.54, img: "photo/03salchichonLJ.png" },
     // Los Calvos
     { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 2822.15, img: "photo/03salchichon42P.png" },
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 2822.15, img: "photo/03salchichon42J.png" },
@@ -353,7 +353,7 @@ const productos = [
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
 
     // Muzzarellas
-    { id: 222, nombre: "Muzzarella Barraza", medida: 3, familia: "quesos", cantidad: 1, precio: 2997.72, img: "photo/04muzzaBarraza.png" },
+    { id: 222, nombre: "Muzzarella Barraza", medida: 3, familia: "quesos", cantidad: 1, precio: 3286.80, img: "photo/04muzzaBarraza.png" },
     // {id: 223, nombre: "Muzzarella Campo", medida: 5, familia: "quesos", cantidad: 1, precio: 1291.60, img: "photo/04muzzaCampo.png"},
 
     // Hormas (patgegras, Azul, sardo, reggianito)
@@ -469,7 +469,7 @@ const productos = [
     // {id: 282, nombre: "Caja Batata Choco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 269.93, img: "photo/07caja500Choco.png"},
 
     // Dulce de leche, Miel
-    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 628.85, img: "photo/07dulcePunta.png" },
+    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 713.06, img: "photo/07dulcePunta.png" },
     { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 726.91, img: "photo/07dulceSere.png" },
     { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 768.18, img: "photo/07dulceSere.png" },
     // { id: 285, nombre: "Miel Terra Nova", medida: 1, familia: "mermeladas", cantidad: 1, precio: 342, img: "photo/07mielTerraNova.png" },
