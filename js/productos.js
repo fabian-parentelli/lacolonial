@@ -98,10 +98,10 @@ const productos = [
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 494.94, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 797.89, img: "photo/02mayoNatura.png" },
     // Savora
-    { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 167.88, img: "photo/02savora.png" },
+    { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 239.20, img: "photo/02savora.png" },
     { id: 64, nombre: "Savora 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02savora.png" },
     // Ketchup
-    { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 186.73, img: "photo/02ketchup.png" },
+    { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 239.20, img: "photo/02ketchup.png" },
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02ketchup.png" },
 
     // Cacao, cafe 5Hispanos.
@@ -181,7 +181,7 @@ const productos = [
 
     // Arroz Ala
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
-    { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
+    // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
     { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
     { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02arrozMarolio.png" },
@@ -257,12 +257,12 @@ const productos = [
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
-    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 3327, img: "photo/03pernilFox.png" },
+    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 3689.71, img: "photo/03pernilFox.png" },
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2924.45, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2505.53, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2756.08, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 962.99, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 1376.25, img: "photo/03paletaRiosol.png" },
@@ -347,8 +347,8 @@ const productos = [
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2919.60, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 2850.56, img: "photo/04barraEsnaola.png" },
-    // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2433.98, img: "photo/04barraMelincue.png" },
+    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3135.61, img: "photo/04barraEsnaola.png" },
+    // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2760.58, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
 
@@ -371,14 +371,14 @@ const productos = [
     // Varios (parrillero, fiambrin, cheddar)
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 5250.96, img: "photo/04parrillero.png" },
     { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4689.16, img: "photo/04fiambrin.png" },
-    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4350.77, img: "photo/04cheddarSere.png" },
+    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 4568.20, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 593.12, img: "photo/04cheddarTonadita.png" },
 
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 499, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 499, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 512.33, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 512.33, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 720.91, img: "photo/05leche0lactoza.png" },
@@ -628,9 +628,9 @@ const productos = [
     // { id: 363, nombre: "Maquinita BicFlex3", medida: 6, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09maquinitaBicFlex3.png" },
 
     // Toallita Lina
-    { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 298.88, img: "photo/09linaAnatomica.png" },
-    { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 448.39, img: "photo/09linaNocturna.png" },
-    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 212.64, img: "photo/09toallaCalipso.png" },
+    { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 450.90, img: "photo/09linaAnatomica.png" },
+    { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 493.23, img: "photo/09linaNocturna.png" },
+    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 339.14, img: "photo/09toallaCalipso.png" },
     // { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1110.77, img: "photo/09tamponKotekmedio20.png" },
     { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09doncella.png" },
 
