@@ -2,11 +2,11 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2383.62, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1252.02, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1376.50, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1788.50, img: "photo/01palito800-120-65.png" },
+    // { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1788.50, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2632.55, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2079.36, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
@@ -91,7 +91,7 @@ const productos = [
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 241.37, img: "photo/02mayoHell.png" },
     { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 446.53, img: "photo/02mayoHell.png" },
-    { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1198.93, img: "photo/02mayoHell.png" },
+    { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 1499.88, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 3239.88, img: "photo/02mayoHell.png" },
     // Natura
     { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 252.22, img: "photo/02mayoNatura.png" },
@@ -99,7 +99,7 @@ const productos = [
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 797.89, img: "photo/02mayoNatura.png" },
     // Savora
     { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 239.20, img: "photo/02savora.png" },
-    { id: 64, nombre: "Savora 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02savora.png" },
+    { id: 64, nombre: "Savora 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 383.88, img: "photo/02savora.png" },
     // Ketchup
     { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 239.20, img: "photo/02ketchup.png" },
     { id: 66, nombre: "Ketchup 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02ketchup.png" },
@@ -108,30 +108,30 @@ const productos = [
     { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.87, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 72.54, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
-    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1692, img: "photo/02cafeClasico.png" },
-    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1692, img: "photo/02cafeSuave.png" },
-    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1056, img: "photo/02cafeClasico.png" },
-    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1056, img: "photo/02cafeSuave.png" },
+    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1919.89, img: "photo/02cafeClasico.png" },
+    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1919.89, img: "photo/02cafeSuave.png" },
+    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02cafeClasico.png" },
+    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02cafeSuave.png" },
     // Cafe Marolio
-    { id: 73, nombre: "Cafe Marolio 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1259.88, img: "photo/02cafeMarolio.png" },
-    { id: 74, nombre: "Cafe Marolio .. 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02cafeMarolio.png" },
+    { id: 73, nombre: "Cafe Marolio 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.89, img: "photo/02cafeMarolio.png" },
+    { id: 74, nombre: "Cafe Marolio .. 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1439.89, img: "photo/02cafeMarolio.png" },
     // Cafe Pocillo
     // { id: 75, nombre: "Cafe El Pocillo 170gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1079.88, img: "photo/02cafePocillo.png" },
     // { id: 76, nombre: "Cafe El Pocillo 125gr", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02cafePocillo.png" },
 
     // Yerbas
     { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02yerbaChamigo.png" },
-    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 919.89, img: "photo/02yerbaMarolio.png" },
-    { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaUnion.png" },
+    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02yerbaMarolio.png" },
+    { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1499.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 827.86, img: "photo/02yerbaUnionLiviana.png" },
-    { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaTaragui.png" },
+    { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1499.88, img: "photo/02yerbaTaragui.png" },
     { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1322.39, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
     { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02harinaCanuela.png" },
     { id: 83, nombre: "Harina Pueza 0000 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 431.88, img: "photo/02harina0000.png" },
     { id: 84, nombre: "Harina Leudante 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02harinaLeudante.png" },
-    { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02harinaPizza.png" },
+    { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02harinaPizza.png" },
 
     // Pan Rallado y Polenta
     { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02panRallado.png" },
@@ -174,8 +174,8 @@ const productos = [
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 645.53, img: "photo/02pascualinaOrali.png" },
     { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
-    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaCriolla.png" },
-    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 408.18, img: "photo/02empanadaHojaldre.png" },
+    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaCriolla.png" },
+    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaHojaldre.png" },
     { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 523.81, img: "photo/02pascualinaCriolla.png" },
     { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 523.81, img: "photo/02pascualinaHojaldre.png" },
 
@@ -189,9 +189,9 @@ const productos = [
     { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02arrozMolto.png" },
 
     // Te y Mate cocido ...
-    { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 257.88, img: "photo/02teTaragui.png" },
-    { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 239.88, img: "photo/02teMarolio.png" },
-    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 551.88, img: "photo/02mateCocidoUnion.png" },
+    { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 383.88, img: "photo/02teTaragui.png" },
+    { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 287.88, img: "photo/02teMarolio.png" },
+    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 617.88, img: "photo/02mateCocidoUnion.png" },
     { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 395.87, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
@@ -213,7 +213,7 @@ const productos = [
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02vinagreA.png" },
-    // { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02vinagreA.png" },
+    { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 515.88, img: "photo/02vinagreA.png" },
     { id: 137, nombre: "Vinagre Manzana", medida: 1, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
@@ -279,9 +279,9 @@ const productos = [
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 3917.76, img: "photo/03matambreDyc.png" },
 
     // Mortadelas
-    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 3425.23, img: "photo/03mortadelaCalcha.png" },
-    { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 2787.56, img: "photo/03mortadelaCanon.png" },
-    { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2035.20, img: "photo/03mortadelaApetece.png" },
+    { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 3596.12, img: "photo/03mortadelaCalcha.png" },
+    { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 3220.27, img: "photo/03mortadelaCanon.png" },
+    { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 2610.46, img: "photo/03mortadelaApetece.png" },
     { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 3149.65, img: "photo/03mortadela42.png" },
     { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
 
@@ -293,14 +293,14 @@ const productos = [
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 4835.16, img: "photo/03salameApetece.png" },
 
     // Secos ... (salamines, candelarios, baston)
-    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03salamines42F.png" },
-    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03salamines42G.png" },
-    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03salamines42L.png" },
+    { id: 188, nombre: "Salamines 42 Fino", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 6880.31, img: "photo/03salamines42F.png" },
+    { id: 189, nombre: "Salamines 42 Grueso", medida: 0.75, familia: "fiambres", cantidad: 1, precio: 6880.31, img: "photo/03salamines42G.png" },
+    { id: 190, nombre: "Salamines 42 Longaniza", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 6880.31, img: "photo/03salamines42L.png" },
     // Candelarios leopardo
-    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03candelario42.png" },
+    { id: 191, nombre: "Candelarios Los Calvos", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 6880.31, img: "photo/03candelario42.png" },
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
-    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 6254.88, img: "photo/03baston42.png" },
+    { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 6880.31, img: "photo/03baston42.png" },
     { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 5966.20, img: "photo/03bastonFox.png" },
 
     // Bondiolas
@@ -361,8 +361,8 @@ const productos = [
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 3621.18, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2046, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
-    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3540.10, img: "photo/04reggianito.png" },
-    { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
+    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3997.06, img: "photo/04reggianito.png" },
+    // { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
     { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 418.87, img: "photo/04ralladoSere.png" },
@@ -389,8 +389,8 @@ const productos = [
     // { id: 426, nombre: "Chocolatada Milkaut", medida: 1, familia: "lacteos", cantidad: 1, precio: 506.69, img: "photo/05chocoMilkaut.png" },
 
     // mantecas
-    { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 617.15, img: "photo/05mantecaSere.png" },
-    { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 923.38, img: "photo/05mantecaSere.png" },
+    { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 691.24, img: "photo/05mantecaSere.png" },
+    // { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 923.38, img: "photo/05mantecaSere.png" },
     { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 307.56, img: "photo/05mantecaSys.png" },
     // { id: 246, nombre: "Manteca SYS 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 558.58, img: "photo/05mantecaSys.png" },
     
@@ -411,10 +411,10 @@ const productos = [
     // { id: 253, nombre: "Morando Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3158.09, img: "photo/06morandonegra.png" },
 
     // Sachet 90gr
-    { id: 254, nombre: "Sachet Verdes .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 335.88, img: "photo/06sachetVerde.png" },
-    { id: 255, nombre: "Sachet Descarozada 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 335.88, img: "photo/06sachetDesc.png" },
-    { id: 256, nombre: "Sachet Negras .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 335.88, img: "photo/06sachetNegra.png" },
-    { id: 257, nombre: "Sachet Morron 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 335.88, img: "photo/06sachetMorron.png" },
+    { id: 254, nombre: "Sachet Verdes .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 623.89, img: "photo/06sachetVerde.png" },
+    { id: 255, nombre: "Sachet Descarozada 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 623.89, img: "photo/06sachetDesc.png" },
+    { id: 256, nombre: "Sachet Negras .. 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 623.89, img: "photo/06sachetNegra.png" },
+    { id: 257, nombre: "Sachet Morron 70gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 623.89, img: "photo/06sachetMorron.png" },
 
     // Ajies, Pickles, Anchoas
     { id: 258, nombre: "Ajies Olifaza 900gr", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3366.92, img: "photo/06ajiesOlifaza.png" },
@@ -459,9 +459,9 @@ const productos = [
     // {id: 276, nombre: "Esnaola Light Damasco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 226.54, img: "photo/07EsLightDamasco.png"},
 
     // Mermelada Marolio    
-    { id: 277, nombre: "Mermelada Marolio Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 638.74, img: "photo/07merMarolioFrutilla.png" },
-    // { id: 278, nombre: "Mermelada Marolio Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 638.74, img: "photo/07merMarolioCiruela.png" },
-    // { id: 279, nombre: "Mermelada Marolio Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 638.74, img: "photo/07merMarolioDurazno.png" },
+    { id: 277, nombre: "Mermelada Marolio Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioFrutilla.png" },
+    { id: 278, nombre: "Mermelada Marolio Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioCiruela.png" },
+    { id: 279, nombre: "Mermelada Marolio Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioDurazno.png" },
 
     // Caja x 500
     { id: 280, nombre: "Caja x500 Membrillo", medida: 1, familia: "mermeladas", cantidad: 1, precio: 983.13, img: "photo/07caja500Membrillo.png" },
@@ -470,8 +470,8 @@ const productos = [
 
     // Dulce de leche, Miel
     { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 713.06, img: "photo/07dulcePunta.png" },
-    { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 726.91, img: "photo/07dulceSere.png" },
-    { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 768.18, img: "photo/07dulceSere.png" },
+    { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 942.65, img: "photo/07dulceSere.png" },
+    // { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 768.18, img: "photo/07dulceSere.png" },
     // { id: 285, nombre: "Miel Terra Nova", medida: 1, familia: "mermeladas", cantidad: 1, precio: 342, img: "photo/07mielTerraNova.png" },
 
     // ****************************************************** Concerva ****************************************************** //
@@ -504,10 +504,7 @@ const productos = [
     // {id: 299, nombre: "Atun La Banada lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 505.68, img: "photo/08lomitoBandaA.png"},
     // {id: 300, nombre: "Atun La Banada lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 505.68, img: "photo/08lomitoBandaN.png"},
     { id: 301, nombre: "Atun La Banda desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1054.59, img: "photo/08desmBandaA.png" },
-    { id: 302, nombre: "Atun La Banda desm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1054.59, img: "photo/08desmBandaN.png" },
-
-    // Morron y legumbres
-    { id: 303, nombre: "Morron Cuamana", medida: 1, familia: "conservas", cantidad: 1, precio: 889.54, img: "photo/08morronCumana.png" },
+    { id: 302, nombre: "Atun La Banda desm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1054.59, img: "photo/08desmBandaN.png" },    // Morron y legumbres    { id: 303, nombre: "Morron Cuamana", medida: 1, familia: "conservas", cantidad: 1, precio: 889.54, img: "photo/08morronCumana.png" },
     { id: 400, nombre: "Lenteja Lata Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 323.87, img: "photo/08lentejaLataMarolio.png" },
     { id: 304, nombre: "Lentejas Tetra Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 323.87, img: "photo/08lentejasMarolio.png" },
     // {id: 305, nombre: "Lentejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 244.44, img: "photo/08lentejaBanda.png"},
@@ -516,7 +513,7 @@ const productos = [
     { id: 307, nombre: "Poroto Alubia La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 446.45, img: "photo/08porotoAlubiaBanda.png" },
 
     // Arvejas y Jardinera
-    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 379.39, img: "photo/08arvejaMarolio.png" },
+    { id: 308, nombre: "Arvejas Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 431.88, img: "photo/08arvejaMarolio.png" },
     // {id: 309, nombre: "Arvejas La Banda", medida: 1, familia: "conservas", cantidad: 1, precio: 116.53, img: "photo/08arvejaBanda.png"},
     { id: 310, nombre: "Jardinera Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 419.88, img: "photo/08jardineraMarolio.png" },
     // { id: 311, nombre: "Jardinera La Colina", medida: 1, familia: "conservas", cantidad: 1, precio: 179.88, img: "photo/08jardineraColina.png" },
@@ -533,23 +530,25 @@ const productos = [
     { id: 318, nombre: "Choclo La Banda Cremoso", medida: 1, familia: "conservas", cantidad: 1, precio: 1079.88, img: "photo/08cremosoBanda.png" },
 
     // Salsa Listas
-    { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPizza.png" },
-    { id: 320, nombre: "Salsa Molto Portugueza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPortugueza.png" },
-    { id: 321, nombre: "Salsa Molto Pomarola", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPomarola.png" },
-    { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaFileto.png" },
+    // { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPizza.png" },
+    { id: 320, nombre: "Salsa Molto Portugueza", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaPortugueza.png" },
+    { id: 321, nombre: "Salsa Molto Pomarola", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaPomarola.png" },
+    { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaFileto.png" },
+    // Salsa marolio
+    { id: 322, nombre: "Salsa Marolio Pizza 200gr", medida: 1, familia: "conservas", cantidad: 1, precio: 575.88, img: "photo/08.png" },
 
     // Tomate
     { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 712.76, img: "photo/08tomateBotella.png" },
-    { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 455.88, img: "photo/08tomateMarolio.png" },
-    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 503.87, img: "photo/08tomateMolto.png" },
+    { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 587.88, img: "photo/08tomateMarolio.png" },
+    { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 743.89, img: "photo/08tomateMolto.png" },
     // perita
-    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 455.88, img: "photo/08peritaMarolio.png" },
-    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 503.87, img: "photo/08peritaMolto.png" },
+    { id: 326, nombre: "Perita Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 659.88, img: "photo/08peritaMarolio.png" },
+    { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 743.89, img: "photo/08peritaMolto.png" },
 
     // Frutales
     { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1319.88, img: "photo/08duraznoMarolio.png" },
     { id: 329, nombre: "Anana Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 2279.88, img: "photo/08ananaMarolio.png" },
-    { id: 330, nombre: "Coctel Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1559.88, img: "photo/08coctelMarolio.png" },
+    { id: 330, nombre: "Coctel Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 2039.88, img: "photo/08coctelMarolio.png" },
 
     // ****************************************************** Perfumeria ****************************************************** //
 
@@ -579,9 +578,9 @@ const productos = [
     { id: 342, nombre: "Shampo JyJ 200ml", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1149.89, img: "photo/09shJ&j.png" },
 
     // Desodorante Patrichs
-    { id: 343, nombre: "Patrichs Black Label", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09patrichsBlack.png" },
-    { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09PatrichsAviator.png" },
-    { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09patrichsGrand.png" },
+    { id: 343, nombre: "Patrichs Black Label", medida: 1, familia: "perfumeria", cantidad: 1, precio: 977.39, img: "photo/09patrichsBlack.png" },
+    { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 977.39, img: "photo/09PatrichsAviator.png" },
+    { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 977.39, img: "photo/09patrichsGrand.png" },
     // desodorante ciell
     { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1609.89, img: "photo/09ciell.png" },
     // desodorante Dove
@@ -599,10 +598,10 @@ const productos = [
     // {id: 413, nombre: "Kolynos Fresc", medida: 1, familia: "perfumeria", cantidad: 1, precio: 114.89, img: "photo/09kolynosFresc.png"},
 
     // jabon tocador ... Rexona
-    { id: 352, nombre: "J. Tocador Rexona Sensible", medida: 1, familia: "perfumeria", cantidad: 1, precio: 337.98, img: "photo/09rexonaSensible.png" },
-    { id: 353, nombre: "J. Tocador Rexona Cotton", medida: 1, familia: "perfumeria", cantidad: 1, precio: 337.98, img: "photo/09rexonaCotton.png" },
-    { id: 354, nombre: "J. Tocador Rexona Orchid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 337.98, img: "photo/09rexonaOrchid.png" },
-    { id: 457, nombre: "J. Tocador Rexona Active", medida: 1, familia: "perfumeria", cantidad: 1, precio: 337.98, img: "photo/09jabRexonaActive.png" },
+    { id: 352, nombre: "J. Tocador Rexona Sensible", medida: 1, familia: "perfumeria", cantidad: 1, precio: 344.88, img: "photo/09rexonaSensible.png" },
+    { id: 353, nombre: "J. Tocador Rexona Cotton", medida: 1, familia: "perfumeria", cantidad: 1, precio: 344.88, img: "photo/09rexonaCotton.png" },
+    { id: 354, nombre: "J. Tocador Rexona Orchid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 344.88, img: "photo/09rexonaOrchid.png" },
+    { id: 457, nombre: "J. Tocador Rexona Active", medida: 1, familia: "perfumeria", cantidad: 1, precio: 344.88, img: "photo/09jabRexonaActive.png" },
     // Patricia Allen
     { id: 355, nombre: "J. Tocador P.Allen Humectacion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 519.10, img: "photo/09pAllenHumecta.png" },
     { id: 356, nombre: "J. Tocador P.Allen Tropial", medida: 1, familia: "perfumeria", cantidad: 1, precio: 519.10, img: "photo/09pAllenTropical.png" },
@@ -610,10 +609,10 @@ const productos = [
     { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 519.10, img: "photo/09pAllenSuavidad.png" },
     { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 519.10, img: "photo/09pAllenEquilibrio.png" },
     // Plusbelle
-    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusEnergia.png" },
-    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusFrescura.png" },
-    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusBelleza.png" },
-    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 301.75, img: "photo/09plusRelajacion.png" },
+    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 367.89, img: "photo/09plusEnergia.png" },
+    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 367.89, img: "photo/09plusFrescura.png" },
+    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 367.89, img: "photo/09plusBelleza.png" },
+    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 367.89, img: "photo/09plusRelajacion.png" },
     // Jabon Neutro y Glicerina
     // {id: 361, nombre: "Jabon Neutro Odorno", medida: 1, familia: "perfumeria", cantidad: 1, precio: 138.75, img: "photo/09odorno.png"},
     { id: 410, nombre: "Jabon Neutro Estrella Gli", medida: 1, familia: "perfumeria", cantidad: 1, precio: 448.39, img: "photo/09jabonNeutroEstrella.png" },
@@ -629,7 +628,7 @@ const productos = [
 
     // Toallita Lina
     { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 450.90, img: "photo/09linaAnatomica.png" },
-    { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 493.23, img: "photo/09linaNocturna.png" },
+    { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 689.90, img: "photo/09linaNocturna.png" },
     { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 339.14, img: "photo/09toallaCalipso.png" },
     // { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1110.77, img: "photo/09tamponKotekmedio20.png" },
     { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09doncella.png" },
@@ -675,22 +674,22 @@ const productos = [
     { id: 382, nombre: "J.pan Ropa Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 302.27, img: "photo/10jabonPanRopa.png" },
 
     // Esponja Esencial
-    { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 183.89, img: "photo/10esponjaEsencial.png" },
+    { id: 383, nombre: "Esponja Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 229.89, img: "photo/10esponjaEsencial.png" },
 
     // Limpia Vidrios
     { id: 384, nombre: "Limpiavidrios Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 873.89, img: "photo/10limpiaVidriosZorro.png" },
 
     // Rollo Cocina Esencial
-    { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 667, img: "photo/10rolloEsencial.png" },
-    { id: 386, nombre: "Rollo Cocina Marolio", medida: 1, familia: "limpieza", cantidad: 1, precio: 667, img: "photo/10rolloMarolio.png" },
+    { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 862.39, img: "photo/10rolloEsencial.png" },
+    { id: 386, nombre: "Rollo Cocina Marolio", medida: 1, familia: "limpieza", cantidad: 1, precio: 862.39, img: "photo/10rolloMarolio.png" },
 
-    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.89, img: "photo/10rolloSussex.png" },
+    // { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.89, img: "photo/10rolloSussex.png" },
 
 
     // Papel Higienico Esencial
     // { id: 387, nombre: "Papel Hig Esencial texturado 6x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 701.39, img: "photo/10papelHigText6.jpg" },
     { id: 388, nombre: "Papel Hig Esencial Texturado 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.38, img: "photo/10papelHigText4.png" },
-    // { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 659.88, img: "photo/10papelHigBlanco.jpg" },
+    { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10papelHigBlanco.jpg" },
 
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 323.87, img: "photo/10bolsaEsencial.png" },
@@ -704,8 +703,8 @@ const productos = [
     // { id: 395, nombre: "Lámpara Esencial 12w", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.90, img: "photo/10lampara.png" },
 
     // Insecticida Selton
-    { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 632.39, img: "photo/10insecticida.png" },
-    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 1011.88, img: "photo/10raid.png" },
+    { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 896.89, img: "photo/10insecticida.png" },
+    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 1218.89, img: "photo/10raid.png" },
 
     // Boligrafo
     { id: 442, nombre: "Bolígrafo Bic Negra", medida: 1, familia: "limpieza", cantidad: 1, precio: 241.39, img: "photo/10negra.png" },
@@ -715,4 +714,4 @@ const productos = [
 
 ];
 
-// 458
+// 459
