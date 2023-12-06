@@ -128,8 +128,8 @@ const productos = [
     { id: 81, nombre: "Yerba Mañanita 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1322.39, img: "photo/02yerbaMananita.png" },
 
     // Harina Cañuelas
-    { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 323.88, img: "photo/02harinaCanuela.png" },
-    { id: 83, nombre: "Harina Pueza 0000 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 431.88, img: "photo/02harina0000.png" },
+    { id: 82, nombre: "Harina Cañuelas 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02harinaCanuela.png" },
+    { id: 83, nombre: "Harina Pueza 0000 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 767.87, img: "photo/02harina0000.png" },
     { id: 84, nombre: "Harina Leudante 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02harinaLeudante.png" },
     { id: 85, nombre: "Harina Pizza ..... 1kg", medida: 5, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02harinaPizza.png" },
 
@@ -176,17 +176,17 @@ const productos = [
     // Empanadas y pascualinas Litoraleña
     { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaCriolla.png" },
     { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaHojaldre.png" },
-    { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 523.81, img: "photo/02pascualinaCriolla.png" },
-    { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 523.81, img: "photo/02pascualinaHojaldre.png" },
+    { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 570.61, img: "photo/02pascualinaCriolla.png" },
+    { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 570.61, img: "photo/02pascualinaHojaldre.png" },
 
     // Arroz Ala
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
     // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
-    { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
-    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02arrozMarolio.png" },
+    // { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
+    // { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02arrozMarolio.png" },
     // Arroz Molto
-    { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02arrozMolto.png" },
+    { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 779.87, img: "photo/02arrozMolto.png" },
 
     // Te y Mate cocido ...
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 383.88, img: "photo/02teTaragui.png" },
@@ -213,7 +213,7 @@ const productos = [
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02vinagreA.png" },
-    { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 515.88, img: "photo/02vinagreA.png" },
+    { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02vinagreA.png" },
     { id: 137, nombre: "Vinagre Manzana", medida: 1, familia: "almacen", cantidad: 1, precio: 377.88, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
@@ -530,7 +530,7 @@ const productos = [
     { id: 318, nombre: "Choclo La Banda Cremoso", medida: 1, familia: "conservas", cantidad: 1, precio: 1079.88, img: "photo/08cremosoBanda.png" },
 
     // Salsa Listas
-    // { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 347.88, img: "photo/08salsaPizza.png" },
+    { id: 319, nombre: "Salsa Molto Pizza", medida: 1, familia: "conservas", cantidad: 1, precio: 719.87, img: "photo/08salsaPizza.png" },
     { id: 320, nombre: "Salsa Molto Portugueza", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaPortugueza.png" },
     { id: 321, nombre: "Salsa Molto Pomarola", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaPomarola.png" },
     { id: 322, nombre: "Salsa Molto Fileto", medida: 1, familia: "conservas", cantidad: 1, precio: 719.88, img: "photo/08salsaFileto.png" },
@@ -642,16 +642,16 @@ const productos = [
     { id: 367, nombre: "Detergente Magistral 500", medida: 1, familia: "limpieza", cantidad: 1, precio: 965.88, img: "photo/10magistral500.png" },
     { id: 368, nombre: "Detergente Magistral 215", medida: 1, familia: "limpieza", cantidad: 1, precio: 459.89, img: "photo/10magistral500.png" },
     // Esencial
-    { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 367.88, img: "photo/10detergenteEsLimon.png" },
-    { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 367.88, img: "photo/10detergenteEsHierbas.png" },
+    { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.88, img: "photo/10detergenteEsLimon.png" },
+    { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.88, img: "photo/10detergenteEsHierbas.png" },
     // Cif
-    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.89, img: "photo/10detergenteCif.png" },
+    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.88, img: "photo/10detergenteCif.png" },
 
     // Lavandina ... Ayudìn
-    { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 919.88, img: "photo/10lavandinaAy2.png" },
+    // { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 919.88, img: "photo/10lavandinaAy2.png" },
     { id: 373, nombre: "Lavandina Ayudin 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.88, img: "photo/10lavandinaAy2.png" },
     // Esencial
-    { id: 374, nombre: "Lavandina Esencial 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 247.14, img: "photo/10lavandinaEsencial.png" },
+    { id: 374, nombre: "Lavandina Esencial 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 396.63, img: "photo/10lavandinaEsencial.png" },
 
     // Desinfectante Ayudin
     { id: 375, nombre: "Desinfectante Ayudin Clasico", medida: 1, familia: "limpieza", cantidad: 1, precio: 644.88, img: "photo/10desinfectanteAyC.png" },
