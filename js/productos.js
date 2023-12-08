@@ -69,8 +69,8 @@ const productos = [
     // {id: 44, nombre: "Pure Papas Maggi", medida: 6, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02pureMaggi.png"},
 
     // Grasa Vacuna y Porcina
-    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 686.40, img: "photo/02grasaVacuna.png" },
-    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 686.40, img: "photo/02grasaPorcina.png" },
+    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 840.72, img: "photo/02grasaVacuna.png" },
+    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 917.34, img: "photo/02grasaPorcina.png" },
 
     // Jugo Limon
     { id: 47, nombre: "Jugo limon Marolio 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 293.87, img: "photo/02jugoLimon.png" },
@@ -83,10 +83,10 @@ const productos = [
     // Aceite Pureza y Marolio.
     // { id: 51, nombre: "Aceite Pureza 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 635.88, img: "photo/02aceitePureza.png" },
     // { id: 52, nombre: "Aceite Pureza 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 1115.88, img: "photo/02aceitePureza.png" },
-    { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 1295.89, img: "photo/02aceiteMarolio.png" },
+    // { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 1295.89, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // {id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 503.87, img: "photo/02aceiteCanuelas.png"},
-    {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1448.87, img: "photo/02cocinero.png"},
+    // {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1448.87, img: "photo/02cocinero.png"},
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 241.37, img: "photo/02mayoHell.png" },
@@ -136,7 +136,7 @@ const productos = [
     // Pan Rallado y Polenta
     { id: 86, nombre: "Pan Rallado Marolio 500gr", medida: 12, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02panRallado.png" },
     { id: 87, nombre: "Polenta Marolio 500gr", medida: 16, familia: "almacen", cantidad: 1, precio: 233.88, img: "photo/02polenta.png" },
-    { id: 438, nombre: "Vitina 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 436.89, img: "photo/02vitina.png" },
+    { id: 438, nombre: "Vitina 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1079.88, img: "photo/02vitina.png" },
 
     // Salsas Benidorm
     { id: 88, nombre: "Benidorm Mayonesa", medida: 1, familia: "almacen", cantidad: 1, precio: 566.53, img: "photo/02benMayonesa.png" },
@@ -166,7 +166,7 @@ const productos = [
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
-    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 317.15, img: "photo/02oralita.png" },
+    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 495.30, img: "photo/02oralita.png" },
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 129.60, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
@@ -228,7 +228,7 @@ const productos = [
     { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02gelatinaMaLight.png" },
     // Gelatina Esquisita
     { id: 155, nombre: "Gelatina Exquisita Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02gelatinaEsFram.png" },
-    { id: 156, nombre: "Gelatina Exquisita Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02gelatinaEsFrut.png" },
+    // { id: 156, nombre: "Gelatina Exquisita Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 275.89, img: "photo/02gelatinaEsFrut.png" },
     // Postres
     { id: 157, nombre: "Postre Esquisita Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 407.88, img: "photo/02postreVainilla.png" },
     { id: 158, nombre: "Postre Esquisita Chcocolate", medida: 1, familia: "almacen", cantidad: 1, precio: 407.88, img: "photo/02postreChoco.png" },
@@ -253,7 +253,7 @@ const productos = [
     // {id: 409, nombre: "Jamon Cocido Scudetto", medida: 4, familia: "fiambres", cantidad: 1, precio: 1108.8, img: "photo/03jamonScudetto.png"},
 
     // Jamon Natural
-    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 4930.13, img: "photo/03jamonNatLuvianka.png" },
+    { id: 166, nombre: "Jamon Natural Luvianka", medida: 6, familia: "fiambres", cantidad: 1, precio: 5515, img: "photo/03jamonNatLuvianka.png" },
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
@@ -347,7 +347,7 @@ const productos = [
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2919.60, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3135.61, img: "photo/04barraEsnaola.png" },
+    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3605.95, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 2760.58, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
@@ -357,7 +357,7 @@ const productos = [
     // {id: 223, nombre: "Muzzarella Campo", medida: 5, familia: "quesos", cantidad: 1, precio: 1291.60, img: "photo/04muzzaCampo.png"},
 
     // Hormas (patgegras, Azul, sardo, reggianito)
-    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 2766.24, img: "photo/04pategras.png" },
+    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 3353.02, img: "photo/04pategras.png" },
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 3621.18, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2046, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
@@ -444,7 +444,7 @@ const productos = [
     {id: 271, nombre: "Mermelada Cormillot Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 909.47, img: "photo/07cormillotCiruela.png"},
     {id: 272, nombre: "Mermelada Cormillot Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 909.47, img: "photo/07cormillotDurazno.png"},
     
-    {id: 451, nombre: "Mermelada Noel Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 527.88, img: "photo/07noelD.png"},
+    // {id: 451, nombre: "Mermelada Noel Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 527.88, img: "photo/07noelD.png"},
 
     // Mermelada Esnaola
     { id: 273, nombre: "Mermelada Esnaola Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 672.35, img: "photo/07esnaolaFrutilla.png" },
@@ -459,9 +459,9 @@ const productos = [
     // {id: 276, nombre: "Esnaola Light Damasco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 226.54, img: "photo/07EsLightDamasco.png"},
 
     // Mermelada Marolio    
-    { id: 277, nombre: "Mermelada Marolio Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioFrutilla.png" },
-    { id: 278, nombre: "Mermelada Marolio Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioCiruela.png" },
-    { id: 279, nombre: "Mermelada Marolio Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 105.88, img: "photo/07merMarolioDurazno.png" },
+    { id: 277, nombre: "Mermelada Marolio Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1005.88, img: "photo/07merMarolioFrutilla.png" },
+    { id: 278, nombre: "Mermelada Marolio Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1005.88, img: "photo/07merMarolioCiruela.png" },
+    { id: 279, nombre: "Mermelada Marolio Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1005.88, img: "photo/07merMarolioDurazno.png" },
 
     // Caja x 500
     { id: 280, nombre: "Caja x500 Membrillo", medida: 1, familia: "mermeladas", cantidad: 1, precio: 983.13, img: "photo/07caja500Membrillo.png" },
