@@ -5,7 +5,7 @@ const productos = [
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1252.02, img: "photo/01chizo400-60.png" },
-    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1376.50, img: "photo/01bastonito300-55.png" },
+    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1582.98, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2056.79, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3027.43, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2079.36, img: "photo/01papaCheddar350-60.png" },
@@ -18,10 +18,10 @@ const productos = [
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 666.07, img: "photo/01mani500-120-65.png" },
 
     // 60 
-    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaTradicionalCh.png" },
-    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaTradicionalCh.png" },
+    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaAmericana550-120-60.png" },
     { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 529.55, img: "photo/01papaSinSal.png" },
-    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 460.18, img: "photo/01papaPay.png" },
+    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaPay.png" },
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaCheddar350-60.png" },
     { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaJamon.png" },
@@ -29,7 +29,7 @@ const productos = [
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 338.89, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
     // {id: 22, nombre: "Mani 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01mani500-120-65.png"},
-    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 410.30, img: "photo/01superCono50.png" },
+    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 435.55, img: "photo/01superCono50.png" },
 
     // 30
     { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 253.51, img: "photo/01papaTradicionalCh.png" },
@@ -261,14 +261,14 @@ const productos = [
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
-    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 2924.45, img: "photo/03paletaComarca.png" },
+    { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 3509.35, img: "photo/03paletaComarca.png" },
     { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2802.36, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 1500, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 2368.13, img: "photo/03paletaRiosol.png" },
 
     // Crudo
-    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 6120.58, img: "photo/03crudoSol.png" },
+    { id: 174, nombre: "Crudo sol de Avellaneda", medida: 3, familia: "fiambres", cantidad: 1, precio: 7983.36, img: "photo/03crudoSol.png" },
     // {id: 415, nombre: "Crudo sol del Pilar", medida: 4, familia: "fiambres", cantidad: 1, precio: 4173.97, img: "photo/03crudoPilar.png"},
 
     // Matambres ... LosiFar
@@ -304,7 +304,7 @@ const productos = [
     { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 7748.01, img: "photo/03bastonFox.png" },
 
     // Bondiolas
-    { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 8834.76, img: "photo/03bondiolaLuvianka.png" },
+    { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 10160.04, img: "photo/03bondiolaLuvianka.png" },
     { id: 195, nombre: "Bondiola Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 11253.06, img: "photo/03bondiola42.png" },
 
     // Pancetas
@@ -316,8 +316,8 @@ const productos = [
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2068.54, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2068.54, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2275.39, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2275.39, img: "photo/03salchichonLJ.png" },
     // Los Calvos
     { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 3422.67, img: "photo/03salchichon42P.png" },
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 3422.67, img: "photo/03salchichon42J.png" },
@@ -329,7 +329,7 @@ const productos = [
     { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 1872.79, img: "photo/03quesoCerdoSeoc.png" },
 
     // Salchichas
-    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 463.69, img: "photo/03salchichaComarca.png" },
+    { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 556.43, img: "photo/03salchichaComarca.png" },
     { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 756.82, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
@@ -391,7 +391,7 @@ const productos = [
     // mantecas
     { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 691.24, img: "photo/05mantecaSere.png" },
     // { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 923.38, img: "photo/05mantecaSere.png" },
-    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 307.56, img: "photo/05mantecaSys.png" },
+    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 365.58, img: "photo/05mantecaSys.png" },
     // { id: 246, nombre: "Manteca SYS 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 558.58, img: "photo/05mantecaSys.png" },
     
     // lacteos
