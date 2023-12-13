@@ -39,7 +39,7 @@ const productos = [
     { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSaladoFrontys.png" },
     { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSinSalFrontys.png" },
     { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniVainaFrontys.png" },
-    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1400.26, img: "photo/01palitoFrontys.png" },
+    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1853.28, img: "photo/01palitoFrontys.png" },
 
     // Otros
     { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 594.80, img: "photo/01nachosMacritas.png" },
@@ -301,7 +301,7 @@ const productos = [
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
     { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 7585.62, img: "photo/03baston42.png" },
-    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 7748.01, img: "photo/03bastonFox.png" },
+    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 6499.25, img: "photo/03bastonFox.png" },
 
     // Bondiolas
     { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 10160.04, img: "photo/03bondiolaLuvianka.png" },
