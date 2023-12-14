@@ -2,44 +2,44 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2787.64, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1252.02, img: "photo/01chizo400-60.png" },
-    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1582.98, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2056.79, img: "photo/01palito800-120-65.png" },
-    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3027.43, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2079.36, img: "photo/01papaCheddar350-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2128.44, img: "photo/01chizo400-60.png" },
+    { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2691.07, img: "photo/01bastonito300-55.png" },
+    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3496.55, img: "photo/01palito800-120-65.png" },
+    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 5146.64, img: "photo/01mani500-120-65.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3534.92, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
-    { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 834.72, img: "photo/01papaTradicionalCh.png" },
-    { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 834.72, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 413.56, img: "photo/01palito800-120-65.png" },
-    { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 666.07, img: "photo/01mani500-120-65.png" },
+    { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaTradicionalCh.png" },
+    { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 703.06, img: "photo/01palito800-120-65.png" },
+    { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 1132.32, img: "photo/01mani500-120-65.png" },
 
     // 60 
-    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaTradicionalCh.png" },
-    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 529.55, img: "photo/01papaSinSal.png" },
-    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 488.51, img: "photo/01papaPay.png" },
-    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaCheddar350-60.png" },
-    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 543.23, img: "photo/01papaJamon.png" },
-    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 337.87, img: "photo/01chizo400-60.png" },
-    { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 338.89, img: "photo/01bastonito300-55.png" },
+    { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaTradicionalCh.png" },
+    { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaSinSal.png" },
+    { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaPay.png" },
+    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 923.48, img: "photo/01papaKetchup.png" },
+    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 923.48, img: "photo/01papaCheddar350-60.png" },
+    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 923.48, img: "photo/01papaJamon.png" },
+    { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 574.38, img: "photo/01chizo400-60.png" },
+    { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 576.12, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
     // {id: 22, nombre: "Mani 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01mani500-120-65.png"},
-    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 435.55, img: "photo/01superCono50.png" },
+    { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 740.44, img: "photo/01superCono50.png" },
 
     // 30
-    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 253.51, img: "photo/01papaTradicionalCh.png" },
+    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 430.97, img: "photo/01papaTradicionalCh.png" },
 
     // Frontys
-    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniCrocanteFrontys.png" },
-    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSaladoFrontys.png" },
-    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniSinSalFrontys.png" },
-    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3157.44, img: "photo/01maniVainaFrontys.png" },
-    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 1853.28, img: "photo/01palitoFrontys.png" },
+    { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniCrocanteFrontys.png" },
+    { id: 26, nombre: "Mani Salado Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniSaladoFrontys.png" },
+    { id: 27, nombre: "Mani Sin Sal Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniSinSalFrontys.png" },
+    { id: 28, nombre: "Mani Vaina Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniVainaFrontys.png" },
+    { id: 29, nombre: "Palito Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 2779.92, img: "photo/01palitoFrontys.png" },
 
     // Otros
     { id: 30, nombre: "Nachos Macritas 90gr", medida: 1, familia: "snacks", cantidad: 1, precio: 594.80, img: "photo/01nachosMacritas.png" },
@@ -55,7 +55,7 @@ const productos = [
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 299.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 281.88, img: "photo/02salFinaElDique.png" },
-    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 389.91, img: "photo/02salFinaCelusal.png" },
+    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 467.88, img: "photo/02salFinaCelusal.png" },
     { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 330.96, img: "photo/02salGruesaCelusal.png" },
     { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 419.88, img: "photo/02salGruesaMarolio.png" },
 
@@ -201,15 +201,15 @@ const productos = [
     { id: 126, nombre: "Sopa Zapallo Light", medida: 1, familia: "almacen", cantidad: 1, precio: 719.90, img: "photo/02SopaZapalloL.png" },
 
     // Fideos Marolio
-    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoTira.png" },
-    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoDado.png" },
-    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoAveM.png"},
-    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoCodi.png"},
-    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoMost.png" },
-    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoTall.png" },
-    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoSpag.png" },
-    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoMuni.png" },
-    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02fideoMono.png"},
+    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoTira.png" },
+    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoDado.png" },
+    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoAveM.png"},
+    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoCodi.png"},
+    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMost.png" },
+    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoTall.png" },
+    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoSpag.png" },
+    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMuni.png" },
+    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMono.png"},
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02vinagreA.png" },
@@ -343,10 +343,10 @@ const productos = [
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 2703.68, img: "photo/04cremosoPunta.png" },
     { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2349.76, img: "photo/04cremosoLactovita.png" },
-    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2110.60, img: "photo/04cremosoOferta.png" },
+    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2177.64, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3319.20, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3279.60, img: "photo/04barraPunta.png" },
     { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3605.95, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3451.40, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
@@ -362,7 +362,7 @@ const productos = [
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2225.17, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
     { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4596.48, img: "photo/04reggianito.png" },
-    // { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 2983.20, img: "photo/04reggianitoBarra.png" },
+    { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 3971.52, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
     { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 469.51, img: "photo/04ralladoSere.png" },
@@ -406,7 +406,7 @@ const productos = [
     { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 5296.90, img: "photo/06olifazaNegra.png" },
 
     // Morando
-    { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2829.03, img: "photo/06morandoVerde.png" },
+    // { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2829.03, img: "photo/06morandoVerde.png" },
     // { id: 252, nombre: "Morando verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2620.54, img: "photo/06morandoVerde.png" },
     // { id: 253, nombre: "Morando Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3158.09, img: "photo/06morandonegra.png" },
 
@@ -684,13 +684,13 @@ const productos = [
     { id: 385, nombre: "Rollo Cocina Esencial", medida: 1, familia: "limpieza", cantidad: 1, precio: 988.89, img: "photo/10rolloEsencial.png" },
     { id: 386, nombre: "Rollo Cocina Marolio", medida: 1, familia: "limpieza", cantidad: 1, precio: 988.89, img: "photo/10rolloMarolio.png" },
 
-    // { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.89, img: "photo/10rolloSussex.png" },
+    { id: 403, nombre: "Rollo Cocina Sussex", medida: 1, familia: "limpieza", cantidad: 1, precio: 1034.89, img: "photo/10rolloSussex.png" },
 
 
     // Papel Higienico Esencial
-    { id: 387, nombre: "Papel Hig Esencial texturado 6x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 1264.88, img: "photo/10papelHigText6.jpg" },
-    { id: 388, nombre: "Papel Hig Esencial Texturado 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.38, img: "photo/10papelHigText4.png" },
-    { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 977.39, img: "photo/10papelHigBlanco.jpg" },
+    // { id: 387, nombre: "Papel Hig Esencial texturado 6x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 1264.88, img: "photo/10papelHigText6.jpg" },
+    { id: 388, nombre: "Papel Hig Esencial Texturado 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 873.87, img: "photo/10papelHigText4.png" },
+    // { id: 389, nombre: "Papel Hig Esencial Blanco 4x30", medida: 1, familia: "limpieza", cantidad: 1, precio: 977.39, img: "photo/10papelHigBlanco.jpg" },
 
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 402.38, img: "photo/10bolsaEsencial.png" },
