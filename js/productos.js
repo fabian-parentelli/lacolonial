@@ -4,11 +4,11 @@ const productos = [
 
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2128.44, img: "photo/01chizo400-60.png" },
+    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2447.69, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2691.07, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3496.55, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 5146.64, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3534.92, img: "photo/01papaCheddar350-60.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4065.14, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -170,12 +170,12 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 140.40, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 493.31, img: "photo/02empanadaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 594.97, img: "photo/02empanadaOrali.png" },
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 645.53, img: "photo/02pascualinaOrali.png" },
-    { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
+    // { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
-    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaCriolla.png" },
-    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 457.16, img: "photo/02empanadaHojaldre.png" },
+    { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 505.09, img: "photo/02empanadaCriolla.png" },
+    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 505.09, img: "photo/02empanadaHojaldre.png" },
     { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 570.61, img: "photo/02pascualinaCriolla.png" },
     { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 570.61, img: "photo/02pascualinaHojaldre.png" },
 
@@ -262,7 +262,7 @@ const productos = [
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 3509.35, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 2802.36, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 3789.61, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 1729.73, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 1500, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 2368.13, img: "photo/03paletaRiosol.png" },
@@ -287,7 +287,7 @@ const productos = [
 
     // Salame Milan
     { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 7819.56, img: "photo/03salameCalcha.png" },
-    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 7395.96, img: "photo/03salameFox.png" },
+    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 8124.07, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 6743.57, img: "photo/03salame42.png" },
     // { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 5560.44, img: "photo/03salameApetece.png" },
@@ -301,7 +301,7 @@ const productos = [
     // { id: 427, nombre: "Candelarios leopardo", medida: 0.5, familia: "fiambres", cantidad: 1, precio: 1431.366, img: "photo/03leopardo.png" },
     // Baston
     { id: 192, nombre: "baston Los Calvos", medida: 1, familia: "fiambres", cantidad: 1, precio: 7585.62, img: "photo/03baston42.png" },
-    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 6499.25, img: "photo/03bastonFox.png" },
+    { id: 193, nombre: "baston Fox", medida: 0.8, familia: "fiambres", cantidad: 2, precio: 8124.07, img: "photo/03bastonFox.png" },
 
     // Bondiolas
     { id: 194, nombre: "Bondiola Luvianka", medida: 1, familia: "fiambres", cantidad: 1, precio: 10160.04, img: "photo/03bondiolaLuvianka.png" },
@@ -316,8 +316,8 @@ const productos = [
     // {id: 199, nombre: "Salchichon Octava Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8P.png"},
     // {id: 200, nombre: "Salchichon Octava Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 1198.99, img: "photo/03salchichon8J.png"},
     // Luvianka
-    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2275.39, img: "photo/03salchichonLP.png" },
-    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2275.39, img: "photo/03salchichonLJ.png" },
+    { id: 201, nombre: "Salchichon Luvianka Primavera", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2912.50, img: "photo/03salchichonLP.png" },
+    { id: 202, nombre: "Salchichon Luvianka Jamon", medida: 2.65, familia: "fiambres", cantidad: 1, precio: 2912.50, img: "photo/03salchichonLJ.png" },
     // Los Calvos
     { id: 203, nombre: "Salchichon 42 Primavera", medida: 3, familia: "fiambres", cantidad: 1, precio: 3422.67, img: "photo/03salchichon42P.png" },
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 3422.67, img: "photo/03salchichon42J.png" },
@@ -347,7 +347,7 @@ const productos = [
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3279.60, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3605.95, img: "photo/04barraEsnaola.png" },
+    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 3966.54, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 3451.40, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
