@@ -2,8 +2,8 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3139.37, img: "photo/01papaCl.png" },
-    { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3139.37, img: "photo/01papaAm.png" },
+    { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaCl.png" },
+    { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaAm.png" },
     
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaAmericana550-120-60.png" },
