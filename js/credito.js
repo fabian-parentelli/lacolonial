@@ -1,4 +1,8 @@
 const vecinos = [
+    {fecha: "18-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 51697.91},
+    {fecha: "18-dic", tipo: "Factura 45788", credito: 46182.44, haber: 0, saldo: 71697.91},
+
+    {fecha: "15-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 255515.47},
     {fecha: "14-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 45515.47},
     {fecha: "12-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 65515.47},
     {fecha: "12-dic", tipo: "Factura 45706", credito: 28138.60, haber: 0, saldo: 85515.47},
@@ -387,6 +391,8 @@ const vecinos = [
 ];
 
 const guillermo = [
+    {fecha: "15-dic", tipo: "Factura 45782", credito: 104475.97, haber: 70000, saldo: 34475.97},
+
     {fecha: "08-dic", tipo: "Pago efectivo", credito: 0, haber: 35000, saldo: 481.66},
     {fecha: "08-dic", tipo: "Factura 45672", credito: 24776.51, haber: 0, saldo: 35481.66},
 
@@ -620,6 +626,9 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "18-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 23229.76},
+    {fecha: "18-dic", tipo: "Factura 45794", credito: 13877.68, haber: 0, saldo: 43229.76},
+
     {fecha: "14-dic", tipo: "Mercado Pago", credito: 0, haber: 18000, saldo: 29352.08},
     {fecha: "14-dic", tipo: "Factura 45750", credito: 16858.14, haber: 0, saldo: 47352.08},    
 
@@ -927,6 +936,9 @@ const viviana = [
 ];
 
 const jorge = [
+    {fecha: "18-dic", tipo: "Pago efectivo", credito: 0, haber: 51152.56, saldo: 47000},
+    {fecha: "18-dic", tipo: "Factira 45792", credito: 52768.11, haber: 0, saldo: 98152.56},
+
     {fecha: "14-dic", tipo: "Pago efectivo", credito: 0, haber: 40000, saldo: 45384.44},
     {fecha: "14-dic", tipo: "Factura 45754", credito: 55210.89, haber: 0, saldo: 85384.42},
 
@@ -1069,6 +1081,9 @@ const jorge = [
 ];
 
 const emilse = [
+    {fecha: "18-dic", tipo: "Factura 45796", credito: 60846.01, haber: 0, saldo: 60846.01},
+    {fecha: "18-dic", tipo: "Mercado Pago", credito: 0, haber: 49246.18, saldo: 0},
+
     {fecha: "11-dic", tipo: "Factura 45676", credito: 49246.18, haber: 0, saldo: 49246.18},
     {fecha: "11-dic", tipo: "Mercado Pago", credito: 0, haber: 57744.66, saldo: 0},
 

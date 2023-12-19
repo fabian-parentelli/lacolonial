@@ -377,8 +377,8 @@ const productos = [
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 540.75, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 540.75, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 603.75, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 603.75, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 848.13, img: "photo/05leche0lactoza.png" },
