@@ -109,7 +109,7 @@ const productos = [
 
     // Cacao, cafe 5Hispanos.
     { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 935.88, img: "photo/02cacao.png" },
-    { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 123.32, img: "photo/02cafe5Hispanos.png" },
+    { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 174.42, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
     { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2159.89, img: "photo/02cafeClasico.png" },
     { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2159.89, img: "photo/02cafeSuave.png" },
@@ -248,7 +248,7 @@ const productos = [
 
     // Jamon Cocido
     { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 5705.28, img: "photo/03jamonOctava.png" },
-    // { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 4716, img: "photo/03jamonLuvianka.png" },
+    { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 6928.08, img: "photo/03jamonLuvianka.png" },
     { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 5194.80, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
@@ -380,8 +380,8 @@ const productos = [
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 603.75, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 603.75, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 614.25, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 614.25, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 848.13, img: "photo/05leche0lactoza.png" },
@@ -542,7 +542,7 @@ const productos = [
     { id: 322, nombre: "Salsa Marolio Pizza 200gr", medida: 1, familia: "conservas", cantidad: 1, precio: 599.89, img: "photo/08.png" },
 
     // Tomate
-    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 875.33, img: "photo/08tomateBotella.png" },
+    { id: 323, nombre: "Tomate Botella", medida: 1, familia: "conservas", cantidad: 1, precio: 1531.80, img: "photo/08tomateBotella.png" },
     { id: 324, nombre: "Tomate Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 647.87, img: "photo/08tomateMarolio.png" },
     { id: 325, nombre: "Tomate Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 743.89, img: "photo/08tomateMolto.png" },
     // perita
@@ -597,7 +597,7 @@ const productos = [
 
     // Dentrifico Colgate
     // {id: 349, nombre: "Colgate Maxima Proteccion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09colgateMaximaP.png"},
-    { id: 350, nombre: "Colgate Original 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 862.39, img: "photo/09colgateBlanco.png" },
+    { id: 350, nombre: "Colgate Original 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1138.39, img: "photo/09colgateBlanco.png" },
     { id: 351, nombre: "Colgate Herbal 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 862.39, img: "photo/09colgateHerbal.png" },
     // {id: 413, nombre: "Kolynos Fresc", medida: 1, familia: "perfumeria", cantidad: 1, precio: 114.89, img: "photo/09kolynosFresc.png"},
 
