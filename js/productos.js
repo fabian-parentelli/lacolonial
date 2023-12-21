@@ -59,7 +59,7 @@ const productos = [
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 347.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 281.88, img: "photo/02salFinaElDique.png" },
     { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 596.29, img: "photo/02salFinaCelusal.png" },
-    { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 431.89, img: "photo/02salGruesaCelusal.png" },
+    { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02salGruesaCelusal.png" },
     // { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 443.88, img: "photo/02salGruesaMarolio.png" },
 
     // Caldo Knorr
@@ -525,7 +525,7 @@ const productos = [
 
     // palmito, champigniones
     { id: 313, nombre: "Champignion Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 2039.89, img: "photo/08champignionMarolio.png" },
-    // { id: 314, nombre: "Palmitos Cumaná", medida: 1, familia: "conservas", cantidad: 1, precio: 1630.26, img: "photo/08palmitoCumana.png" },
+    { id: 314, nombre: "Palmitos Cumaná", medida: 1, familia: "conservas", cantidad: 1, precio: 5182.80, img: "photo/08palmitoCumana.png" },
 
     // Choclos
     { id: 315, nombre: "Choclo Marolio Amamrillo", medida: 1, familia: "conservas", cantidad: 1, precio: 1199.88, img: "photo/08chocloMarolio.png" },
@@ -597,7 +597,7 @@ const productos = [
 
     // Dentrifico Colgate
     // {id: 349, nombre: "Colgate Maxima Proteccion", medida: 1, familia: "perfumeria", cantidad: 1, precio: 310.39, img: "photo/09colgateMaximaP.png"},
-    { id: 350, nombre: "Colgate Original 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1138.39, img: "photo/09colgateBlanco.png" },
+    { id: 350, nombre: "Colgate Original 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1195.31, img: "photo/09colgateBlanco.png" },
     { id: 351, nombre: "Colgate Herbal 70gr", medida: 1, familia: "perfumeria", cantidad: 1, precio: 862.39, img: "photo/09colgateHerbal.png" },
     // {id: 413, nombre: "Kolynos Fresc", medida: 1, familia: "perfumeria", cantidad: 1, precio: 114.89, img: "photo/09kolynosFresc.png"},
 
@@ -613,10 +613,10 @@ const productos = [
     { id: 420, nombre: "J. Tocador P.Allen Suavidad", medida: 1, familia: "perfumeria", cantidad: 1, precio: 551.89, img: "photo/09pAllenSuavidad.png" },
     { id: 421, nombre: "J. Tocador P.Allen Equilibrio", medida: 1, familia: "perfumeria", cantidad: 1, precio: 551.89, img: "photo/09pAllenEquilibrio.png" },
     // Plusbelle
-    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 643.88, img: "photo/09plusEnergia.png" },
-    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 643.88, img: "photo/09plusFrescura.png" },
-    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 643.88, img: "photo/09plusBelleza.png" },
-    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 643.88, img: "photo/09plusRelajacion.png" },
+    { id: 357, nombre: "J. Tocador PLusbelle Energia", medida: 1, familia: "perfumeria", cantidad: 1, precio: 676.07, img: "photo/09plusEnergia.png" },
+    { id: 358, nombre: "J. Tocador PLusbelle Frescura", medida: 1, familia: "perfumeria", cantidad: 1, precio: 676.07, img: "photo/09plusFrescura.png" },
+    { id: 359, nombre: "J. Tocador PLusbelle Belleza", medida: 1, familia: "perfumeria", cantidad: 1, precio: 676.07, img: "photo/09plusBelleza.png" },
+    { id: 360, nombre: "J. Tocador PLusbelle Relajación", medida: 1, familia: "perfumeria", cantidad: 1, precio: 676.07, img: "photo/09plusRelajacion.png" },
     // Jabon Neutro y Glicerina
     // {id: 361, nombre: "Jabon Neutro Odorno", medida: 1, familia: "perfumeria", cantidad: 1, precio: 138.75, img: "photo/09odorno.png"},
     { id: 410, nombre: "Jabon Neutro Estrella Gli", medida: 1, familia: "perfumeria", cantidad: 1, precio: 574.89, img: "photo/09jabonNeutroEstrella.png" },
@@ -714,7 +714,7 @@ const productos = [
     { id: 442, nombre: "Bolígrafo Bic Negra", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.88, img: "photo/10negra.png" },
     { id: 443, nombre: "Bolígrafo Bic Azul", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.88, img: "photo/10azul.png" },
 
-    // { id: 456, nombre: "Pallilo de Dientes ", medida: 12, familia: "limpieza", cantidad: 1, precio: 210, img: "photo/10palillo.png" }
+    { id: 456, nombre: "Pallilo de Dientes ", medida: 12, familia: "limpieza", cantidad: 1, precio: 299.88, img: "photo/10palillo.png" }
 
 ];
 
