@@ -72,8 +72,8 @@ const productos = [
     // {id: 44, nombre: "Pure Papas Maggi", medida: 6, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02pureMaggi.png"},
 
     // Grasa Vacuna y Porcina
-    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 1077.34, img: "photo/02grasaVacuna.png" },
-    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 1000.73, img: "photo/02grasaPorcina.png" },
+    { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 1000.75, img: "photo/02grasaVacuna.png" },
+    { id: 46, nombre: "Grasa Esani Porsina ", medida: 1, familia: "almacen", cantidad: 1, precio: 1077.35, img: "photo/02grasaPorcina.png" },
 
     // Jugo Limon
     { id: 47, nombre: "Jugo limon Marolio 250cc", medida: 1, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02jugoLimon.png" },
@@ -92,12 +92,12 @@ const productos = [
     {id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1660.61, img: "photo/02cocinero.png"},
 
     // Mayonesa Hellmans
-    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 467.89, img: "photo/02mayoHell.png" },
+    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 333.44, img: "photo/02mayoHell.png" },
     { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2399.89, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
     // Natura
-    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 294.26, img: "photo/02mayoNatura.png" },
+    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 338.39, img: "photo/02mayoNatura.png" },
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 565.46, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1139.88, img: "photo/02mayoNatura.png" },
     // Savora
@@ -187,9 +187,9 @@ const productos = [
     // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
     // { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
-    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 779.89, img: "photo/02arrozMarolio.png" },
+    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 875.89, img: "photo/02arrozMarolio.png" },
     // Arroz Molto
-    { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 875.88, img: "photo/02arrozMolto.png" },
+    { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 959.88, img: "photo/02arrozMolto.png" },
 
     // Te y Mate cocido ...
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 467.89, img: "photo/02teTaragui.png" },
@@ -260,7 +260,7 @@ const productos = [
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
-    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4612.03, img: "photo/03pernilFox.png" },
+    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4951.81, img: "photo/03pernilFox.png" },
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
@@ -276,7 +276,7 @@ const productos = [
 
     // Matambres ... LosiFar
     { id: 175, nombre: "Matambres Losifar Carne", medida: 2, familia: "fiambres", cantidad: 1, precio: 5987.52, img: "photo/03matambreLosiC.png" },
-    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 5987.52, img: "photo/03matambreLosiP.png" },
+    { id: 176, nombre: "Matambres Losifar Pollo", medida: 2, familia: "fiambres", cantidad: 1, precio: 5588.35, img: "photo/03matambreLosiP.png" },
     // Campo Argentino
     {id: 177, nombre: "Matambres Campo Carne", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 5820.80, img: "photo/03matambreCampo.png"},
     { id: 440, nombre: "Matambres DyC", medida: 1.5, familia: "fiambres", cantidad: 1, precio: 5006.40, img: "photo/03matambreDyc.png" },
@@ -361,7 +361,7 @@ const productos = [
 
     // Hormas (patgegras, Azul, sardo, reggianito)
     { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 3550.93, img: "photo/04pategras.png" },
-    { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5288.98, img: "photo/04azulSangotardo.png" },
+    { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5670, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2225.17, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
     { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 5362.56, img: "photo/04reggianito.png" },
