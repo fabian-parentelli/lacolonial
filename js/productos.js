@@ -204,19 +204,19 @@ const productos = [
     { id: 126, nombre: "Sopa Zapallo Light", medida: 1, familia: "almacen", cantidad: 1, precio: 719.90, img: "photo/02SopaZapalloL.png" },
 
     // Fideos Marolio
-    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoTira.png" },
-    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoDado.png" },
-    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoAveM.png"},
-    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoCodi.png"},
-    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMost.png" },
-    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoTall.png" },
-    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoSpag.png" },
-    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMuni.png" },
-    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 695.89, img: "photo/02fideoMono.png"},
+    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoTira.png" },
+    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoDado.png" },
+    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoAveM.png"},
+    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoCodi.png"},
+    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMost.png" },
+    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoTall.png" },
+    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoSpag.png" },
+    { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMuni.png" },
+    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMono.png"},
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 467.88, img: "photo/02vinagreA.png" },
-    { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02vinagreA.png" },
+    { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02vinagreA.png" },
     { id: 137, nombre: "Vinagre Manzana 500", medida: 1, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
@@ -404,9 +404,9 @@ const productos = [
 
     // olifaza
     // { id: 247, nombre: "Aceitunas Olifaza Verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 1634.94, img: "photo/06olifazaVerde.png" },
-    { id: 248, nombre: "Aceitunas Olifaza Verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 5296.90, img: "photo/06olifazaVerde.png" },
-    { id: 249, nombre: "Aceitunas olifaza Desc. 1.8kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 5296.90, img: "photo/06olifazaVerde.png" },
-    { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 5296.90, img: "photo/06olifazaNegra.png" },
+    { id: 248, nombre: "Aceitunas Olifaza Verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaVerde.png" },
+    { id: 249, nombre: "Aceitunas olifaza Desc. 1.8kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaVerde.png" },
+    { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaNegra.png" },
 
     // Morando
     // { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2829.03, img: "photo/06morandoVerde.png" },
@@ -495,8 +495,8 @@ const productos = [
     // {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
     // {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
     // Atun Marolio
-    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 2494.67, img: "photo/08lomitoMarolioA.png" },
-    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 2494.67, img: "photo/08lomitoMarolioN.png" },
+    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 2519.87, img: "photo/08lomitoMarolioA.png" },
+    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 2519.87, img: "photo/08lomitoMarolioN.png" },
     
     { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1559.88, img: "photo/08desmDiqueA.png" },
     // {id: 298, nombre: "Atun Dique Des lomm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 503.88, img: "photo/08desmDiqueN.png"},

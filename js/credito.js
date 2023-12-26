@@ -1,4 +1,7 @@
 const vecinos = [
+    {fecha: "22-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 103446.01},
+    {fecha: "22-dic", tipo: "Factura 45872", credito: 46718.26, haber: 0, saldo: 123446.01},
+
     {fecha: "21-dic", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 76727.75},
     {fecha: "21-dic", tipo: "Factura 45862", credito: 54517.64, haber: 0, saldo: 96727.75},
 
@@ -397,6 +400,9 @@ const vecinos = [
 ];
 
 const guillermo = [
+    {fecha: "22-dic", tipo: "Pago efcetivo", credito: 0, haber: 90000, saldo: 56953.37},
+    {fecha: "22-dic", tipo: "Factura 45868", credito: 112477.42, haber: 0, saldo: 146953.37},
+
     {fecha: "15-dic", tipo: "Factura 45782", credito: 104475.97, haber: 70000, saldo: 34475.97},
 
     {fecha: "08-dic", tipo: "Pago efectivo", credito: 0, haber: 35000, saldo: 481.66},
@@ -1241,6 +1247,9 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
+    {fecha: "22-dic", tipo: "Factura 45898", credito: 135012.25, haber: 0, saldo: 171251.66},
+
+    {fecha: "22-dic", tipo: "Mercado Pago", credito: 0, haber: 27000, saldo: 36239.41},
     {fecha: "21-dic", tipo: "Mercado Pago", credito: 0, haber: 17000, saldo: 63239.41},
     {fecha: "20-dic", tipo: "Mercado Pago", credito: 0, haber: 26500, saldo: 80239.41},
     {fecha: "19-dic", tipo: "Mercado Pago", credito: 0, haber: 18000, saldo: 106739.41},
@@ -1699,6 +1708,7 @@ const rossana = [
 ];
 
 const fernando = [
+    {fecha: "22-dic", tipo: "Mercado Pago", credito: 0, haber: 10000, saldo: 32240.13},
     {fecha: "20-dic", tipo: "Mercado Pago", credito: 0, haber: 25000, saldo: 42240.13},
     {fecha: "19-dic", tipo: "Factura 45816", credito: 40267.82, haber: 0, saldo: 67240.13},
 
