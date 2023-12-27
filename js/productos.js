@@ -351,9 +351,9 @@ const productos = [
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4282.80, img: "photo/04barraPunta.png" },
     { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
-    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4062.92, img: "photo/04barraMelincue.png" },
+    // { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4062.92, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
-    // {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 1730.83, img: "photo/04barraTonutti.png"},
+    {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 3870, img: "photo/04barraTonutti.png"},
 
     // Muzzarellas
     { id: 222, nombre: "Muzzarella Barraza", medida: 3, familia: "quesos", cantidad: 1, precio: 3999.60, img: "photo/04muzzaBarraza.png" },
@@ -698,21 +698,21 @@ const productos = [
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.88, img: "photo/10bolsaEsencial.png" },
     { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 1101.59, img: "photo/10bolsaEsencial.png" },
-    { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 965.89, img: "photo/10bolsaEsencial.png" },
-    { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 2299.89, img: "photo/10bolsaEsencial.png" },
+    { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.88, img: "photo/10bolsaEsencial.png" },
+    { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 3219.88, img: "photo/10bolsaEsencial.png" },
 
     // Lamparas Esencial de Luz
-    {id: 393, nombre: "Lámpara Esencial 7w", medida: 1, familia: "limpieza", cantidad: 1, precio: 1092.39, img: "photo/10lampara7.png"},
+    {id: 393, nombre: "Lámpara Esencial 7w", medida: 1, familia: "limpieza", cantidad: 1, precio: 1149.90, img: "photo/10lampara7.png"},
     {id: 394, nombre: "Lámpara Esencial 9w", medida: 1, familia: "limpieza", cantidad: 1, precio: 1149.89, img: "photo/10lampara9.png"},
-    { id: 395, nombre: "Lámpara Esencial 12w", medida: 1, familia: "limpieza", cantidad: 1, precio: 1724.89, img: "photo/10lampara.png" },
+    { id: 395, nombre: "Lámpara Esencial 12w", medida: 1, familia: "limpieza", cantidad: 1, precio: 1724.80, img: "photo/10lampara.png" },
 
     // Insecticida Selton
-    { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 1402.88, img: "photo/10insecticida.png" },
-    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 2493.44, img: "photo/10raid.png" },
+    { id: 396, nombre: "Insecticida Selton", medida: 1, familia: "limpieza", cantidad: 1, precio: 1609.88, img: "photo/10insecticida.png" },
+    { id: 397, nombre: "Raid Mata Cucaracha", medida: 1, familia: "limpieza", cantidad: 1, precio: 2529.88, img: "photo/10raid.png" },
 
     // Boligrafo
-    { id: 442, nombre: "Bolígrafo Bic Negra", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.88, img: "photo/10negra.png" },
-    { id: 443, nombre: "Bolígrafo Bic Azul", medida: 1, familia: "limpieza", cantidad: 1, precio: 528.88, img: "photo/10azul.png" },
+    { id: 442, nombre: "Bolígrafo Bic Negra", medida: 1, familia: "limpieza", cantidad: 1, precio: 609.38, img: "photo/10negra.png" },
+    { id: 443, nombre: "Bolígrafo Bic Azul", medida: 1, familia: "limpieza", cantidad: 1, precio: 609.38, img: "photo/10azul.png" },
 
     { id: 456, nombre: "Pallilo de Dientes ", medida: 12, familia: "limpieza", cantidad: 1, precio: 299.88, img: "photo/10palillo.png" }
 
