@@ -5,6 +5,10 @@ const productos = [
     { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaCl.png" },
     { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaAm.png" },
     
+    { id: 461, nombre: "Chizito Pehuamar 285gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2000.76, img: "photo/01chizoPehuamar.png" },
+    { id: 462, nombre: "Palito Salado Peipo 800gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3152.82, img: "photo/01palitoPeipo.png" },
+    { id: 463, nombre: "Mani Salado Pipo 700gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3401.11, img: "photo/01maniPeipo.png" },
+    
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2447.69, img: "photo/01chizo400-60.png" },
@@ -17,13 +21,13 @@ const productos = [
     // 110
     { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaTradicionalCh.png" },
     { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 703.06, img: "photo/01palito800-120-65.png" },
+    { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 808.50, img: "photo/01palito800-120-65.png" },
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 1132.32, img: "photo/01mani500-120-65.png" },
 
     // 60 
     { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaTradicionalCh.png" },
     { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaSinSal.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 860.05, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 830.46, img: "photo/01papaPay.png" },
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 923.48, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 923.48, img: "photo/01papaCheddar350-60.png" },
@@ -93,7 +97,7 @@ const productos = [
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 333.44, img: "photo/02mayoHell.png" },
-    { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02mayoHell.png" },
+    // { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
     // Natura
@@ -360,9 +364,9 @@ const productos = [
     // {id: 223, nombre: "Muzzarella Campo", medida: 5, familia: "quesos", cantidad: 1, precio: 1291.60, img: "photo/04muzzaCampo.png"},
 
     // Hormas (patgegras, Azul, sardo, reggianito)
-    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 4260.96, img: "photo/04pategras.png" },
+    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 4261.12, img: "photo/04pategras.png" },
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5670, img: "photo/04azulSangotardo.png" },
-    { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 2225.17, img: "photo/04sardoFresco.png" },
+    { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 3206.86, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
     { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 5362.56, img: "photo/04reggianito.png" },
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 4673.09, img: "photo/04reggianitoBarra.png" },
@@ -404,12 +408,12 @@ const productos = [
 
     // olifaza
     // { id: 247, nombre: "Aceitunas Olifaza Verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 1634.94, img: "photo/06olifazaVerde.png" },
-    { id: 248, nombre: "Aceitunas Olifaza Verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaVerde.png" },
-    { id: 249, nombre: "Aceitunas olifaza Desc. 1.8kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaVerde.png" },
-    { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6380.35, img: "photo/06olifazaNegra.png" },
+    { id: 248, nombre: "Aceitunas Olifaza Verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaVerde.png" },
+    { id: 249, nombre: "Aceitunas olifaza Desc. 1.8kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaVerde.png" },
+    { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaNegra.png" },
 
     // Morando
-    // { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2829.03, img: "photo/06morandoVerde.png" },
+    { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3610.80, img: "photo/06morandoVerde.png" },
     // { id: 252, nombre: "Morando verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2620.54, img: "photo/06morandoVerde.png" },
     // { id: 253, nombre: "Morando Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3158.09, img: "photo/06morandonegra.png" },
 
@@ -474,7 +478,7 @@ const productos = [
     // Dulce de leche, Miel
     { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 861.04, img: "photo/07dulcePunta.png" },
     { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 942.65, img: "photo/07dulceSere.png" },
-    // { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 768.18, img: "photo/07dulceSere.png" },
+    { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1045.12, img: "photo/07dulceSere.png" },
     // { id: 285, nombre: "Miel Terra Nova", medida: 1, familia: "mermeladas", cantidad: 1, precio: 342, img: "photo/07mielTerraNova.png" },
 
     // ****************************************************** Concerva ****************************************************** //
@@ -718,4 +722,4 @@ const productos = [
 
 ];
 
-// 461
+// 464
