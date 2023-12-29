@@ -148,7 +148,7 @@ const productos = [
     // Salsas Benidorm
     { id: 88, nombre: "Benidorm Mayonesa", medida: 1, familia: "almacen", cantidad: 1, precio: 1123.72, img: "photo/02benMayonesa.png" },
     { id: 89, nombre: "Benidorm Parmesano", medida: 1, familia: "almacen", cantidad: 1, precio: 1693.65, img: "photo/02benParmesano.png" },
-    { id: 90, nombre: "Benidorm Mostaza", medida: 1, familia: "almacen", cantidad: 1, precio: 1047.60, img: "photo/02benMostaza.png" },
+    { id: 90, nombre: "Benidorm Mostaza", medida: 1, familia: "almacen", cantidad: 1, precio: 1048.60, img: "photo/02benMostaza.png" },
     { id: 91, nombre: "Benidorm Ketchup", medida: 1, familia: "almacen", cantidad: 1, precio: 825.12, img: "photo/02benKetchup.png" },
     { id: 92, nombre: "Benidorm Golf", medida: 1, familia: "almacen", cantidad: 1, precio: 1196.40, img: "photo/02benGolf.png" },
     { id: 93, nombre: "Benidorm Cheddar", medida: 1, familia: "almacen", cantidad: 1, precio: 1803.08, img: "photo/02benCheddar.png" },
@@ -178,7 +178,7 @@ const productos = [
 
     // Empanadas y Pasculinas Orali
     { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 600.39, img: "photo/02empanadaOrali.png" },
-    { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 785.95, img: "photo/02pascualinaOrali.png" },
+    { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 867.59, img: "photo/02pascualinaOrali.png" },
     // { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
     { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 705.16, img: "photo/02empanadaCriolla.png" },
