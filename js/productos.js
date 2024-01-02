@@ -294,7 +294,7 @@ const productos = [
 
     // Salame Milan
     { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 9773.81, img: "photo/03salameCalcha.png" },
-    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 8819.72, img: "photo/03salameFox.png" },
+    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 8820.42, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 8429.72, img: "photo/03salame42.png" },
     // { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 7673.39, img: "photo/03salameApetece.png" },
