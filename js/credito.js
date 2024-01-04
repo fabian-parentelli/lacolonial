@@ -1612,6 +1612,9 @@ const carlos = [
 ];
 
 const rossana = [
+    {fecha: "03-ene", tipo: "Factura 46030", credito: 11548.80, haber: 0, saldo: 11548.80}, 
+    {fecha: "03-ene", tipo: "Pago efectivo", credito: 0, haber: 9898.95, saldo: 0},
+
     {fecha: "26-dic", tipo: "Factura 45808", credito: 9898.95, haber: 0, saldo: 9898.95}, 
     {fecha: "26-dic", tipo: "Pago efectivo", credito: 13233.20, haber: 0, saldo: 0},
 
@@ -1736,6 +1739,8 @@ const rossana = [
 ];
 
 const fernando = [
+    {fecha: "03-ene", tipo: "Factura 46024", credito: 19379.26, haber: 0, saldo: 51619.39},
+
     {fecha: "22-dic", tipo: "Mercado Pago", credito: 0, haber: 10000, saldo: 32240.13},
     {fecha: "20-dic", tipo: "Mercado Pago", credito: 0, haber: 25000, saldo: 42240.13},
     {fecha: "19-dic", tipo: "Factura 45816", credito: 40267.82, haber: 0, saldo: 67240.13},
