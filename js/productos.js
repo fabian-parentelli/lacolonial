@@ -2,19 +2,19 @@ const productos = [
 
     // ****************************************************** snack ****************************************************** //
 
-    { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaCl.png" },
-    { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3566.44, img: "photo/01papaAm.png" },
+    { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4315.01, img: "photo/01papaCl.png" },
+    { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4315.01, img: "photo/01papaAm.png" },
     
     { id: 461, nombre: "Chizito Pehuamar 285gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2000.76, img: "photo/01chizoPehuamar.png" },
     { id: 462, nombre: "Palito Salado Peipo 800gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3152.82, img: "photo/01palitoPeipo.png" },
     { id: 463, nombre: "Mani Salado Pipo 700gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3401.11, img: "photo/01maniPeipo.png" },
     
-    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaTradicional550.png" },
-    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4738.98, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3791.34, img: "photo/01papaTradicional550.png" },
+    { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3791.34, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2447.69, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2691.07, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" },
-    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 5146.64, img: "photo/01mani500-120-65.png" },
+    { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4117.31, img: "photo/01mani500-120-65.png" },
     { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4065.14, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
@@ -177,7 +177,7 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 177.12, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 600.39, img: "photo/02empanadaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 663, img: "photo/02empanadaOrali.png" },
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 899.60, img: "photo/02pascualinaOrali.png" },
     // { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
@@ -221,7 +221,7 @@ const productos = [
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 539.88, img: "photo/02vinagreA.png" },
     { id: 430, nombre: "Vinagre Alcohol 1ltr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02vinagreA.png" },
-    { id: 137, nombre: "Vinagre Manzana 500", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02vinagreM.png" },
+    { id: 137, nombre: "Vinagre Manzana 500", medida: 1, familia: "almacen", cantidad: 1, precio: 803.87, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
     { id: 139, nombre: "Flan D. Leche Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 580.66, img: "photo/02flanMaLeche.png" },
@@ -648,7 +648,7 @@ const productos = [
 
     // Detergente .. Magistral
     { id: 367, nombre: "Detergente Magistral 500", medida: 1, familia: "limpieza", cantidad: 1, precio: 1805.39, img: "photo/10magistral500.png" },
-    { id: 368, nombre: "Detergente Magistral 215", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10magistral500.png" },
+    { id: 368, nombre: "Detergente Magistral 215", medida: 1, familia: "limpieza", cantidad: 1, precio: 827.89, img: "photo/10magistral500.png" },
     // Esencial
     { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsLimon.png" },
     { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsHierbas.png" },
