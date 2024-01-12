@@ -174,7 +174,7 @@ const productos = [
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
     { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 663, img: "photo/02oralita.png" },
-    { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 177.12, img: "photo/02levaduraCalsa.png" },
+    { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 230.40, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
     { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 669.54, img: "photo/02empanadaOrali.png" },
@@ -350,12 +350,12 @@ const productos = [
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3354.40, img: "photo/04cremosoPunta.png" },
     { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2832.08, img: "photo/04cremosoLactovita.png" },
-    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2365.44, img: "photo/04cremosoOferta.png" },
+    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2727.20, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4282.80, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4726.80, img: "photo/04barraPunta.png" },
     { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
-    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4062.92, img: "photo/04barraMelincue.png" },
+    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4558.80, img: "photo/04barraMelincue.png" },
     // { id: 221, nombre: "Barra Noalsa", medida: 4, familia: "quesos", cantidad: 1, precio: 2237.39, img: "photo/04barraNoalsa.png" },
     {id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 4543.20, img: "photo/04barraTonutti.png"},
 
