@@ -97,7 +97,7 @@ const productos = [
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 333.44, img: "photo/02mayoHell.png" },
-    // { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02mayoHell.png" },
+    { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
     // Natura
@@ -115,20 +115,20 @@ const productos = [
     { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1019.88, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 174.42, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
-    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2159.89, img: "photo/02cafeClasico.png" },
-    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2159.89, img: "photo/02cafeSuave.png" },
-    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1379.89, img: "photo/02cafeClasico.png" },
-    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1379.89, img: "photo/02cafeSuave.png" },
+    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3358.93, img: "photo/02cafeClasico.png" },
+    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3358.93, img: "photo/02cafeSuave.png" },
+    { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2098.8, img: "photo/02cafeClasico.png" },
+    { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2098.8, img: "photo/02cafeSuave.png" },
     // Cafe Marolio
-    { id: 73, nombre: "Cafe Marolio 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2759.88, img: "photo/02cafeMarolio.png" },
-    { id: 74, nombre: "Cafe Marolio .. 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1559.9, img: "photo/02cafeMarolio.png" },
+    { id: 73, nombre: "Cafe Marolio 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3239.89, img: "photo/02cafeMarolio.png" },
+    { id: 74, nombre: "Cafe Marolio .. 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1998.80, img: "photo/02cafeMarolio.png" },
     // Cafe Pocillo
     // { id: 75, nombre: "Cafe El Pocillo 170gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1079.88, img: "photo/02cafePocillo.png" },
     // { id: 76, nombre: "Cafe El Pocillo 125gr", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02cafePocillo.png" },
 
     // Yerbas
-    { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1019.89, img: "photo/02yerbaChamigo.png" },
-    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1079.88, img: "photo/02yerbaMarolio.png" },
+    { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1055.88, img: "photo/02yerbaChamigo.png" },
+    { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaMarolio.png" },
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1763.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1895.88, img: "photo/02yerbaUnionLiviana.png" },
     { id: 80, nombre: "Yerba Taragui 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1763.88, img: "photo/02yerbaTaragui.png" },
@@ -190,7 +190,7 @@ const productos = [
     // { id: 114, nombre: "Arros Ala 1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 283.96, img: "photo/02arrozAla.png" },
     // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
-    // { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMarolio.png" },
+    { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1979.88, img: "photo/02arrozMarolio.png" },
     { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 995.88, img: "photo/02arrozMarolio.png" },
     // Arroz Molto
     { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMolto.png" },
@@ -198,7 +198,7 @@ const productos = [
     // Te y Mate cocido ...
     { id: 119, nombre: "Te Taragui", medida: 5, familia: "almacen", cantidad: 1, precio: 599.89, img: "photo/02teTaragui.png" },
     { id: 120, nombre: "Te Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 395.88, img: "photo/02teMarolio.png" },
-    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 815.89, img: "photo/02mateCocidoUnion.png" },
+    { id: 121, nombre: "Mate Cocido Union", medida: 5, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02mateCocidoUnion.png" },
     { id: 122, nombre: "Mate Cocido Marolio", medida: 5, familia: "almacen", cantidad: 1, precio: 503.88, img: "photo/02mateCocidoMarolio.png" },
 
     // Sopas Molto
@@ -240,7 +240,7 @@ const productos = [
     { id: 157, nombre: "Postre Esquisita Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02postreVainilla.png" },
     { id: 158, nombre: "Postre Esquisita Chcocolate", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02postreChoco.png" },
     // Bizcochuelo
-    { id: 159, nombre: "Bizcochuelo Marolio Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 1499.88, img: "photo/02biscochuelo.png" },
+    { id: 159, nombre: "Bizcochuelo Marolio Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 1799.88, img: "photo/02biscochuelo.png" },
 
     // gelletitas
     { id: 416, nombre: "Tostadas Marolio Light", medida: 1, familia: "almacen", cantidad: 1, precio: 899.88, img: "photo/02tostada.png" },
@@ -490,7 +490,7 @@ const productos = [
     {id: 289, nombre: "Jurel Marolio Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 2159.88, img: "photo/08jurelMarolioA.png"},
     {id: 290, nombre: "Jurel Marolio Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 2159.88, img: "photo/08jurelMarolioN.png"},
     // { id: 290, nombre: "Jurel Cumaná Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 818.62, img: "photo/08jurelCumana.png" },
-    { id: 291, nombre: "Sardina marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1679.88, img: "photo/08sardinaMarolio.png" },
+    { id: 291, nombre: "Sardina marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1038.8, img: "photo/08sardinaMarolio.png" },
     // {id: 292, nombre: "Sardina Buen Piquie", medida: 1, familia: "conservas", cantidad: 1, precio: 0, img: "photo/08sardinaBuenPique.png"},
     // { id: 433, nombre: "Caballa LB Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbAce.png" },
     // { id: 434, nombre: "Caballa LB Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1479.83, img: "photo/08caballaLbNat.png" },
@@ -499,8 +499,8 @@ const productos = [
     // {id: 293, nombre: "Atun Cummana Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaA.png"},
     // {id: 294, nombre: "Atun Cummana Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 1259.90, img: "photo/08lomitoCumanaN.png"},
     // Atun Marolio
-    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 2519.87, img: "photo/08lomitoMarolioA.png" },
-    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 2519.87, img: "photo/08lomitoMarolioN.png" },
+    { id: 295, nombre: "Atun Marolio Lom Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 2639.88, img: "photo/08lomitoMarolioA.png" },
+    { id: 296, nombre: "Atun Marolio Lom Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 2639.88, img: "photo/08lomitoMarolioN.png" },
     
     { id: 297, nombre: "Atun Dique Desm Aceite", medida: 1, familia: "conservas", cantidad: 1, precio: 1559.88, img: "photo/08desmDiqueA.png" },
     // {id: 298, nombre: "Atun Dique Des lomm Natural", medida: 1, familia: "conservas", cantidad: 1, precio: 503.88, img: "photo/08desmDiqueN.png"},
@@ -590,11 +590,11 @@ const productos = [
     { id: 344, nombre: "Patrichs Aviator", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1610.88, img: "photo/09PatrichsAviator.png" },
     { id: 345, nombre: "Patrichs Grand prix", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1610.88, img: "photo/09patrichsGrand.png" },
     // desodorante ciell
-    { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1839.89, img: "photo/09ciell.png" },
+    { id: 346, nombre: "Desodorante Ciell", medida: 1, familia: "perfumeria", cantidad: 1, precio: 2127.39, img: "photo/09ciell.png" },
     // desodorante Dove
     { id: 347, nombre: "Desodorante Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 2012.39, img: "photo/09desodoranteDove.png" },
     // desodorante Rolon Nivea
-    { id: 348, nombre: "Desodorante Rolon Nivea", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.38, img: "photo/09desodoranteNivea.png" },
+    { id: 348, nombre: "Desodorante Rolon Nivea", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1149.89, img: "photo/09desodoranteNivea.png" },
 
     { id: 431, nombre: "Desodorante Axe Marine", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1609.89, img: "photo/09axe.png" },
     // { id: 431, nombre: "Desodorante Axe Apollo", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09axe.png" },
@@ -629,15 +629,15 @@ const productos = [
     { id: 436, nombre: "Jabon Tocador Dove", medida: 1, familia: "perfumeria", cantidad: 1, precio: 919.88, img: "photo/09jabonDove.png" },
 
     // Algodon Doncella
-    { id: 362, nombre: "Algodoón Doncella", medida: 1, familia: "perfumeria", cantidad: 1, precio: 379.39, img: "photo/09algodonDoncella.png" },
+    { id: 362, nombre: "Algodoón Doncella", medida: 1, familia: "perfumeria", cantidad: 1, precio: 517.38, img: "photo/09algodonDoncella.png" },
 
     // Maquina BicFlex 3
     // { id: 363, nombre: "Maquinita BicFlex3", medida: 6, familia: "perfumeria", cantidad: 1, precio: 264.39, img: "photo/09maquinitaBicFlex3.png" },
 
     // Toallita Lina
-    { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 839.88, img: "photo/09linaAnatomica.png" },
+    { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1000.39, img: "photo/09linaAnatomica.png" },
     { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1379.89, img: "photo/09linaNocturna.png" },
-    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 339.14, img: "photo/09toallaCalipso.png" },
+    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 448.39, img: "photo/09toallaCalipso.png" },
     { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 3139.37, img: "photo/09tamponKotekmedio20.png" },
     { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 459.89, img: "photo/09doncella.png" },
 
