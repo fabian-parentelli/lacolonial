@@ -342,8 +342,8 @@ const productos = [
 
     // Leberwust, pate y picadillo 
     // { id: 212, nombre: "LeberWurst Paladini 250gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 635.87, img: "photo/03leberwurst.png" },
-    { id: 213, nombre: "Picadillo Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 386.41, img: "photo/03picadilloSwift.png" },
-    { id: 214, nombre: "Pate Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 386.41, img: "photo/03pateSwift.png" },
+    { id: 213, nombre: "Picadillo Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 482.74, img: "photo/03picadilloSwift.png" },
+    { id: 214, nombre: "Pate Swift", medida: 1, familia: "fiambres", cantidad: 1, precio: 482.74, img: "photo/03pateSwift.png" },
 
     // ****************************************************** Quesos ****************************************************** //
 
@@ -368,8 +368,8 @@ const productos = [
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5670, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 3403.20, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
-    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 5362.56, img: "photo/04reggianito.png" },
-    { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 4673.09, img: "photo/04reggianitoBarra.png" },
+    { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 5898.82, img: "photo/04reggianito.png" },
+    // { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 4673.09, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
     { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 469.51, img: "photo/04ralladoSere.png" },
@@ -639,7 +639,7 @@ const productos = [
     { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1379.89, img: "photo/09linaNocturna.png" },
     { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 339.14, img: "photo/09toallaCalipso.png" },
     { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 3139.37, img: "photo/09tamponKotekmedio20.png" },
-    { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 395.88, img: "photo/09doncella.png" },
+    { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 459.89, img: "photo/09doncella.png" },
 
     // Pañuelos Elite
     { id: 366, nombre: "Pañuelos Elite x 3unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 896.39, img: "photo/09panueloElite.png" },
@@ -675,8 +675,8 @@ const productos = [
     { id: 379, nombre: "J. Piso Esencial Lavanda", medida: 1, familia: "limpieza", cantidad: 1, precio: 597.89, img: "photo/10pisoEsLavanda.png" },
 
     // Jabon Polvo Ala
-    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 632.38, img: "photo/10alaRegular.png" },
-    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 632.38, img: "photo/10alaMatics.png" },
+    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 655.38, img: "photo/10alaRegular.png" },
+    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 655.38, img: "photo/10alaMatics.png" },
 
     // jabon Pan Ropa
     { id: 382, nombre: "J.pan Ropa Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.89, img: "photo/10jabonPanRopa.png" },
