@@ -5,7 +5,7 @@ const productos = [
     { id: 459, nombre: "Papa Trad Pehuamar 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4315.01, img: "photo/01papaCl.png" },
     { id: 460, nombre: "Papa Amer Pehuamar 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4315.01, img: "photo/01papaAm.png" },
     
-    { id: 461, nombre: "Chizito Pehuamar 285gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2000.76, img: "photo/01chizoPehuamar.png" },
+    { id: 461, nombre: "Chizito Pehuamar 285gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2105.40, img: "photo/01chizoPehuamar.png" },
     { id: 462, nombre: "Palito Salado Peipo 800gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3152.82, img: "photo/01palitoPeipo.png" },
     { id: 463, nombre: "Mani Salado Pipo 700gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3401.11, img: "photo/01maniPeipo.png" },
     
@@ -19,19 +19,19 @@ const productos = [
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
-    { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaTradicionalCh.png" },
-    { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1419.03, img: "photo/01papaAmericana550-120-60.png" },
+    { id: 8, nombre: "Papa Tradicional 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1135.16, img: "photo/01papaTradicionalCh.png" },
+    { id: 9, nombre: "Papa Americana 110gr", medida: 4, familia: "snacks", cantidad: 1, precio: 1135.16, img: "photo/01papaAmericana550-120-60.png" },
     { id: 10, nombre: "Palito 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 808.50, img: "photo/01palito800-120-65.png" },
     { id: 11, nombre: "Mani 110gr", medida: 6, familia: "snacks", cantidad: 1, precio: 1132.32, img: "photo/01mani500-120-65.png" },
 
     // 60 
     { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaTradicionalCh.png" },
     { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 860.05, img: "photo/01papaSinSal.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 688.04, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaPay.png" },
-    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 735.84, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 735.84, img: "photo/01papaCheddar350-60.png" },
-    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 735.84, img: "photo/01papaJamon.png" },
+    { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaKetchup.png" },
+    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaCheddar350-60.png" },
+    { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaJamon.png" },
     { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 574.38, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 576.12, img: "photo/01bastonito300-55.png" },
     // {id: 21, nombre: "Palito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 0, img: "photo/01palito800-120-65.png"},
@@ -39,7 +39,7 @@ const productos = [
     { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 740.44, img: "photo/01superCono50.png" },
 
     // 30
-    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 430.97, img: "photo/01papaTradicionalCh.png" },
+    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 365.99, img: "photo/01papaTradicionalCh.png" },
 
     // Frontys
     { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniCrocanteFrontys.png" },
@@ -349,7 +349,7 @@ const productos = [
 
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3354.40, img: "photo/04cremosoPunta.png" },
-    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2832.08, img: "photo/04cremosoLactovita.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2962.35, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2727.20, img: "photo/04cremosoOferta.png" },
 
     // Barras
@@ -442,8 +442,8 @@ const productos = [
     { id: 266, nombre: "Cajon Membrillo 5kg", medida: 1, familia: "mermeladas", cantidad: 1, precio: 13637.30, img: "photo/07cajonMembrillo.png" },
 
     // Mermelada Dulcor
-    { id: 267, nombre: "Mermelada Dulcor Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 2177.85, img: "photo/07dulcorFrutilla.png" },
-    // { id: 268, nombre: "Mermelada Dulcor Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 695.88, img: "photo/07dulcorCiruela.png" },
+    // { id: 267, nombre: "Mermelada Dulcor Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 2177.85, img: "photo/07dulcorFrutilla.png" },
+    { id: 268, nombre: "Mermelada Dulcor Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1509.08, img: "photo/07dulcorCiruela.png" },
     // { id: 269, nombre: "Mermelada Dulcor Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 695.88, img: "photo/07dulcorDurazno.png" },
 
     // Mermelada Cormillot
