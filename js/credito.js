@@ -1,4 +1,8 @@
 const vecinos = [
+    {fecha: "19-ene", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 89054.13},
+    {fecha: "18-ene", tipo: "Mercado Pago", credito: 0, haber: 30000, saldo: 109054.13},
+    {fecha: "18-ene", tipo: "Factura 46220", credito: 53912.87, haber: 0, saldo: 139054.13},
+
     {fecha: "16-ene", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 85141.26},
     {fecha: "15-ene", tipo: "Mercado Pago", credito: 0, haber: 30000, saldo: 105141.26},
     {fecha: "12-ene", tipo: "Mercado Pago", credito: 0, haber: 30000, saldo: 135141.26},
@@ -424,6 +428,9 @@ const vecinos = [
 ];
 
 const guillermo = [
+    {fecha: "19-ene", tipo: "Pago efcetivo", credito: 0, haber: 90000, saldo: 37499.79},
+    {fecha: "19-ene", tipo: "Factura 46268", credito: 85638.85, haber: 0, saldo: 127499.79},
+
     {fecha: "12-ene", tipo: "Pago efcetivo", credito: 0, haber: 80000, saldo: 41860.94},
     {fecha: "12-ene", tipo: "Factura 46150", credito: 102035.25, haber: 0, saldo: 121860.94},
 
@@ -668,6 +675,9 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "18-ene", tipo: "Mercado Pago", credito: 0, haber: 24000, saldo: 43759.42},
+    {fecha: "18-ene", tipo: "Factura 46240", credito: 33941.65, haber: 0, saldo: 67759.42},
+
     {fecha: "15-ene", tipo: "Mercado Pago", credito: 0, haber: 26000, saldo: 33817.77},
     {fecha: "11-ene", tipo: "Mercado Pago", credito: 0, haber: 25000, saldo: 59817.77},
     {fecha: "11-ene", tipo: "Factura 46118", credito: 55024.72, haber: 0, saldo: 84817.77},
@@ -1313,6 +1323,9 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
+    {fecha: "19-ene", tipo: "Factura 46270", credito: 98297.56, haber: 0, saldo: 193803.29},
+    {fecha: "19-ene", tipo: "Mercado Pago", credito: 0, haber: 25000, saldo: 95505.73},
+
     {fecha: "10-ene", tipo: "Factura 46118", credito: 15298.80, haber: 0, saldo: 120505.73},
     {fecha: "09-ene", tipo: "Factura 46108", credito: 105206.95, haber: 0, saldo: 105206.95},
     {fecha: "09-ene", tipo: "Mercado Pago", credito: 57272.71, haber: 0, saldo: 0},
