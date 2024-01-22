@@ -15,7 +15,7 @@ const productos = [
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2691.07, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4117.31, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4065.14, img: "photo/01papaCheddar350-60.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3253, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -39,7 +39,7 @@ const productos = [
     { id: 23, nombre: "Super Cono 50gr", medida: 6, familia: "snacks", cantidad: 1, precio: 740.44, img: "photo/01superCono50.png" },
 
     // 30
-    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 365.99, img: "photo/01papaTradicionalCh.png" },
+    { id: 24, nombre: "Papa Tradicional 30gr", medida: 8, familia: "snacks", cantidad: 1, precio: 292.80, img: "photo/01papaTradicionalCh.png" },
 
     // Frontys
     { id: 25, nombre: "Mani Crocante Frontys", medida: 1, familia: "snacks", cantidad: 1, precio: 3788.93, img: "photo/01maniCrocanteFrontys.png" },
@@ -105,7 +105,7 @@ const productos = [
     { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1161.69, img: "photo/02mayoNatura.png" },
     // Savora
-    // { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 274.99, img: "photo/02savora.png" },
+    { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 352.56, img: "photo/02savora.png" },
     { id: 64, nombre: "Savora 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02savora.png" },
     // Ketchup
     { id: 65, nombre: "ketchup 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 275.27, img: "photo/02ketchup.png" },
@@ -115,8 +115,8 @@ const productos = [
     { id: 67, nombre: "Cacao Nesquik 180gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1019.88, img: "photo/02cacao.png" },
     { id: 68, nombre: "Cafe 5 Hispanos", medida: 20, familia: "almacen", cantidad: 1, precio: 139.54, img: "photo/02cafe5Hispanos.png" },
     // Cafe Dolca
-    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3358.93, img: "photo/02cafeClasico.png" },
-    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3358.93, img: "photo/02cafeSuave.png" },
+    { id: 69, nombre: "Cafe Dolca Clasico 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3359.87, img: "photo/02cafeClasico.png" },
+    { id: 70, nombre: "Cafe Dolca Suave 100gr", medida: 1, familia: "almacen", cantidad: 1, precio: 3359.87, img: "photo/02cafeSuave.png" },
     { id: 71, nombre: "Cafe Dolca Clasico 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2098.8, img: "photo/02cafeClasico.png" },
     { id: 72, nombre: "Cafe Dolca Suave 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 2098.8, img: "photo/02cafeSuave.png" },
     // Cafe Marolio
@@ -350,7 +350,7 @@ const productos = [
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3354.40, img: "photo/04cremosoPunta.png" },
     { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2962.35, img: "photo/04cremosoLactovita.png" },
-    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2727.20, img: "photo/04cremosoOferta.png" },
+    // { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2727.20, img: "photo/04cremosoOferta.png" },
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4726.80, img: "photo/04barraPunta.png" },
@@ -384,8 +384,8 @@ const productos = [
     // ****************************************************** Lacteos ****************************************************** //
 
     // Leches
-    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 651, img: "photo/05lecheSachetEntera.png" },
-    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 651, img: "photo/05lecheSachetDescremada.png" },
+    { id: 236, nombre: "Leche Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 733.95, img: "photo/05lecheSachetEntera.png" },
+    { id: 237, nombre: "Leche Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 733.95, img: "photo/05lecheSachetDescremada.png" },
     // {id: 238, nombre: "Leche LV Entera Serenísima", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvEntera.png"},
     // {id: 239, nombre: "Leche LV Descremada Sere.", medida: 1, familia: "lacteos", cantidad: 1, precio: 431.87, img: "photo/05lecheLvDescremada.png"},
     { id: 240, nombre: "Leche 0% Lactoza", medida: 1, familia: "lacteos", cantidad: 1, precio: 848.13, img: "photo/05leche0lactoza.png" },
@@ -476,7 +476,7 @@ const productos = [
     // {id: 282, nombre: "Caja Batata Choco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 269.93, img: "photo/07caja500Choco.png"},
 
     // Dulce de leche, Miel
-    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 990.26, img: "photo/07dulcePunta.png" },
+    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1069.46, img: "photo/07dulcePunta.png" },
     { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1092.64, img: "photo/07dulceSere.png" },
     { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1211.64, img: "photo/07dulceSere.png" },
     // { id: 285, nombre: "Miel Terra Nova", medida: 1, familia: "mermeladas", cantidad: 1, precio: 342, img: "photo/07mielTerraNova.png" },
@@ -554,7 +554,7 @@ const productos = [
     { id: 327, nombre: "Perita Molto", medida: 1, familia: "conservas", cantidad: 1, precio: 779.88, img: "photo/08peritaMolto.png" },
 
     // Frutales
-    { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1799.88, img: "photo/08duraznoMarolio.png" },
+    { id: 328, nombre: "Durazno Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 1499.89, img: "photo/08duraznoMarolio.png" },
     { id: 329, nombre: "Anana Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 4319.88, img: "photo/08ananaMarolio.png" },
     { id: 330, nombre: "Coctel Marolio", medida: 1, familia: "conservas", cantidad: 1, precio: 3119.88, img: "photo/08coctelMarolio.png" },
 
@@ -653,7 +653,7 @@ const productos = [
     { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsLimon.png" },
     { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsHierbas.png" },
     // Cif
-    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 919.89, img: "photo/10detergenteCif.png" },
+    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 862.38, img: "photo/10detergenteCif.png" },
 
     // Lavandina ... Ayudìn
     { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.89, img: "photo/10lavandinaAy2.png" },
