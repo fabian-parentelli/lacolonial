@@ -27,7 +27,7 @@ const productos = [
     // 60 
     { id: 12, nombre: "Papa Tradicional 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaTradicionalCh.png" },
     { id: 13, nombre: "Papa Americana 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 688.04, img: "photo/01papaSinSal.png" },
+    { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 764.48, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaPay.png" },
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaKetchup.png" },
     { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaCheddar350-60.png" },
@@ -67,9 +67,9 @@ const productos = [
     // { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 443.88, img: "photo/02salGruesaMarolio.png" },
 
     // Caldo Knorr
-    { id: 40, nombre: "Caldo Knoor Verdura", medida: 24, familia: "almacen", cantidad: 1, precio: 179.89, img: "photo/02caldoVerdura.png" },
-    { id: 41, nombre: "Caldo Knoor Gallina", medida: 24, familia: "almacen", cantidad: 1, precio: 179.89, img: "photo/02caldoGallina.png" },
-    { id: 42, nombre: "Caldo Knoor Carne", medida: 24, familia: "almacen", cantidad: 1, precio: 179.89, img: "photo/02caldoCarne.png" },
+    { id: 40, nombre: "Caldo Knoor Verdura", medida: 24, familia: "almacen", cantidad: 1, precio: 191.88, img: "photo/02caldoVerdura.png" },
+    { id: 41, nombre: "Caldo Knoor Gallina", medida: 24, familia: "almacen", cantidad: 1, precio: 191.88, img: "photo/02caldoGallina.png" },
+    { id: 42, nombre: "Caldo Knoor Carne", medida: 24, familia: "almacen", cantidad: 1, precio: 191.88, img: "photo/02caldoCarne.png" },
 
     // Pure Papas
     // {id: 43, nombre: "Pure Papas Marolio", medida: 15, familia: "almacen", cantidad: 1, precio: 0, img: "photo/02purePapasMarolio.png"},
@@ -191,7 +191,7 @@ const productos = [
     // { id: 424, nombre: "Arros Ala 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02arrozAla.png" },
     // Arroz Marolio
     { id: 116, nombre: "Arros Marolio ..  1kg", medida: 10, familia: "almacen", cantidad: 1, precio: 1979.88, img: "photo/02arrozMarolio.png" },
-    { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 995.88, img: "photo/02arrozMarolio.png" },
+    // { id: 117, nombre: "Arros Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 995.88, img: "photo/02arrozMarolio.png" },
     // Arroz Molto
     { id: 118, nombre: "Arros Molto .. 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 1079.89, img: "photo/02arrozMolto.png" },
 
@@ -224,15 +224,15 @@ const productos = [
     { id: 137, nombre: "Vinagre Manzana 500", medida: 1, familia: "almacen", cantidad: 1, precio: 803.87, img: "photo/02vinagreM.png" },
 
     // Pasteleria ... Flan
-    { id: 139, nombre: "Flan D. Leche Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 580.66, img: "photo/02flanMaLeche.png" },
-    { id: 138, nombre: "Flan Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 580.66, img: "photo/02FlanMaVainilla.png" },
-    { id: 150, nombre: "Flan D. Leche Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02flanEsLeche.png" },
-    { id: 140, nombre: "Flan Vainilla Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02flanEsVainilla.png" },
-    // Gelatina Marolio
-    { id: 151, nombre: "Gelatina Marolio Cereza", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaCere.png" },
-    { id: 152, nombre: "Gelatina Marolio Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaFram.png" },
-    { id: 153, nombre: "Gelatina Marolio Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaFrut.png" },
-    { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaLight.png" },
+    // { id: 139, nombre: "Flan D. Leche Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 580.66, img: "photo/02flanMaLeche.png" },
+    // { id: 138, nombre: "Flan Vainilla Marolio", medida: 1, familia: "almacen", cantidad: 1, precio: 580.66, img: "photo/02FlanMaVainilla.png" },
+    // { id: 150, nombre: "Flan D. Leche Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02flanEsLeche.png" },
+    // { id: 140, nombre: "Flan Vainilla Esquisita", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02flanEsVainilla.png" },
+    // // Gelatina Marolio
+    // { id: 151, nombre: "Gelatina Marolio Cereza", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaCere.png" },
+    // { id: 152, nombre: "Gelatina Marolio Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaFram.png" },
+    // { id: 153, nombre: "Gelatina Marolio Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaFrut.png" },
+    // { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaLight.png" },
     // Gelatina Esquisita
     { id: 155, nombre: "Gelatina Exquisita Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02gelatinaEsFram.png" },
     // { id: 156, nombre: "Gelatina Exquisita Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 779.89, img: "photo/02gelatinaEsFrut.png" },
@@ -701,7 +701,7 @@ const productos = [
 
     // Bolsa basura
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.88, img: "photo/10bolsaEsencial.png" },
-    { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.89, img: "photo/10bolsaEsencial.png" },
+    { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 1101.59, img: "photo/10bolsaEsencial.png" },
     { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.88, img: "photo/10bolsaEsencial.png" },
     { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 3219.88, img: "photo/10bolsaEsencial.png" },
 
