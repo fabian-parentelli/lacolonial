@@ -2037,6 +2037,7 @@ const cristina = [
 ];
 
 const emanuel = [
+    {fecha: "24-ene", tipo: "Mercado Pago", credito: 0, haber: 19264.40, saldo: 10000},
     {fecha: "23-ene", tipo: "Factura 46304", credito: 30763.29, haber: 12000, saldo: 29264.40},
 
     {fecha: "09-ene", tipo: "Mercado Pago", credito: 0, haber: 12000, saldo: -1498.89},

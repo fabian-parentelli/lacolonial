@@ -101,8 +101,8 @@ const productos = [
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
     // Natura
-    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 359.88, img: "photo/02mayoNatura.png" },
-    { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 599.88, img: "photo/02mayoNatura.png" },
+    { id: 60, nombre: "Mayonesa Natura 125gr", medida: 20, familia: "almacen", cantidad: 1, precio: 360.70, img: "photo/02mayoNatura.png" },
+    { id: 61, nombre: "Mayonesa Natura 250gr", medida: 1, familia: "almacen", cantidad: 1, precio: 699.70, img: "photo/02mayoNatura.png" },
     { id: 62, nombre: "Mayonesa Natura 500gr", medida: 1, familia: "almacen", cantidad: 1, precio: 1161.69, img: "photo/02mayoNatura.png" },
     // Savora
     { id: 63, nombre: "Savora 60gr", medida: 30, familia: "almacen", cantidad: 1, precio: 352.56, img: "photo/02savora.png" },
@@ -182,7 +182,7 @@ const productos = [
     // { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
     { id: 112, nombre: "Empanadas Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 705.16, img: "photo/02empanadaCriolla.png" },
-    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 705.16, img: "photo/02empanadaHojaldre.png" },
+    { id: 114, nombre: "Empanadas Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 717.97, img: "photo/02empanadaHojaldre.png" },
     { id: 115, nombre: "Pascualina Lit. Criolla", medida: 1, familia: "almacen", cantidad: 1, precio: 880.14, img: "photo/02pascualinaCriolla.png" },
     { id: 113, nombre: "Pascualina Lit. Hojaldre", medida: 1, familia: "almacen", cantidad: 1, precio: 880.14, img: "photo/02pascualinaHojaldre.png" },
 
@@ -348,9 +348,9 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3354.40, img: "photo/04cremosoPunta.png" },
-    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 2962.35, img: "photo/04cremosoLactovita.png" },
-    // { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 2727.20, img: "photo/04cremosoOferta.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3578.40, img: "photo/04cremosoPunta.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3504.48, img: "photo/04cremosoLactovita.png" },
+    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3325.28, img: "photo/04cremosoOferta.png" },
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4726.80, img: "photo/04barraPunta.png" },
@@ -366,7 +366,7 @@ const productos = [
     // Hormas (patgegras, Azul, sardo, reggianito)
     { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 4680.25, img: "photo/04pategras.png" },
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5752.88, img: "photo/04azulSangotardo.png" },
-    { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 3403.20, img: "photo/04sardoFresco.png" },
+    { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 3534.10, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
     { id: 228, nombre: "Reggianito Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 5898.82, img: "photo/04reggianito.png" },
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 5842.37, img: "photo/04reggianitoBarra.png" },
