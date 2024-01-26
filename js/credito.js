@@ -676,6 +676,9 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "25-ene", tipo: "Mercado Pago", credito: 0, haber: 21000, saldo: 73141.63},
+    {fecha: "25-ene", tipo: "Factura 46340", credito: 65382.21, haber: 0, saldo: 94141.63},
+
     {fecha: "23-ene", tipo: "Mercado Pago", credito: 0, haber: 15000, saldo: 28759.42},
     {fecha: "18-ene", tipo: "Mercado Pago", credito: 0, haber: 24000, saldo: 43759.42},
     {fecha: "18-ene", tipo: "Factura 46240", credito: 33941.65, haber: 0, saldo: 67759.42},
