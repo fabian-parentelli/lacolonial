@@ -398,7 +398,7 @@ const productos = [
     // mantecas
     { id: 243, nombre: "Manteca La Serenisima 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 760.37, img: "photo/05mantecaSere.png" },
     { id: 244, nombre: "Manteca La Serenisima 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 1327.52, img: "photo/05mantecaSere.png" },
-    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 365.58, img: "photo/05mantecaSys.png" },
+    { id: 245, nombre: "Manteca SYS 100gr", medida: 10, familia: "lacteos", cantidad: 1, precio: 438.70, img: "photo/05mantecaSys.png" },
     { id: 246, nombre: "Manteca SYS 200gr", medida: 5, familia: "lacteos", cantidad: 1, precio: 877.38, img: "photo/05mantecaSys.png" },
 
     // lacteos

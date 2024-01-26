@@ -429,6 +429,9 @@ const vecinos = [
 ];
 
 const guillermo = [
+    {fecha: "26-ene", tipo: "Pago efcetivo", credito: 0, haber: 80000, saldo: 11732.76},
+    {fecha: "26-ene", tipo: "Factura 46372", credito: 54232.97, haber: 0, saldo: 91732.76},
+
     {fecha: "19-ene", tipo: "Pago efcetivo", credito: 0, haber: 90000, saldo: 37499.79},
     {fecha: "19-ene", tipo: "Factura 46268", credito: 85638.85, haber: 0, saldo: 127499.79},
 
@@ -1332,6 +1335,9 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
+    {fecha: "26-ene", tipo: "Factura 46358", credito: 52499.15, haber: 0, saldo: 52499.15},
+    {fecha: "26-ene", tipo: "Mercado Pago", credito: 52499.15, haber: 0, saldo: 0},
+
     {fecha: "22-ene", tipo: "Pago Factura", credito: 0, haber: 95510, saldo: 104635.63},
     {fecha: "22-ene", tipo: "Factura 46282", credito: 6342.34, haber: 0, saldo: 200145.63},
 
