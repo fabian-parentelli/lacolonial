@@ -354,10 +354,10 @@ const productos = [
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4966.80, img: "photo/04barraPunta.png" },
-    { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
-    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4558.80, img: "photo/04barraMelincue.png" },
+    // { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
+    { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4906.80, img: "photo/04barraMelincue.png" },
     { id: 221, nombre: "Barra Don felipe", medida: 4, familia: "quesos", cantidad: 1, precio: 4620, img: "photo/04barraNoalsa.png" },
-    { id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 4888.80, img: "photo/04barraTonutti.png" },
+    // { id: 412, nombre: "Barra Tonutti", medida: 4, familia: "quesos", cantidad: 1, precio: 4888.80, img: "photo/04barraTonutti.png" },
 
     // Muzzarellas
     { id: 222, nombre: "Muzzarella Barraza", medida: 3, familia: "quesos", cantidad: 1, precio: 4194, img: "photo/04muzzaBarraza.png" },
@@ -372,7 +372,7 @@ const productos = [
     { id: 229, nombre: "Reggianito Melincue Barra", medida: 3.5, familia: "quesos", cantidad: 1, precio: 5842.37, img: "photo/04reggianitoBarra.png" },
 
     // Rallados
-    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 495.68, img: "photo/04ralladoSere.png" },
+    { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 538.80, img: "photo/04ralladoSere.png" },
     { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 302.53, img: "photo/04ralladoQuesera.png" },
 
     // Varios (parrillero, fiambrin, cheddar)
@@ -703,6 +703,7 @@ const productos = [
     { id: 390, nombre: "Bolsa Residuos 50x70", medida: 1, familia: "limpieza", cantidad: 1, precio: 505.88, img: "photo/10bolsaEsencial.png" },
     { id: 391, nombre: "Bolsa Residuos 60x90", medida: 1, familia: "limpieza", cantidad: 1, precio: 1101.59, img: "photo/10bolsaEsencial.png" },
     { id: 399, nombre: "Bolsa Residuos 60x100", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.88, img: "photo/10bolsaEsencial.png" },
+    { id: 464, nombre: "Bolsa Residuos 80x110", medida: 1, familia: "limpieza", cantidad: 1, precio: 3219.88, img: "photo/10bolsaEsencial.png" },
     { id: 392, nombre: "Bolsa Residuos 90x120", medida: 1, familia: "limpieza", cantidad: 1, precio: 3219.88, img: "photo/10bolsaEsencial.png" },
 
     // Lamparas Esencial de Luz
@@ -722,4 +723,4 @@ const productos = [
 
 ];
 
-// 464
+// 465
