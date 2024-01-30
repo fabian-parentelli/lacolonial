@@ -96,7 +96,7 @@ const productos = [
     { id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1619.88, img: "photo/02cocinero.png" },
 
     // Mayonesa Hellmans
-    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 390.44, img: "photo/02mayoHell.png" },
+    { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 503.08, img: "photo/02mayoHell.png" },
     { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
@@ -234,11 +234,11 @@ const productos = [
     // { id: 153, nombre: "Gelatina Marolio Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaFrut.png" },
     // { id: 154, nombre: "Gelatina Light Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 695.88, img: "photo/02gelatinaMaLight.png" },
     // Gelatina Esquisita
-    { id: 155, nombre: "Gelatina Exquisita Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02gelatinaEsFram.png" },
+    // { id: 155, nombre: "Gelatina Exquisita Frambuesa", medida: 1, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02gelatinaEsFram.png" },
     // { id: 156, nombre: "Gelatina Exquisita Frutilla", medida: 1, familia: "almacen", cantidad: 1, precio: 779.89, img: "photo/02gelatinaEsFrut.png" },
     // Postres
     { id: 157, nombre: "Postre Esquisita Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02postreVainilla.png" },
-    { id: 158, nombre: "Postre Esquisita Chcocolate", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02postreChoco.png" },
+    // { id: 158, nombre: "Postre Esquisita Chcocolate", medida: 1, familia: "almacen", cantidad: 1, precio: 755.88, img: "photo/02postreChoco.png" },
     // Bizcochuelo
     { id: 159, nombre: "Bizcochuelo Marolio Vainilla", medida: 1, familia: "almacen", cantidad: 1, precio: 1799.88, img: "photo/02biscochuelo.png" },
 
