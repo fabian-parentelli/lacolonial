@@ -1342,6 +1342,9 @@ const emilse = [
 // ***** Zona 4 ****** //
 
 const carlos = [
+    {fecha: "31-ene", tipo: "Factura 46406", credito: 143323.14, haber: 0, saldo: 143323.14},
+    {fecha: "31-ene", tipo: "Factura Pago", credito: 0, haber: 52499.15, saldo: 0},
+
     {fecha: "26-ene", tipo: "Factura 46358", credito: 52499.15, haber: 0, saldo: 52499.15},
     {fecha: "26-ene", tipo: "Mercado Pago", credito: 52499.15, haber: 0, saldo: 0},
 

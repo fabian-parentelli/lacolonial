@@ -348,12 +348,12 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3578.40, img: "photo/04cremosoPunta.png" },
-    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3504.48, img: "photo/04cremosoLactovita.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3802.40, img: "photo/04cremosoPunta.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3748, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3325.28, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4966.80, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 5482.80, img: "photo/04barraPunta.png" },
     // { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4906.80, img: "photo/04barraMelincue.png" },
     { id: 221, nombre: "Barra Don felipe", medida: 4, familia: "quesos", cantidad: 1, precio: 4620, img: "photo/04barraNoalsa.png" },
@@ -413,7 +413,7 @@ const productos = [
     { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaNegra.png" },
 
     // Morando
-    { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3610.80, img: "photo/06morandoVerde.png" },
+    { id: 251, nombre: "Morando verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 4446, img: "photo/06morandoVerde.png" },
     // { id: 252, nombre: "Morando verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 2620.54, img: "photo/06morandoVerde.png" },
     // { id: 253, nombre: "Morando Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 3158.09, img: "photo/06morandonegra.png" },
 
@@ -476,7 +476,7 @@ const productos = [
     // {id: 282, nombre: "Caja Batata Choco", medida: 1, familia: "mermeladas", cantidad: 1, precio: 269.93, img: "photo/07caja500Choco.png"},
 
     // Dulce de leche, Miel
-    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1069.46, img: "photo/07dulcePunta.png" },
+    { id: 283, nombre: "Dulce de leche Punta", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1143.60, img: "photo/07dulcePunta.png" },
     { id: 465, nombre: "D. Serenisima Clasico 250gr", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1054.62, img: "photo/07dulceSere.png" },
     { id: 284, nombre: "Dulce de leche Serenisima Clasico", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1256.69, img: "photo/07dulceSere.png" },
     { id: 414, nombre: "Dulce de leche Sere Colonial", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1392, img: "photo/07dulceSere.png" },
