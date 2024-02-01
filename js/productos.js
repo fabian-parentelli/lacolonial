@@ -15,7 +15,7 @@ const productos = [
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2152.88, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4117.31, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3253, img: "photo/01papaCheddar350-60.png" },
+    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3252.11, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -167,9 +167,9 @@ const productos = [
     { id: 454, nombre: "Condimento Nuez Moscada", medida: 10, familia: "almacen", cantidad: 1, precio: 1031.54, img: "photo/02nuez.png" },
 
     // Ravioles Orali
-    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 1093.19, img: "photo/02ricota.png" },
-    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 1093.19, img: "photo/02pollo.png" },
-    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 1093.19, img: "photo/02verdura.png" },
+    { id: 103, nombre: "Ravioles Orali Ricota", medida: 1, familia: "almacen", cantidad: 1, precio: 1224.38, img: "photo/02ricota.png" },
+    { id: 104, nombre: "Ravioles Orali Pollo", medida: 1, familia: "almacen", cantidad: 1, precio: 1224.38, img: "photo/02pollo.png" },
+    { id: 105, nombre: "Ravioles Orali Verdura", medida: 1, familia: "almacen", cantidad: 1, precio: 1224.38, img: "photo/02verdura.png" },
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
@@ -337,7 +337,7 @@ const productos = [
 
     // Salchichas
     { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 779.01, img: "photo/03salchichaComarca.png" },
-    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 908.18, img: "photo/03salchichaPaladini6.png" },
+    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 864, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
     // Leberwust, pate y picadillo 
@@ -350,7 +350,7 @@ const productos = [
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3802.40, img: "photo/04cremosoPunta.png" },
     { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3748, img: "photo/04cremosoLactovita.png" },
-    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3325.28, img: "photo/04cremosoOferta.png" },
+    { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3278.82, img: "photo/04cremosoOferta.png" },
 
     // Barras
     { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 5482.80, img: "photo/04barraPunta.png" },
@@ -641,6 +641,8 @@ const productos = [
     { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 517.39, img: "photo/09toallaCalipso.png" },
     { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 3139.37, img: "photo/09tamponKotekmedio20.png" },
     { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 459.89, img: "photo/09doncella.png" },
+    
+    { id: 466, nombre: "Protector Doncella 20unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 574.89, img: "https://cdn.batitienda.com/baticloud/images/product_picture_c1fa1b839bd74451aacae715883e1bf5_637724567523752651_0_m.webp" },
 
     // Pañuelos Elite
     { id: 366, nombre: "Pañuelos Elite x 3unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 896.39, img: "photo/09panueloElite.png" },
@@ -724,4 +726,4 @@ const productos = [
 
 ];
 
-// 466
+// 467
