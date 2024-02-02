@@ -62,7 +62,7 @@ const productos = [
 
     { id: 35, nombre: "Sal Fina Marolio 500gr", medida: 6, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02salFinaMarolio.png" },
     { id: 36, nombre: "Sal Fina El Dique 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 281.88, img: "photo/02salFinaElDique.png" },
-    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 623.88, img: "photo/02salFinaCelusal.png" },
+    { id: 37, nombre: "Sal Fina Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02salFinaCelusal.png" },
     { id: 38, nombre: "Sal Gruesa Celusal 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 479.88, img: "photo/02salGruesaCelusal.png" },
     // { id: 39, nombre: "Sal Gruesa Marolio 1Kg", medida: 5, familia: "almacen", cantidad: 1, precio: 443.88, img: "photo/02salGruesaMarolio.png" },
 
@@ -93,11 +93,11 @@ const productos = [
     { id: 53, nombre: "Aceite Marolio 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 1559.88, img: "photo/02aceiteMarolio.png" },
     // {id: 54, nombre: "Aceite Marolio 1.5ltr", medida: 6, familia: "almacen", cantidad: 1, precio: 839.88, img: "photo/02aceiteMarolio.png"},
     // { id: 55, nombre: "Aceite Cañuelas 900cc", medida: 6, familia: "almacen", cantidad: 1, precio: 1559.88, img: "photo/02aceiteCanuelas.png" },
-    { id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1619.88, img: "photo/02cocinero.png" },
+    { id: 449, nombre: "Aceite Cocinero 900cc", medida: 1, familia: "almacen", cantidad: 1, precio: 1679.88, img: "photo/02cocinero.png" },
 
     // Mayonesa Hellmans
     { id: 56, nombre: "Mayonesa Hellmans 118gr", medida: 20, familia: "almacen", cantidad: 1, precio: 503.08, img: "photo/02mayoHell.png" },
-    { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 719.88, img: "photo/02mayoHell.png" },
+    { id: 57, nombre: "Mayonesa Hellmans 237gr", medida: 1, familia: "almacen", cantidad: 1, precio: 962.35, img: "photo/02mayoHell.png" },
     { id: 58, nombre: "Mayonesa Hellmans 1Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 2639.93, img: "photo/02mayoHell.png" },
     { id: 59, nombre: "Mayonesa Hellmans 2.9Kg", medida: 1, familia: "almacen", cantidad: 1, precio: 5879.88, img: "photo/02mayoHell.png" },
     // Natura
@@ -269,7 +269,7 @@ const productos = [
 
     // Fiambre Paleta
     { id: 170, nombre: "Paleta Comarca", medida: 4, familia: "fiambres", cantidad: 1, precio: 4984.29, img: "photo/03paletaComarca.png" },
-    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 3844.98, img: "photo/03paleta295.png" },
+    { id: 171, nombre: "Paleta 295", medida: 4, familia: "fiambres", cantidad: 1, precio: 3600.11, img: "photo/03paleta295.png" },
     { id: 172, nombre: "Paleta Losifar", medida: 4, familia: "fiambres", cantidad: 1, precio: 3126.82, img: "photo/03paletaLosifar.png" },
     { id: 173, nombre: "Paleta Jet Food", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 2346.66, img: "photo/03paletaJetFood.png" },
     { id: 404, nombre: "Paleta Riosol", medida: 6, familia: "fiambres", cantidad: 1, precio: 3404.36, img: "photo/03paletaRiosol.png" },
@@ -288,13 +288,13 @@ const productos = [
     // Mortadelas
     { id: 178, nombre: "Mortadela Bocha Calchaquil", medida: 7, familia: "fiambres", cantidad: 1, precio: 4746.87, img: "photo/03mortadelaCalcha.png" },
     { id: 179, nombre: "Mortadela Cañon Calchaquil", medida: 4, familia: "fiambres", cantidad: 1, precio: 4249.53, img: "photo/03mortadelaCanon.png" },
-    { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 4142.52, img: "photo/03mortadelaApetece.png" },
+    { id: 180, nombre: "Mortadela Apetece", medida: 5, familia: "fiambres", cantidad: 1, precio: 3728.27, img: "photo/03mortadelaApetece.png" },
     { id: 181, nombre: "Mortadela Los Calvos", medida: 6, familia: "fiambres", cantidad: 1, precio: 4778.82, img: "photo/03mortadela42.png" },
     // { id: 182, nombre: "Mortadela Paladini 300gr", medida: 1, familia: "fiambres", cantidad: 1, precio: 916.27, img: "photo/03mortadelaPaladini.png" },
 
     // Salame Milan
     { id: 183, nombre: "Salame Calchaqui", medida: 3, familia: "fiambres", cantidad: 1, precio: 9773.81, img: "photo/03salameCalcha.png" },
-    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 8820.42, img: "photo/03salameFox.png" },
+    { id: 184, nombre: "Salame Fox", medida: 2, familia: "fiambres", cantidad: 1, precio: 8467.61, img: "photo/03salameFox.png" },
     { id: 185, nombre: "Salame Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 8429.72, img: "photo/03salame42.png" },
     // { id: 186, nombre: "Salame Cagnoli", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 5726.68, img: "photo/03salameCagnoli.png" },
     { id: 187, nombre: "Salame Apetece", medida: 3, familia: "fiambres", cantidad: 1, precio: 7673.39, img: "photo/03salameApetece.png" },
@@ -638,9 +638,12 @@ const productos = [
     // Toallita Lina
     { id: 364, nombre: "Toallitas Lina Anatomicas 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1000.39, img: "photo/09linaAnatomica.png" },
     { id: 365, nombre: "Toallitas Lina Nocturna 8 un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1379.89, img: "photo/09linaNocturna.png" },
-    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 517.39, img: "photo/09toallaCalipso.png" },
+    { id: 408, nombre: "Toallitas Calipso 8un", medida: 1, familia: "perfumeria", cantidad: 1, precio: 574, img: "photo/09toallaCalipso.png" },
     { id: 444, nombre: "Kotek Mediano x 20 unidades", medida: 1, familia: "perfumeria", cantidad: 1, precio: 3139.37, img: "photo/09tamponKotekmedio20.png" },
     { id: 450, nombre: "Toallita Doncella c/alas 8nid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 459.89, img: "photo/09doncella.png" },
+    { id: 467, nombre: "Toall Ladysoft Normal 8unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 655.39, img: "https://www.ladysoft.com.ar/assets/uploads/images/8d958-9912_nrm_suave_x8_alas_nuevas.png" },
+    { id: 468, nombre: "Toall Ladysoft Secure 8unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.39, img: "https://www.ladysoft.com.ar/assets/uploads/images/8e459-9805_tf_ud_seca_alas_x8_nuevas.png" },
+    { id: 469, nombre: "Toall Ladysoft Suave 8unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1092.39, img: "https://www.ladysoft.com.ar/assets/uploads/images/a3dcd-9806_tf_ud_suave_alas_x8_nuevas.png" },
     
     { id: 466, nombre: "Protector Doncella 20unid", medida: 1, familia: "perfumeria", cantidad: 1, precio: 574.89, img: "https://cdn.batitienda.com/baticloud/images/product_picture_c1fa1b839bd74451aacae715883e1bf5_637724567523752651_0_m.webp" },
 
@@ -660,7 +663,7 @@ const productos = [
 
     // Lavandina ... Ayudìn
     { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.89, img: "photo/10lavandinaAy2.png" },
-    { id: 373, nombre: "Lavandina Ayudin 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 689.88, img: "photo/10lavandinaAy2.png" },
+    { id: 373, nombre: "Lavandina Ayudin 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 770.37, img: "photo/10lavandinaAy2.png" },
     // Esencial
     { id: 374, nombre: "Lavandina Esencial 1ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.88, img: "photo/10lavandinaEsencial.png" },
 
@@ -726,4 +729,4 @@ const productos = [
 
 ];
 
-// 467
+// 470
