@@ -429,6 +429,9 @@ const vecinos = [
 ];
 
 const guillermo = [
+    {fecha: "02-feb", tipo: "Pago efcetivo", credito: 0, haber: 80000, saldo: 28216.2},
+    {fecha: "02-feb", tipo: "Factura 46476", credito: 96483.44, haber: 0, saldo: 108216.20},
+
     {fecha: "26-ene", tipo: "Pago efcetivo", credito: 0, haber: 80000, saldo: 11732.76},
     {fecha: "26-ene", tipo: "Factura 46372", credito: 54232.97, haber: 0, saldo: 91732.76},
 

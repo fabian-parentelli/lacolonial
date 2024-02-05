@@ -177,7 +177,7 @@ const productos = [
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 230.40, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
-    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 669.54, img: "photo/02empanadaOrali.png" },
+    { id: 110, nombre: "Tapas Empanada Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 749.88, img: "photo/02empanadaOrali.png" },
     { id: 111, nombre: "Tapas Pascualina Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 899.60, img: "photo/02pascualinaOrali.png" },
     // { id: 447, nombre: "Tapas Empanada XL", medida: 1, familia: "almacen", cantidad: 1, precio: 1613.91, img: "photo/02tapaXl.png" },
     // Empanadas y pascualinas Litoraleña
@@ -348,12 +348,12 @@ const productos = [
     // ****************************************************** Quesos ****************************************************** //
 
     // Cremoso
-    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 3802.40, img: "photo/04cremosoPunta.png" },
+    { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4082.40, img: "photo/04cremosoPunta.png" },
     { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3748, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3278.82, img: "photo/04cremosoOferta.png" },
 
     // Barras
-    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 5482.80, img: "photo/04barraPunta.png" },
+    { id: 218, nombre: "Barra Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 5782.80, img: "photo/04barraPunta.png" },
     // { id: 219, nombre: "Barra Esnaola", medida: 4, familia: "quesos", cantidad: 1, precio: 4716.62, img: "photo/04barraEsnaola.png" },
     { id: 220, nombre: "Barra Melincué", medida: 4, familia: "quesos", cantidad: 1, precio: 4906.80, img: "photo/04barraMelincue.png" },
     { id: 221, nombre: "Barra Don felipe", medida: 4, familia: "quesos", cantidad: 1, precio: 4620, img: "photo/04barraNoalsa.png" },
@@ -364,7 +364,7 @@ const productos = [
     // {id: 223, nombre: "Muzzarella Campo", medida: 5, familia: "quesos", cantidad: 1, precio: 1291.60, img: "photo/04muzzaCampo.png"},
 
     // Hormas (patgegras, Azul, sardo, reggianito)
-    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 5168.40, img: "photo/04pategras.png" },
+    { id: 224, nombre: "Pategras Maffia", medida: 2, familia: "quesos", cantidad: 1, precio: 5169.23, img: "photo/04pategras.png" },
     { id: 225, nombre: "Queso Azul Sangotardo", medida: 1, familia: "quesos", cantidad: 1, precio: 5752.88, img: "photo/04azulSangotardo.png" },
     { id: 226, nombre: "Sardo Fresco", medida: 3, familia: "quesos", cantidad: 1, precio: 3534.10, img: "photo/04sardoFresco.png" },
     // {id: 227, nombre: "Sardo Semiduro", medida: 3, familia: "quesos", cantidad: 1, precio: 0, img: "photo/04sardoSemiduro.png"},
@@ -407,7 +407,7 @@ const productos = [
     // ****************************************************** Encurtidos ****************************************************** //
 
     // olifaza
-    // { id: 247, nombre: "Aceitunas Olifaza Verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 1634.94, img: "photo/06olifazaVerde.png" },
+    { id: 247, nombre: "Aceitunas Olifaza Verde 1kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6311.52, img: "photo/06olifazaVerde.png" },
     { id: 248, nombre: "Aceitunas Olifaza Verde 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaVerde.png" },
     { id: 249, nombre: "Aceitunas olifaza Desc. 1.8kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaVerde.png" },
     { id: 250, nombre: "Aceitunas olifaza Negra 2kg", medida: 1, familia: "encurtidos", cantidad: 1, precio: 6982.27, img: "photo/06olifazaNegra.png" },
