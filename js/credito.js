@@ -682,6 +682,7 @@ const eva = [
 // ****** Zona 2 ****** //
 
 const mirta = [
+    {fecha: "05-feb", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 35844.63},
     {fecha: "01-feb", tipo: "Mercado Pago", credito: 0, haber: 37000, saldo: 55844.63},
     {fecha: "01-feb", tipo: "Factura 46436", credito: 47495.58, haber: 0, saldo: 92844.63},
 
@@ -1030,6 +1031,9 @@ const viviana = [
 ];
 
 const jorge = [
+    {fecha: "05-feb", tipo: "Pago efectivo", credito: 0, haber: 30000, saldo: 33482.77},
+    {fecha: "05-feb", tipo: "Factura 46490", credito: 48482.77, haber: 0, saldo: 63482.77},
+
     {fecha: "01-feb", tipo: "Pago efectivo", credito: 0, haber: 13000, saldo: 15000},
     {fecha: "29-ene", tipo: "Pago efectivo", credito: 0, haber: 30176.84, saldo: 28000},
     {fecha: "29-ene", tipo: "Factura 46378", credito: 38176.84, haber: 0, saldo: 58176.84},
@@ -1193,6 +1197,8 @@ const jorge = [
 ];
 
 const emilse = [
+    {fecha: "05-feb", tipo: "Factura 46482", credito: 62915.81, haber: 0, saldo: 62915.81},
+
     {fecha: "29-ene", tipo: "Pago efcetivo", credito: 0, haber: 78923.29, saldo: 0},
     {fecha: "22-ene", tipo: "Factura 46292", credito: 78923.29, haber: 0, saldo: 78923.29},
     {fecha: "22-ene", tipo: "Mercado Pago", credito: 0, haber: 51982.92, saldo: 0},
@@ -1717,6 +1723,7 @@ const carlos = [
 ];
 
 const rossana = [
+    {fecha: "05-feb", tipo: "Mercado Pago", credito: 0, haber: 17531.54, saldo: 0},
     {fecha: "30-ene", tipo: "Factura 46392", credito: 17531.54, haber: 0, saldo: 17531.54},
     {fecha: "30-ene", tipo: "Pago factura", credito: 0, haber: 17142.66, saldo: 0},
 

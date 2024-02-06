@@ -11,7 +11,7 @@ const productos = [
 
     { id: 405, nombre: "Papa Tradicional 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3791.34, img: "photo/01papaTradicional550.png" },
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3791.34, img: "photo/01papaAmericana550-120-60.png" },
-    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2447.69, img: "photo/01chizo400-60.png" },
+    { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1958.45, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2152.88, img: "photo/01bastonito300-55.png" },
     { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" },
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4117.31, img: "photo/01mani500-120-65.png" },
@@ -127,7 +127,7 @@ const productos = [
     // { id: 76, nombre: "Cafe El Pocillo 125gr", medida: 1, familia: "almacen", cantidad: 1, precio: 659.88, img: "photo/02cafePocillo.png" },
 
     // Yerbas
-    { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1055.88, img: "photo/02yerbaChamigo.png" },
+    { id: 77, nombre: "Yerba Chamigo 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1079.88, img: "photo/02yerbaChamigo.png" },
     { id: 78, nombre: "Yerba Marolio 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1199.88, img: "photo/02yerbaMarolio.png" },
     { id: 79, nombre: "Yerba Union 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1763.88, img: "photo/02yerbaUnion.png" },
     { id: 435, nombre: "Yerba Union Liviana 500gr", medida: 5, familia: "almacen", cantidad: 1, precio: 1895.88, img: "photo/02yerbaUnionLiviana.png" },
@@ -173,7 +173,7 @@ const productos = [
     // {id: 106, nombre: "Fetuccini Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 234.48, img: "photo/02tallarin.png"},
     // {id: 107, nombre: "Ñoquis Orali", medida: 1, familia: "almacen", cantidad: 1, precio: 238.48, img: "photo/02noqui.png"},
 
-    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 663, img: "photo/02oralita.png" },
+    { id: 108, nombre: "Tapas Oralitas", medida: 1, familia: "almacen", cantidad: 1, precio: 773.06, img: "photo/02oralita.png" },
     { id: 109, nombre: "Levadura Calsa 50gr", medida: 1, familia: "almacen", cantidad: 1, precio: 230.40, img: "photo/02levaduraCalsa.png" },
 
     // Empanadas y Pasculinas Orali
@@ -208,15 +208,15 @@ const productos = [
     { id: 126, nombre: "Sopa Zapallo Light", medida: 1, familia: "almacen", cantidad: 1, precio: 719.90, img: "photo/02SopaZapalloL.png" },
 
     // Fideos Marolio
-    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoTira.png" },
-    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoDado.png" },
-    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoAveM.png"},
-    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoCodi.png"},
-    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMost.png" },
-    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoTall.png" },
-    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoSpag.png" },
-    // { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMuni.png" },
-    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 719.89, img: "photo/02fideoMono.png"},
+    { id: 127, nombre: "Fideos Marolio Tirabuzón", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoTira.png" },
+    { id: 128, nombre: "Fideos Marolio Dadolitos", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoDado.png" },
+    // {id: 129, nombre: "Fideos Marolio Ave María", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoAveM.png"},
+    // {id: 130, nombre: "Fideos Marolio Coditos", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoCodi.png"},
+    { id: 131, nombre: "Fideos Marolio Mostachol", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoMost.png" },
+    { id: 132, nombre: "Fideos Marolio Tallarín", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoTall.png" },
+    { id: 133, nombre: "Fideos Marolio Spaguetti", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoSpag.png" },
+    // { id: 134, nombre: "Fideos Marolio Munición", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoMuni.png" },
+    // {id: 135, nombre: "Fideos Marolio Moños", medida: 1, familia: "almacen", cantidad: 1, precio: 743.88, img: "photo/02fideoMono.png"},
 
     // Vinagres
     { id: 136, nombre: "Vinagre Alcohol 500", medida: 1, familia: "almacen", cantidad: 1, precio: 539.88, img: "photo/02vinagreA.png" },
@@ -349,7 +349,7 @@ const productos = [
 
     // Cremoso
     { id: 215, nombre: "Cremoso Punta Agua", medida: 4, familia: "quesos", cantidad: 1, precio: 4082.40, img: "photo/04cremosoPunta.png" },
-    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3748, img: "photo/04cremosoLactovita.png" },
+    { id: 216, nombre: "Cremoso Lactovita", medida: 4, familia: "quesos", cantidad: 1, precio: 3993.56, img: "photo/04cremosoLactovita.png" },
     { id: 217, nombre: "Cremoso Oferta", medida: 4, familia: "quesos", cantidad: 1, precio: 3278.82, img: "photo/04cremosoOferta.png" },
 
     // Barras
@@ -443,8 +443,8 @@ const productos = [
 
     // Mermelada Dulcor
     // { id: 267, nombre: "Mermelada Dulcor Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 2177.85, img: "photo/07dulcorFrutilla.png" },
-    { id: 268, nombre: "Mermelada Dulcor Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1509.08, img: "photo/07dulcorCiruela.png" },
-    // { id: 269, nombre: "Mermelada Dulcor Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 695.88, img: "photo/07dulcorDurazno.png" },
+    { id: 268, nombre: "Mermelada Dulcor Ciruela", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1655.14, img: "photo/07dulcorCiruela.png" },
+    { id: 269, nombre: "Mermelada Dulcor Durazno", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1655.14, img: "photo/07dulcorDurazno.png" },
 
     // Mermelada Cormillot
     { id: 270, nombre: "Mermelada Cormillot Frutilla", medida: 1, familia: "mermeladas", cantidad: 1, precio: 1843.89, img: "photo/07cormillotFrutilla.png" },
@@ -681,8 +681,8 @@ const productos = [
     { id: 379, nombre: "J. Piso Esencial Lavanda", medida: 1, familia: "limpieza", cantidad: 1, precio: 597.89, img: "photo/10pisoEsLavanda.png" },
 
     // Jabon Polvo Ala
-    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 655.38, img: "photo/10alaRegular.png" },
-    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 655.38, img: "photo/10alaMatics.png" },
+    { id: 380, nombre: "J. Polvo Ala Regular 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.39, img: "photo/10alaRegular.png" },
+    { id: 381, nombre: "J. Polvo Ala Matics 400gr", medida: 1, familia: "limpieza", cantidad: 1, precio: 747.39, img: "photo/10alaMatics.png" },
 
     // jabon Pan Ropa
     { id: 382, nombre: "J.pan Ropa Zorro", medida: 1, familia: "limpieza", cantidad: 1, precio: 574.89, img: "photo/10jabonPanRopa.png" },
