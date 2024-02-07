@@ -1857,6 +1857,8 @@ const rossana = [
 ];
 
 const fernando = [
+    {fecha: "06-feb", tipo: "Factura 46496", credito: 22316.82, haber: 0, saldo: 46105.32},
+
     {fecha: "17-ene", tipo: "Mercado Pago", credito: 0, haber: 20000, saldo: 23788.50},
     {fecha: "16-ene", tipo: "Factura 46198", credito: 15057.70, haber: 0, saldo: 43788.50},
 
