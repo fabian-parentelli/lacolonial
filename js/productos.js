@@ -13,9 +13,9 @@ const productos = [
     { id: 406, nombre: "Papa Americana 420gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3791.34, img: "photo/01papaAmericana550-120-60.png" },
     { id: 407, nombre: "Chizito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 1958.45, img: "photo/01chizo400-60.png" },
     { id: 4, nombre: "Bastonito 300gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2152.88, img: "photo/01bastonito300-55.png" },
-    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" },
+    { id: 5, nombre: "Palito 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 2797.22, img: "photo/01palito800-120-65.png" }, 
     { id: 6, nombre: "Mani 500gr", medida: 1, familia: "snacks", cantidad: 1, precio: 4117.31, img: "photo/01mani500-120-65.png" },
-    { id: 7, nombre: "Papa Cheddra 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3252.11, img: "photo/01papaCheddar350-60.png" },
+    { id: 7, nombre: "Papa Cheddar 350gr", medida: 1, familia: "snacks", cantidad: 1, precio: 3252.11, img: "photo/01papaCheddar350-60.png" },
     // { id: 422, nombre: "Bastonito 150gr", medida: 1, familia: "snacks", cantidad: 1, precio: 300, img: "photo/01bastonito300-55.png" },
 
     // 110
@@ -30,7 +30,7 @@ const productos = [
     { id: 14, nombre: "Papa Sin Sal 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 764.48, img: "photo/01papaSinSal.png" },
     { id: 15, nombre: "Papa Pay 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 664.37, img: "photo/01papaPay.png" },
     { id: 16, nombre: "Papa Ketchup 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 735.84, img: "photo/01papaKetchup.png" },
-    { id: 17, nombre: "Papa Cheddra 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaCheddar350-60.png" },
+    { id: 17, nombre: "Papa Cheddar 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaCheddar350-60.png" },
     { id: 18, nombre: "Papa Jamon 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 738.78, img: "photo/01papaJamon.png" },
     { id: 19, nombre: "Chizito 60gr", medida: 6, familia: "snacks", cantidad: 1, precio: 574.38, img: "photo/01chizo400-60.png" },
     { id: 20, nombre: "Bastonito 55gr", medida: 6, familia: "snacks", cantidad: 1, precio: 576.12, img: "photo/01bastonito300-55.png" },
@@ -73,7 +73,7 @@ const productos = [
 
     // Pure Papas
     // {id: 43, nombre: "Pure Papas Marolio", medida: 15, familia: "almacen", cantidad: 1, precio: 0, img: "photo/02purePapasMarolio.png"},
-    // {id: 44, nombre: "Pure Papas Maggi", medida: 6, familia: "almacen", cantidad: 1, precio: 479.87, img: "photo/02pureMaggi.png"},
+    {id: 44, nombre: "Pure Papas Maggi", medida: 6, familia: "almacen", cantidad: 1, precio: 1559.87, img: "photo/02pureMaggi.png"},
 
     // Grasa Vacuna y Porcina
     { id: 45, nombre: "Grasa Esani Vacuna", medida: 1, familia: "almacen", cantidad: 1, precio: 1000.75, img: "photo/02grasaVacuna.png" },
@@ -330,14 +330,14 @@ const productos = [
     { id: 204, nombre: "Salchichon 42 Jamon", medida: 3, familia: "fiambres", cantidad: 1, precio: 4278.33, img: "photo/03salchichon42J.png" },
 
     // Queso de cerdo
-    { id: 205, nombre: "Queso de credo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 3668.74, img: "photo/03quesoCerdo42.png" },
-    // {id: 206, nombre: "Queso de credo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
-    { id: 207, nombre: "Queso de credo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 3070.61, img: "photo/03quesoCerdo8.png" },
-    { id: 208, nombre: "Queso de credo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 2530.80, img: "photo/03quesoCerdoSeoc.png" },
+    { id: 205, nombre: "Queso de cerdo 42", medida: 3, familia: "fiambres", cantidad: 1, precio: 3668.74, img: "photo/03quesoCerdo42.png" },
+    // {id: 206, nombre: "Queso de cerdo Fox", medida: 3, familia: "fiambres", cantidad: 1, precio: 711.83, img: "photo/03quesoCerdoFox.png"},
+    { id: 207, nombre: "Queso de cerdo Octava", medida: 3, familia: "fiambres", cantidad: 1, precio: 3070.61, img: "photo/03quesoCerdo8.png" },
+    { id: 208, nombre: "Queso de cerdo Seoc", medida: 2.5, familia: "fiambres", cantidad: 1, precio: 2530.80, img: "photo/03quesoCerdoSeoc.png" },
 
     // Salchichas
     { id: 209, nombre: "Comarca x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 779.01, img: "photo/03salchichaComarca.png" },
-    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 920.75, img: "photo/03salchichaPaladini6.png" },
+    { id: 210, nombre: "Paladini x6", medida: 1, familia: "fiambres", cantidad: 1, precio: 1422, img: "photo/03salchichaPaladini6.png" },
     // {id: 211, nombre: "Paladini x12", medida: 1, familia: "fiambres", cantidad: 1, precio: 697.27, img: "photo/03salchichaPaladini12.png"},
 
     // Leberwust, pate y picadillo 
@@ -600,7 +600,7 @@ const productos = [
     // desodorante Rolon Nivea
     { id: 348, nombre: "Desodorante Rolon Nivea", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1149.89, img: "photo/09desodoranteNivea.png" },
 
-    { id: 431, nombre: "Desodorante Axe Marine", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1609.89, img: "photo/09axe.png" },
+    { id: 431, nombre: "Desodorante Axe Marine", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1954.90, img: "photo/09axe.png" },
     // { id: 431, nombre: "Desodorante Axe Apollo", medida: 1, familia: "perfumeria", cantidad: 1, precio: 1034.89, img: "photo/09axe.png" },
 
     // Dentrifico Colgate
@@ -662,7 +662,7 @@ const productos = [
     { id: 369, nombre: "Det Esencial Limon", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsLimon.png" },
     { id: 370, nombre: "Det Esencial Hierbas", medida: 1, familia: "limpieza", cantidad: 1, precio: 804.89, img: "photo/10detergenteEsHierbas.png" },
     // Cif
-    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 862.38, img: "photo/10detergenteCif.png" },
+    { id: 371, nombre: "Detergente Cif 300", medida: 1, familia: "limpieza", cantidad: 1, precio: 977.39, img: "photo/10detergenteCif.png" },
 
     // Lavandina ... Ayudìn
     { id: 372, nombre: "Lavandina Ayudin 2ltr", medida: 1, familia: "limpieza", cantidad: 1, precio: 1241.89, img: "photo/10lavandinaAy2.png" },
