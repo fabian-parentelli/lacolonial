@@ -253,7 +253,7 @@ const productos = [
     // Jamon Cocido
     { id: 160, nombre: "Jamon Cocido Octava", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 6696, img: "photo/03jamonOctava.png" },
     { id: 161, nombre: "Jamon Cocido Luvianka", medida: 4, familia: "fiambres", cantidad: 1, precio: 6198.83, img: "photo/03jamonLuvianka.png" },
-    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 4755.24, img: "photo/03jamonSeoc.png" },
+    { id: 162, nombre: "Jamon Cocido Seoc", medida: 5, familia: "fiambres", cantidad: 1, precio: 4355.64, img: "photo/03jamonSeoc.png" },
     // {id: 163, nombre: "Jamon Cocido San Jose", medida: 5, familia: "fiambres", cantidad: 1, precio: 1181.82, img: "photo/03jamonSJ.png"},
     // {id: 164, nombre: "Jamon Cocido Paladini", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonPaladini.png"},
     // { id: 165, nombre: "Jamon Cocido Los Calvos", medida: 4, familia: "fiambres", cantidad: 1, precio: 2592.24, img: "photo/03jamon42.png" },
@@ -264,7 +264,7 @@ const productos = [
     // {id: 167, nombre: "Jamon Natural Boccati", medida: 6, familia: "fiambres", cantidad: 1, precio: 00, img: "photo/03jamonBocatti.png"},
 
     // Fiambres Pata
-    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4951.81, img: "photo/03pernilFox.png" },
+    { id: 168, nombre: "Pernil Fox", medida: 5.5, familia: "fiambres", cantidad: 1, precio: 4456.64, img: "photo/03pernilFox.png" },
     // {id: 169, nombre: "Pernil Livianka", medida: 5, familia: "fiambres", cantidad: 1, precio: 1237.97, img: "photo/03pernilLuvianka.png"},
 
     // Fiambre Paleta
@@ -373,12 +373,12 @@ const productos = [
 
     // Rallados
     { id: 230, nombre: "Rallado x35gr La Serenisima", medida: 10, familia: "quesos", cantidad: 1, precio: 538.80, img: "photo/04ralladoSere.png" },
-    { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 302.53, img: "photo/04ralladoQuesera.png" },
+    { id: 231, nombre: "Rallado x40gr La Quesera", medida: 20, familia: "quesos", cantidad: 1, precio: 357.79, img: "photo/04ralladoQuesera.png" },
 
     // Varios (parrillero, fiambrin, cheddar)
     { id: 232, nombre: "Parrillero Nonna Pía", medida: 1, familia: "quesos", cantidad: 1, precio: 8133.84, img: "photo/04parrillero.png" },
     { id: 233, nombre: "Fiambrin La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 7156.80, img: "photo/04fiambrin.png" },
-    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 6972.20, img: "photo/04cheddarSere.png" },
+    { id: 234, nombre: "Cheddar La Serenisima", medida: 2, familia: "quesos", cantidad: 1, precio: 7578.55, img: "photo/04cheddarSere.png" },
     { id: 235, nombre: "Cheddar Feteado Tonadita x10", medida: 1, familia: "quesos", cantidad: 1, precio: 1339.06, img: "photo/04cheddarTonadita.png" },
 
     // ****************************************************** Lacteos ****************************************************** //
